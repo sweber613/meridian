@@ -19,7 +19,7 @@ df['text'] = df['city'] + ', pop ' + df['population'].astype(str)
 
 us_cities = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/us-cities-top-1k.csv")
 
-airports = pd.read_csv("https://018gc-my.sharepoint.com/:x:/g/personal/patrick_dooley2_ecn_forces_gc_ca/ER-PLQF55JtDr-wYq5pzvDIB0gFuWh-zd9SRZiGF72NfmA")
+airports = pd.read_csv('https://raw.githubusercontent.com/sweber613/meridian/main/Airports%20with%20Header%20Row%20adapted%20from%20OpenFlights.org.csv')
 
 dataDict = {}
 layoutDict = {}
@@ -38,6 +38,13 @@ dataDict['Canadian cities'] = go.Scattermapbox(lon = df['lng'],
 dataDict['USA cities'] = go.Scattermapbox(lon = us_cities['lon'],
                            lat = us_cities['lat'],
                            text = us_cities['City'],
+                           mode = 'markers',
+                           marker_size = 10,
+                           marker_opacity = 1.0)
+
+dataDict['Airport'] = go.Scattermapbox(lon = airports['Longitude'],
+                           lat = airports['Latitude'],
+                           text = airports['Name'],
                            mode = 'markers',
                            marker_size = 10,
                            marker_opacity = 1.0)
