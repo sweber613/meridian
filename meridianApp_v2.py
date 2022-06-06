@@ -5,6 +5,8 @@ from dash.dependencies import Input, Output, State
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
+from urllib.request import urlopen
+import json
 
 px.set_mapbox_access_token('pk.eyJ1Ijoic3dlYmVyNjEzIiwiYSI6ImNsNDMwaGQ5NzE0N3AzZG9menk4cWljMWQifQ.jkgByHIsA8MOWgULENoDJA')
 
@@ -20,6 +22,12 @@ df['text'] = df['city'] + ', pop ' + df['population'].astype(str)
 us_cities = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/us-cities-top-1k.csv")
 
 airports = pd.read_csv('https://raw.githubusercontent.com/sweber613/meridian/main/Airports%20with%20Header%20Row%20adapted%20from%20OpenFlights.org.csv')
+
+with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
+    counties = json.load(response)
+
+unemp = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/fips-unemp-16.csv",
+                   dtype={"fips": str})
 
 dataDict = {}
 layoutDict = {}
@@ -49,6 +57,10 @@ dataDict['Airport'] = go.Scattermapbox(lon = airports['Longitude'],
                            marker_size = 10,
                            marker_opacity = 1.0)
 
+dataDict['Unemp'] = go.Choroplethmapbox(geojson=counties, locations=unemp['fips'], z=unemp['unemp'],
+                           colorscale="Viridis", marker_line_width=.5
+                          )
+
 
 layoutDict['Street'] = go.Layout(mapbox_style="open-street-map", height=800, margin={"r":0,"t":0,"l":0,"b":0})
 
@@ -67,8 +79,6 @@ layoutDict['Satellite'] = go.Layout(
                         height=800,
                         margin={"r":0,"t":0,"l":0,"b":0}
                     )
-
-
 
 fig = go.Figure(layout=layoutDict[defaultLayout], data=dataDict[defaultData])
 
