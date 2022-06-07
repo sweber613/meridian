@@ -2,6 +2,7 @@ import dash
 from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output, State, MATCH, ALL
+import dash_daq as daq
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
@@ -38,7 +39,7 @@ dataDict = {}
 layoutDict = {}
 
 defaultData = 'Canadian cities'
-defaultLayout = 'Satellite'
+defaultLayout = 'Street'
 
 dataDict['Canadian cities'] = dataLayer('scatter',
                                 go.Scattermapbox(lon = df['lng'],
@@ -47,7 +48,7 @@ dataDict['Canadian cities'] = dataLayer('scatter',
                                   mode = 'markers',
                                   marker_color = df['population'],
                                   marker_size = 20,
-                                  marker_opacity = 0.33)
+                                  marker_opacity = 1.0)
                               )
 
 dataDict['USA cities'] = dataLayer('scatter',
@@ -59,7 +60,7 @@ dataDict['USA cities'] = dataLayer('scatter',
                                marker_opacity = 1.0)
                            )
 
-dataDict['Airport'] = dataLayer('scatter',
+dataDict['Airports'] = dataLayer('scatter',
                         go.Scattermapbox(lon = airports['Longitude'],
                            lat = airports['Latitude'],
                            text = airports['Name'],
@@ -77,7 +78,7 @@ dataDict['Unemp'] = dataLayer('choropleth',
                       )
 
 
-layoutDict['Street'] = go.Layout(mapbox_style="open-street-map", height=800, margin={"r":0,"t":0,"l":0,"b":0})
+layoutDict['Street'] = go.Layout(mapbox_style="open-street-map", height=1000, mapbox = {'zoom' : 3, 'center_lat' : 65, 'center_lon' : -105}, margin={"r":0,"t":0,"l":0,"b":0})
 
 layoutDict['Satellite'] = go.Layout(
                         mapbox_style="white-bg",
@@ -91,7 +92,7 @@ layoutDict['Satellite'] = go.Layout(
                                 ]
                             }
                         ],
-                        height=800,
+                        height=1000,
                         margin={"r":0,"t":0,"l":0,"b":0}
                     )
 
@@ -129,15 +130,25 @@ app.layout = html.Div([
     Input('basemap-dropdown', 'value'),
     Input('data-checklist', 'value'),
     Input({'type' : 'marker-size', 'id' : ALL}, 'value'),
-    State({'type': 'marker-size', 'id': ALL}, 'id'),
+    State({'type' : 'marker-size', 'id' : ALL}, 'id'),
+    Input({'type' : 'marker-opacity', 'id' : ALL}, 'value'),
+    State({'type' : 'marker-opacity', 'id' : ALL}, 'id'),
+    Input({'type' : 'colour-picker', 'id' : ALL}, 'value'),
+    State({'type' : 'colour-picker', 'id' : ALL}, 'id'),
 )
-def updateMapFigure(basemap, datasets, values, ids):
+def updateMapFigure(basemap, datasets, sizeValues, sizeIds, opacityValues, opacityIds, colourValues, colourIds):
     mapData = []
-    print(values, ids)
+    print(colourValues, colourIds)
     for data in datasets:
-        for i, id in enumerate(ids):
+        for i, id in enumerate(sizeIds):
             if(id['id'] == data):
-                dataDict[data].graphObject.marker.size = values[i]
+                dataDict[data].graphObject.marker.size = sizeValues[i]
+        for i, id in enumerate(opacityIds):
+            if(id['id'] == data):
+                dataDict[data].graphObject.marker.opacity = opacityValues[i]
+        for i, id in enumerate(colourIds):
+            if(id['id'] == data):
+                dataDict[data].graphObject.marker.color = colourValues[i]['hex']
         mapData.append(dataDict[data].graphObject)
     return go.Figure(data = mapData, layout = layoutDict[basemap])
 
@@ -150,10 +161,24 @@ def defineDataTabs(datasets):
     for data in datasets:
         children = []
         if dataDict[data].type == 'scatter':
-            children.append(dcc.Slider(5,30,5,value=10,id={
-                'type' : 'marker-size',
-                'id' : data
-            }))
+            children.append(html.H3('Size'))
+            children.append(
+                dcc.Input(type='number', debounce=True, value=10, min=0, max=100, step=1, id={
+                    'type' : 'marker-size',
+                    'id' : data
+                }))
+            children.append(html.H3('Opacity'))
+            children.append(
+                dcc.Input(type='number', debounce=True, value=1, min=0, max=1, step=0.01,id={
+                    'type' : 'marker-opacity',
+                    'id' : data
+                }))
+            children.append(html.H3('Colour'))
+            children.append(
+                daq.ColorPicker(value=dict(hex='#119DFF'),id={
+                    'type' : 'colour-picker',
+                    'id' : data
+                }))
         tabs.append(dcc.Tab(value=data, label=data, children=children))
     return tabs
 

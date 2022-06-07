@@ -1,0 +1,1283 @@
+GeonameID,Place Name (UTF8) VarChar(200),Place ASCII Name,Latitude,Longitude,Feature Class,Feature Code,Country Code,Alternate Country Codes (comma-separated),Fipscode,2nd Level Admin Division,3rd Level Admin Division,4th Level Admin Division,Population,Elevation (metres),Digital Elevation Model (metres),Timezone (IANA ID),Modification Date
+5881639,100 Mile House,100 Mile House,51.64982,-121.28594,P,PPL,CA,,2,5941,5941005,,1980,,928,America/Vancouver,2019-11-26
+6943716,≈Åutselk'e,Lutselk'e,62.4056,-110.736,P,PPL,CA,,13,11995137,6105020,,303,,156,America/Yellowknife,2019-11-04
+5881791,Abbotsford,Abbotsford,49.05798,-122.25257,P,PPL,CA,,2,5909,5909052,,141397,,114,America/Vancouver,2021-12-05
+5882142,Acton Vale,Acton Vale,45.65007,-72.56582,P,PPL,CA,,10,16,48028,,7656,,90,America/Toronto,2021-11-12
+5882428,Adstock,Adstock,46.05007,-71.08235,P,PPL,CA,,10,12,31056,,2643,,390,America/Toronto,2016-06-22
+5882534,Agassiz,Agassiz,49.23298,-121.76926,P,PPL,CA,,2,5909,5909032,,4738,,17,America/Vancouver,2019-02-26
+5882640,Aguanish,Aguanish,50.21684,-62.08183,P,PPL,CA,,10,,,,245,,1,America/Toronto,2021-12-27
+5882799,Airdrie,Airdrie,51.30011,-114.03528,P,PPL,CA,,1,,,,24673,,1086,America/Edmonton,2008-04-11
+5882873,Ajax,Ajax,43.85012,-79.03288,P,PPL,CA,,8,,,,119677,,97,America/Toronto,2021-11-10
+5882953,Aklavik,Aklavik,68.21913,-135.01071,P,PPL,CA,,13,11995136,6101025,,590,,1,America/Yellowknife,2021-12-22
+5883074,Albanel,Albanel,48.88324,-72.44867,P,PPL,CA,,10,2,92030,,1087,,150,America/Toronto,2016-06-22
+5883166,Alberton,Alberton,46.81685,-64.06542,P,PPL,CA,,9,,,,1147,,10,America/Halifax,2008-04-11
+7669018,Aldergrove,Aldergrove,49.05801,-122.47087,P,PPL,CA,,2,5915,5915001,,12363,,102,America/Vancouver,2019-02-26
+12070754,Aldergrove East,Aldergrove East,49.05614,-122.45457,P,PPL,CA,,2,5909,5909052,,3491,,110,America/Vancouver,2020-05-30
+5883353,Aldouane,Aldouane,46.63343,-65.06544,P,PPL,CA,,4,,,,895,,38,America/Moncton,2019-08-12
+5884051,Alliston,Alliston,44.15011,-79.86635,P,PPL,CA,,8,3543,3543007,,18809,,223,America/Toronto,2019-08-08
+5884083,Alma,Alma,48.55009,-71.6491,P,PPL,CA,,10,2,93042,,29526,,90,America/Toronto,2016-06-22
+5884260,Altona,Altona,49.10469,-97.55961,P,PPL,CA,,3,,,,4212,,246,America/Winnipeg,2021-12-23
+5884467,Amherst,Amherst,45.83345,-64.19874,P,PPL,CA,,7,,,,9413,,20,America/Halifax,2021-12-27
+5884472,Amherstburg,Amherstburg,42.10009,-83.09985,P,PPL,CA,,8,,,,13910,,181,America/Toronto,2019-08-08
+5884497,Amigo Beach,Amigo Beach,44.6919,-79.39317,P,PPL,CA,,8,3543,3543015,,1545,,222,America/Toronto,2020-05-30
+5884588,Amos,Amos,48.56688,-78.11624,P,PPL,CA,,10,8,88055,,17918,,298,America/Toronto,2019-03-18
+6943488,Amqui,Amqui,48.46382,-67.43134,P,PPL,CA,,10,1,7047,,6261,,161,America/Toronto,2016-06-22
+8285452,Ancaster,Ancaster,43.21806,-79.98716,P,PPL,CA,,8,,,,40557,,253,America/Toronto,2021-12-21
+5885150,Ange-Gardien,Ange-Gardien,45.35008,-72.93244,P,PPL,CA,,10,16,55008,,2420,,71,America/Toronto,2016-06-22
+5886139,Anten Mills,Anten Mills,44.4815,-79.81722,P,PPL,CA,,8,3543,3543009,,800,20,233,America/Toronto,2019-02-26
+5886182,Antigonish,Antigonish,45.61685,-61.99858,P,PPL,CA,,7,,,,5003,,17,America/Halifax,2008-04-11
+5886586,Arbutus Ridge,Arbutus Ridge,49.24966,-123.16934,P,PPL,CA,,2,,,,1063,,33,America/Vancouver,2019-08-11
+5886799,Arelee,Arelee,52.25011,-107.50129,P,PPL,CA,,11,,,,10,,544,America/Regina,2019-08-08
+5887048,Armstrong,Armstrong,50.44979,-119.20235,P,PPL,CA,,2,5937,5937028,,4275,,359,America/Vancouver,2019-02-26
+5887214,Arnprior,Arnprior,45.43341,-76.34939,P,PPL,CA,,8,,,,8795,,72,America/Toronto,2021-12-23
+5887470,Asbestos,Asbestos,45.76678,-71.9324,P,PPL,CA,,10,5,40043,,7190,,252,America/Toronto,2016-06-22
+5887531,Ashcroft,Ashcroft,50.72372,-121.28207,P,PPL,CA,,2,5933,5933019,,1558,,307,America/Vancouver,2021-12-27
+5887630,Ashton,Ashton,45.15011,-76.03267,P,PPL,CA,,8,3509,3509024,,200,,146,America/Toronto,2019-02-26
+5887798,Assiniboia,Assiniboia,49.63336,-105.98446,P,PPL,CA,,11,,,,2389,,743,America/Regina,2021-12-23
+5887916,Athabasca,Athabasca,54.71687,-113.28537,P,PPL,CA,,1,,,,2965,,534,America/Edmonton,2021-12-23
+5887942,Athens,Athens,44.63341,-75.94936,P,PPL,CA,,8,,,,982,,119,America/Toronto,2019-08-12
+5888001,Atikokan,Atikokan,48.75667,-91.62409,P,PPL,CA,,8,3559,3559001,,2753,,390,America/Atikokan,2021-12-25
+5888118,Attawapiskat,Attawapiskat,52.92774,-82.41669,P,PPL,CA,,8,,,,1501,,5,America/Toronto,2019-08-10
+5888377,Aurora,Aurora,44.00011,-79.46632,P,PPL,CA,,8,,,,55445,,266,America/Toronto,2019-09-05
+5888716,Aylmer,Aylmer,42.76679,-80.98302,P,PPL,CA,,8,,,,7492,,229,America/Toronto,2021-12-23
+5888759,Azilda,Azilda,46.55008,-81.09975,P,PPL,CA,,8,,,,4663,,270,America/Toronto,2019-08-10
+5897209,BÈcancour,Becancour,46.34106,-72.43224,P,PPL,CA,,10,17,38010,,11134,,9,America/Toronto,2019-08-11
+12076641,Baie Ste. Anne,Baie Ste. Anne,47.05231,-64.95355,P,PPL,CA,,4,1309,,,1319,,5,America/Moncton,2019-09-04
+5889745,Baie-Comeau,Baie-Comeau,49.21679,-68.14894,P,PPL,CA,,10,9,96020,,21536,,76,America/Toronto,2021-11-11
+5890542,Baie-D'UrfÈ,Baie-D'Urfe,45.41397,-73.91586,P,PPL,CA,,10,6,66112,,3902,,40,America/Toronto,2016-06-22
+6639618,Baie-Sainte-Catherine,Baie-Sainte-Catherine,48.10617,-69.72834,P,PPL,CA,,10,3,15065,,200,,22,America/Toronto,2016-06-22
+6690232,Baie-Saint-Paul,Baie-Saint-Paul,47.44109,-70.49858,P,PPL,CA,,10,3,16013,,7146,,7,America/Toronto,2021-12-21
+5891492,Baie-TrinitÈ,Baie-Trinite,49.41679,-67.29887,P,PPL,CA,,10,9,96005,,419,,-9999,America/Toronto,2016-06-22
+7669006,Baker Trails,Baker Trails,49.08668,-121.93743,P,PPL,CA,,2,,,,635,,53,America/Vancouver,2011-02-19
+5892205,Ballantrae,Ballantrae,44.03342,-79.2996,P,PPL,CA,,8,,,,3223,,338,America/Toronto,2019-08-10
+5892444,Bamfield,Bamfield,48.83306,-125.14136,P,PPL,CA,,2,5923,,,251,,28,America/Vancouver,2013-10-27
+5892510,Bancroft,Bancroft,45.05752,-77.85702,P,PPL,CA,,8,,,,3838,,330,America/Toronto,2008-02-01
+5892532,Banff,Banff,51.17622,-115.56982,P,PPL,CA,,1,,,,7502,,1388,America/Edmonton,2021-08-01
+5893094,Barkmere,Barkmere,46.00009,-74.58254,P,PPL,CA,,10,15,78050,,87,,216,America/Toronto,2016-06-22
+5894033,Barraute,Barraute,48.43349,-77.63279,P,PPL,CA,,10,8,88022,,1180,,301,America/Toronto,2016-06-22
+5894164,Barrhead,Barrhead,54.13345,-114.40211,P,PPL,CA,,1,,,,4579,,656,America/Edmonton,2021-12-22
+5894188,BarriËre,Barriere,51.18308,-120.1192,P,PPL,CA,,2,5933,5933074,,1283,,399,America/Vancouver,2019-08-11
+5894171,Barrie,Barrie,44.40011,-79.66634,P,PPL,CA,,8,,,,141434,,269,America/Toronto,2021-12-21
+5894642,Bassano,Bassano,50.78998,-112.46805,P,PPL,CA,,1,4802039,,,1206,,792,America/Edmonton,2021-12-22
+5894924,Bath,Bath,44.18342,-76.78273,P,PPL,CA,,8,3511,3511005,,1180,,79,America/Toronto,2019-08-08
+6696259,Bathurst,Bathurst,47.61814,-65.65112,P,PPL,CA,,4,,,,11897,,6,America/Moncton,2021-11-11
+5895424,Bay Roberts,Bay Roberts,47.59989,-53.26478,P,PPL,CA,,5,,,,6012,,9,America/St_Johns,2021-12-21
+5895446,Bay St. George South,Bay St. George South,48.22781,-58.84162,P,PPL,CA,,5,,,,1103,,25,America/St_Johns,2019-08-11
+5895650,Beaconsfield,Beaconsfield,45.43341,-73.86586,P,PPL,CA,,10,6,66107,,19194,,33,America/Toronto,2019-03-18
+6295855,Beauceville,Beauceville,46.21785,-70.77873,P,PPL,CA,,10,12,27028,,6354,229,174,America/Toronto,2021-12-22
+5896495,Beauharnois,Beauharnois,45.31341,-73.8725,P,PPL,CA,,10,16,70022,,11918,,27,America/Toronto,2019-03-18
+5896522,Beaumont,Beaumont,53.35013,-113.41871,P,PPL,CA,,1,,,,7366,,716,America/Edmonton,2008-04-11
+6325479,BeauprÈ,Beaupre,47.04428,-70.89529,P,PPL,CA,,10,3,21025,,2803,,21,America/Toronto,2019-02-26
+5896549,Beausejour,Beausejour,50.0622,-96.51669,P,PPL,CA,,3,,,,3126,,248,America/Winnipeg,2021-12-23
+5896969,Beaverlodge,Beaverlodge,55.21664,-119.43605,P,PPL,CA,,1,,,,2219,,723,America/Edmonton,2008-04-11
+5897323,Bedford,Bedford,45.11678,-72.98244,P,PPL,CA,,10,16,46035,,2684,,57,America/Toronto,2019-02-26
+11837933,Behchok«´ÃÄ,Behchoko,62.8025,-116.04639,P,PPL,CA,,13,11995137,6103031,,1874,7,156,America/Yellowknife,2021-12-22
+7669005,Bell Acres,Bell Acres,49.07791,-121.86756,P,PPL,CA,,2,,,,582,,93,America/Vancouver,2011-02-19
+5897874,Belleterre,Belleterre,47.38344,-78.69961,P,PPL,CA,,10,8,85065,,350,,311,America/Toronto,2016-06-22
+5897884,Belleville,Belleville,44.16682,-77.38277,P,PPL,CA,,8,3512,,,50716,,93,America/Toronto,2021-12-21
+5898070,Bells Corners,Bells Corners,45.31588,-75.83012,P,PPL,CA,,8,3506,3506008,,9272,,96,America/Toronto,2021-12-25
+5898124,Belmont,Belmont,42.88339,-81.08303,P,PPL,CA,,8,,,,1140,,257,America/Toronto,2019-08-09
+5898138,Beloeil,Beloeil,45.56839,-73.20568,P,PPL,CA,,10,16,57040,,18927,,13,America/Toronto,2019-03-18
+5898524,Benson,Benson,49.45006,-103.01766,P,PPL,CA,,11,,,,116,,593,America/Regina,2019-08-08
+5899017,Berthierville,Berthierville,46.08336,-73.18245,P,PPL,CA,,10,14,52035,,4411,,9,America/Toronto,2016-06-22
+5899061,Berwick,Berwick,45.05015,-64.73208,P,PPL,CA,,7,,,,2509,,33,America/Halifax,2021-12-26
+5899156,Bethany,Bethany,44.18342,-78.56625,P,PPL,CA,,8,,,,500,,272,America/Toronto,2011-05-18
+5899982,Biggar,Biggar,52.05978,-107.98844,P,PPL,CA,,11,,,,2068,,665,America/Regina,2020-05-30
+5901886,Birsay,Birsay,51.10007,-106.98458,P,PPL,CA,,11,,,,46,,595,America/Regina,2019-08-08
+5902458,Black Diamond,Black Diamond,50.68771,-114.23241,P,PPL,CA,,1,4806011,,,3663,,1180,America/Edmonton,2020-05-30
+5902599,Blackfalds,Blackfalds,52.38342,-113.7853,P,PPL,CA,,1,,,,9328,,876,America/Edmonton,2021-12-22
+5903356,Blackstock,Blackstock,44.10012,-78.81626,P,PPL,CA,,8,,,,781,,302,America/Toronto,2019-08-12
+5903510,Blainville,Blainville,45.66678,-73.88249,P,PPL,CA,,10,15,73015,,46493,,73,America/Toronto,2019-02-26
+5903593,Blaketown,Blaketown,47.4832,-53.5648,P,PPL,CA,,5,,,,605,,97,America/St_Johns,2019-08-12
+5903997,Bloomfield,Bloomfield,48.3832,-53.8981,P,PPL,CA,,5,,,,523,,1,America/St_Johns,2019-08-12
+5904501,Bluewater,Bluewater,43.46679,-81.59977,P,PPL,CA,,8,,,,7044,,249,America/Toronto,2013-05-05
+5905132,Boisbriand,Boisbriand,45.61678,-73.83249,P,PPL,CA,,10,15,73005,,26483,,30,America/Toronto,2016-06-22
+5905152,Bois-des-Filion,Bois-des-Filion,45.66678,-73.74918,P,PPL,CA,,10,13,65005,,8383,,17,America/Toronto,2016-06-22
+5905191,Boissevain,Boissevain,49.23062,-100.05586,P,PPL,CA,,3,,,,1656,,514,America/Winnipeg,2021-12-23
+5905348,Bon Accord,Bon Accord,53.83345,-113.41872,P,PPL,CA,,1,,,,1529,,700,America/Edmonton,2021-12-23
+6943825,Bonaventure,Bonaventure,48.04573,-65.49259,P,PPL,CA,,10,11,5045,,2673,,3,America/Toronto,2016-06-22
+5905393,Bonavista,Bonavista,48.64989,-53.11474,P,PPL,CA,,5,,,,3448,,-2,America/St_Johns,2021-12-22
+5905616,Bonnyville,Bonnyville,54.26684,-110.73505,P,PPL,CA,,1,,,,5975,,555,America/Edmonton,2021-12-23
+5906129,Bothwell,Bothwell,42.63339,-81.86648,P,PPL,CA,,8,,,,856,,210,America/Toronto,2019-08-12
+5906229,Botwood,Botwood,49.14994,-55.34819,P,PPL,CA,,5,,,,2875,,17,America/St_Johns,2021-12-22
+5906267,Boucherville,Boucherville,45.59104,-73.43605,P,PPL,CA,,10,16,58033,,39062,,16,America/Toronto,2016-06-22
+5906281,Bouctouche,Bouctouche,46.46844,-64.73905,P,PPL,CA,,4,,,,2361,,27,America/Moncton,2021-12-26
+5906634,Boutiliers Point,Boutiliers Point,44.66569,-63.95055,P,PPL,CA,,7,,,,765,,47,America/Halifax,2019-08-12
+5906757,Bow Island,Bow Island,49.86676,-111.36843,P,PPL,CA,,1,,,,2025,,795,America/Edmonton,2013-12-11
+5906690,Bowen Island,Bowen Island,49.3847,-123.33622,P,PPL,CA,,2,5915,5915062,,3551,,30,America/Vancouver,2019-02-26
+5907092,Bracebridge,Bracebridge,45.03341,-79.31633,P,PPL,CA,,8,3544,,,16010,,240,America/Toronto,2021-12-25
+8051142,Bragg Creek,Bragg Creek,50.95129,-114.56028,P,PPL,CA,,1,,,,550,,1299,America/Edmonton,2011-10-25
+5907364,Brampton,Brampton,43.68341,-79.76633,P,PPL,CA,,8,,,,593638,,221,America/Toronto,2021-12-21
+5907896,Brandon,Brandon,49.84692,-99.95306,P,PPL,CA,,3,,,,48859,,383,America/Winnipeg,2021-11-11
+5907983,Brant,Brant,43.1334,-80.34967,P,PPL,CA,,8,,,,34415,,245,America/Toronto,2010-09-22
+5907990,Brantford,Brantford,43.1334,-80.26636,P,PPL,CA,,8,3526,,,87759,,200,America/Toronto,2019-08-29
+12076659,Brantville,Brantville,47.36922,-64.97122,P,PPL,CA,,4,1309,,,903,,8,America/Moncton,2019-08-12
+5908723,Bridgewater,Bridgewater,44.37856,-64.51882,P,PPL,CA,,7,,,,8532,,6,America/Halifax,2021-12-27
+5909294,Brockville,Brockville,44.59132,-75.68705,P,PPL,CA,,8,,,,23886,,93,America/Toronto,2019-09-05
+5909403,Bromont,Bromont,45.31678,-72.64912,P,PPL,CA,,10,16,46078,,3895,,126,America/Toronto,2019-08-08
+5909514,Brooks,Brooks,50.58341,-111.88509,P,PPL,CA,,1,,,,14451,,748,America/Edmonton,2021-12-21
+5909629,Brossard,Brossard,45.45008,-73.46583,P,PPL,CA,,10,16,58007,,69575,,17,America/Toronto,2019-03-18
+5909969,Brownsburg-Chatham,Brownsburg-Chatham,45.68342,-74.4159,P,PPL,CA,,10,15,76043,,6664,,157,America/Toronto,2016-06-22
+5910322,Brussels,Brussels,43.74316,-81.24998,P,PPL,CA,,8,3540,,,1158,,342,America/Toronto,2021-12-22
+6942645,Buckingham,Buckingham,45.58563,-75.4208,P,PPL,CA,,10,7,81017,,16685,,124,America/Toronto,2019-08-08
+5911433,Burford,Burford,43.10292,-80.42869,P,PPL,CA,,8,3529,,,1615,,257,America/Toronto,2019-08-11
+5911440,Burgeo,Burgeo,47.61668,-57.61516,P,PPL,CA,,5,,,,1307,,1,America/St_Johns,2021-12-22
+5911592,Burlington,Burlington,43.38621,-79.83713,P,PPL,CA,,8,,,,183314,,165,America/Toronto,2021-12-05
+5911745,Burns Lake,Burns Lake,54.22972,-125.76084,P,PPL,CA,,2,5951,5951022,,1779,,724,America/Vancouver,2021-12-27
+5928488,CÙte-Saint-Luc,Cote-Saint-Luc,45.46536,-73.66585,P,PPL,CA,,10,6,66058,,31395,,47,America/Toronto,2016-06-22
+6944109,Cabano,Cabano,47.68065,-68.8781,P,PPL,CA,,10,1,13073,,3199,,168,America/Toronto,2016-06-22
+5913035,Cache Bay,Cache Bay,46.36679,-79.98297,P,PPL,CA,,8,,,,641,,198,America/Toronto,2019-08-12
+5913049,Cache Creek,Cache Creek,50.81011,-121.3246,P,PPL,CA,,2,5933,5933024,,1061,,464,America/Vancouver,2019-02-26
+6695808,Cacouna,Cacouna,47.91657,-69.50054,P,PPL,CA,,10,1,12057,,1939,,47,America/Toronto,2016-06-22
+5913174,Caesarea,Caesarea,44.15012,-78.83286,P,PPL,CA,,8,,,,823,,269,America/Toronto,2019-08-12
+5913414,Caledon,Caledon,43.86544,-79.99322,P,PPL,CA,,8,3521,,,66502,,437,America/Toronto,2021-12-25
+5913490,Calgary,Calgary,51.05011,-114.08529,P,PPL,CA,,1,,,,1019942,1048,1042,America/Edmonton,2019-09-05
+5913601,Calmar,Calmar,53.26683,-113.81874,P,PPL,CA,,1,,,,2228,,725,America/Edmonton,2021-12-22
+5913628,Calumet,Calumet,45.65148,-74.63536,P,PPL,CA,,10,,,,550,,60,America/Toronto,2019-08-13
+5913695,Cambridge,Cambridge,43.3601,-80.31269,P,PPL,CA,,8,,,,129920,,272,America/Toronto,2021-12-21
+5913934,Camlachie,Camlachie,43.03596,-82.1616,P,PPL,CA,,8,,,,7506,,200,America/Toronto,2011-11-27
+5914132,Campbell River,Campbell River,50.01634,-125.24459,P,PPL,CA,,2,5924,5924034,,33430,,65,America/Vancouver,2019-02-26
+6696258,Campbellton,Campbellton,48.00751,-66.67272,P,PPL,CA,,4,11,,,6883,,9,America/Moncton,2021-12-27
+5914273,Camperville,Camperville,51.98832,-100.14365,P,PPL,CA,,3,,,,820,,256,America/Winnipeg,2019-08-12
+5914653,Camrose,Camrose,53.01684,-112.83525,P,PPL,CA,,1,,,,18742,,739,America/Edmonton,2021-11-11
+5914826,Candiac,Candiac,45.38338,-73.51587,P,PPL,CA,,10,16,67020,,15947,,25,America/Toronto,2016-06-22
+5914843,Cando,Cando,52.38342,-108.23467,P,PPL,CA,,11,,,,66,,690,America/Regina,2019-08-08
+5914894,Canmore,Canmore,51.08335,-115.35206,P,PPL,CA,,1,,,,13992,1375,1309,America/Edmonton,2021-12-21
+5915098,Canora,Canora,51.63328,-102.43425,P,PPL,CA,,11,,,,2055,,489,America/Regina,2008-04-11
+5915148,Cantley,Cantley,45.5668,-75.78265,P,PPL,CA,,10,7,82020,,10412,,162,America/Toronto,2018-08-09
+5915359,Cap-Chat,Cap-Chat,49.09736,-66.68514,P,PPL,CA,,10,11,4047,,1466,,19,America/Toronto,2019-11-22
+5916567,Capreol,Capreol,46.70626,-80.92109,P,PPL,CA,,8,3553,,,3260,,308,America/Toronto,2021-12-23
+7535673,Cap-SantÈ,Cap-Sante,46.67159,-71.78812,P,PPL,CA,,10,3,34030,,2666,,38,America/Toronto,2016-06-22
+5916706,Carberry,Carberry,49.86893,-99.36021,P,PPL,CA,,3,,,,1738,,385,America/Winnipeg,2021-12-23
+5916722,Carbonear,Carbonear,47.73919,-53.2272,P,PPL,CA,,5,,,,4838,,16,America/St_Johns,2021-12-22
+5916754,Carcross,Carcross,60.16609,-134.70367,P,PPL,CA,,12,,,,446,659,708,America/Whitehorse,2008-04-11
+5916821,Cardston,Cardston,49.19998,-113.3019,P,PPL,CA,,1,,,,3585,,1136,America/Edmonton,2021-12-23
+5917117,Carignan,Carignan,45.45008,-73.29916,P,PPL,CA,,10,16,57005,,7426,,10,America/Toronto,2019-02-26
+5917158,Carleton Place,Carleton Place,45.13341,-76.14938,P,PPL,CA,,8,,,,11901,,144,America/Toronto,2021-12-25
+6693777,Carleton-sur-Mer,Carleton-sur-Mer,48.10749,-66.128,P,PPL,CA,,10,11,6013,,4077,,7,America/Toronto,2018-02-24
+12076658,Carlisle Road,Carlisle Road,45.98808,-66.75876,P,PPL,CA,,4,1310,,,924,,106,America/Moncton,2019-08-12
+5917262,Carlyle,Carlyle,49.63334,-102.26765,P,PPL,CA,,11,,,,1508,,630,America/Regina,2021-12-23
+5917275,Carman,Carman,49.4992,-98.00156,P,PPL,CA,,3,,,,3027,,264,America/Winnipeg,2021-12-23
+5917349,Carnduff,Carnduff,49.17379,-101.79633,P,PPL,CA,,11,,,,950,,529,America/Regina,2020-05-30
+5917430,Caronport,Caronport,50.45006,-105.81787,P,PPL,CA,,11,,,,972,,559,America/Regina,2008-04-11
+5917605,Carrot River,Carrot River,53.28337,-103.58423,P,PPL,CA,,11,,,,950,,358,America/Regina,2008-04-11
+5917688,Carstairs,Carstairs,51.56681,-114.102,P,PPL,CA,,1,,,,4077,,1059,America/Edmonton,2021-12-23
+5917771,Cartier,Cartier,46.70008,-81.54978,P,PPL,CA,,8,,,,241,,423,America/Toronto,2021-12-23
+5918021,Casselman,Casselman,45.3168,-75.0826,P,PPL,CA,,8,,,,3074,,64,America/Toronto,2021-12-23
+5918040,Cassidy,Cassidy,49.04963,-123.886,P,PPL,CA,,2,5921,,,995,,39,America/Vancouver,2019-08-11
+5918118,Castlegar,Castlegar,49.32317,-117.65831,P,PPL,CA,,2,5903,5903045,,8715,,441,America/Vancouver,2019-07-04
+5918243,Catalina,Catalina,48.51659,-53.08135,P,PPL,CA,,5,,,,845,,16,America/St_Johns,2021-12-22
+5918767,Cedar,Cedar,49.11633,-123.8527,P,PPL,CA,,2,,,,2836,,32,America/Vancouver,2019-08-11
+5920433,Ch‚teauguay,Chateauguay,45.38338,-73.74919,P,PPL,CA,,10,16,67050,,42786,,19,America/Toronto,2019-02-26
+6325486,Ch‚teau-Richer,Chateau-Richer,46.96031,-71.03219,P,PPL,CA,,10,3,21035,,3563,,6,America/Toronto,2016-06-22
+5919566,Chambly,Chambly,45.45008,-73.28246,P,PPL,CA,,10,16,57005,,22608,,4,America/Toronto,2019-02-26
+5919569,Chambord,Chambord,48.43339,-72.06583,P,PPL,CA,,10,2,91020,,1773,,141,America/Toronto,2016-04-13
+6943811,Chandler,Chandler,48.34935,-64.67926,P,PPL,CA,,10,11,2028,,7914,,17,America/Toronto,2016-06-22
+5919815,Channel-Port aux Basques,Channel-Port aux Basques,47.57286,-59.13808,P,PPL,CA,,5,,,,4220,,5,America/St_Johns,2018-02-13
+5919850,Chapais,Chapais,49.78344,-74.84919,P,PPL,CA,,10,10,99020,,1824,,399,America/Toronto,2016-06-22
+5920089,Charlemagne,Charlemagne,45.71678,-73.48247,P,PPL,CA,,10,14,60005,,5594,,7,America/Toronto,2019-02-26
+5920381,Chase,Chase,50.8165,-119.68571,P,PPL,CA,,2,5933,5933054,,2471,,366,America/Vancouver,2019-02-26
+5920457,Chatham,Chatham,42.41224,-82.18494,P,PPL,CA,,8,3536,,,43550,,183,America/Toronto,2019-08-23
+5920648,Chelmsford,Chelmsford,46.58338,-81.19976,P,PPL,CA,,8,,,,500,,267,America/Toronto,2010-08-23
+5920668,Chemainus,Chemainus,48.91633,-123.71937,P,PPL,CA,,2,5919,5919008,,3021,,40,America/Vancouver,2019-08-08
+12076679,Cherry Point,Cherry Point,48.71216,-123.55872,P,PPL,CA,,2,5919,,,582,,24,America/Vancouver,2019-08-13
+5920996,Chertsey,Chertsey,46.07109,-73.89095,P,PPL,CA,,10,14,62047,,4836,,251,America/Toronto,2016-06-22
+5921028,Chester,Chester,44.54225,-64.23891,P,PPL,CA,,7,,,,2348,,9,America/Halifax,2021-12-27
+5921060,Chestermere,Chestermere,51.03341,-113.81867,P,PPL,CA,,1,,,,3590,,1022,America/Edmonton,2021-12-23
+5921091,Chetwynd,Chetwynd,55.69988,-121.63627,P,PPL,CA,,2,5955,5955010,,2587,615,653,America/Dawson_Creek,2019-02-26
+5921147,Chibougamau,Chibougamau,49.91684,-74.36586,P,PPL,CA,,10,10,99025,,7563,,407,America/Toronto,2018-02-24
+5922111,Churchill,Churchill,58.76811,-94.16674,P,PPL,CA,,3,,,,899,,9,America/Winnipeg,2021-12-23
+5922281,Chute-aux-Outardes,Chute-aux-Outardes,49.11679,-68.39896,P,PPL,CA,,10,9,96035,,2000,,31,America/Toronto,2016-06-22
+11822501,Clair,Clair,47.25407,-68.60589,P,PPL,CA,,4,1313,,,781,,166,America/Moncton,2018-03-06
+5923101,Clarence-Rockland,Clarence-Rockland,45.5501,-75.29101,P,PPL,CA,,8,,,,20790,,55,America/Toronto,2010-09-22
+5923119,Clarenville-Shoal Harbour,Clarenville-Shoal Harbour,48.1805,-53.96982,P,PPL,CA,,5,,,,3478,,1,America/St_Johns,2008-04-11
+5923125,Claresholm,Claresholm,50.03332,-113.58524,P,PPL,CA,,1,,,,3780,,1034,America/Edmonton,2021-12-23
+5924417,Coaldale,Coaldale,49.7167,-112.61854,P,PPL,CA,,1,,,,8215,,865,America/Edmonton,2021-12-23
+5924428,Coalhurst,Coalhurst,49.7464,-112.93246,P,PPL,CA,,1,,,,2668,,933,America/Edmonton,2021-12-23
+5924500,Coaticook,Coaticook,45.13339,-71.79907,P,PPL,CA,,10,5,44037,,7021,,289,America/Toronto,2016-06-22
+5924579,Cobourg,Cobourg,43.95977,-78.16515,P,PPL,CA,,8,,,,18099,,82,America/Toronto,2013-11-02
+5924618,Cochrane,Cochrane,51.18341,-114.46871,P,PPL,CA,,1,,,,25853,,1143,America/Edmonton,2021-11-11
+5925024,Cold Lake,Cold Lake,54.46525,-110.18154,P,PPL,CA,,1,,,,11595,,548,America/Edmonton,2013-09-22
+7280471,ColeRidge Estates,ColeRidge Estates,44.6796,-63.46509,P,PPL,CA,,7,,,,200,30,40,America/Halifax,2010-03-05
+5925975,Collingwood,Collingwood,44.4834,-80.21638,P,PPL,CA,,8,,,,21793,,194,America/Toronto,2021-11-12
+5926268,Colwood,Colwood,48.43293,-123.48591,P,PPL,CA,,2,5917,5917041,,16859,,95,America/Vancouver,2021-12-21
+5926511,Conception Bay South,Conception Bay South,47.49989,-52.99806,P,PPL,CA,,5,,,,17087,,48,America/St_Johns,2008-04-11
+5926526,Concord,Concord,43.80011,-79.48291,P,PPL,CA,,8,,,,8255,,188,America/Toronto,2012-03-01
+5926968,Constance Bay,Constance Bay,45.50011,-76.08267,P,PPL,CA,,8,,,,2314,,61,America/Toronto,2019-08-10
+5927024,Contrecoeur,Contrecoeur,45.85008,-73.23245,P,PPL,CA,,10,16,59035,,3587,,26,America/Toronto,2019-02-26
+5927234,Cookshire,Cookshire,45.41536,-71.62962,P,PPL,CA,,10,,,,1021,,237,America/Toronto,2019-08-10
+5927235,Cookshire-Eaton,Cookshire-Eaton,45.41675,-71.6324,P,PPL,CA,,10,5,41038,,1568,,239,America/Toronto,2016-06-22
+5927277,Cookstown,Cookstown,44.18341,-79.69964,P,PPL,CA,,8,,,,1214,,237,America/Toronto,2019-08-09
+5927308,Coombs,Coombs,49.29963,-124.41946,P,PPL,CA,,2,,,,1612,,118,America/Vancouver,2019-08-11
+5927969,Corner Brook,Corner Brook,48.95001,-57.95202,P,PPL,CA,,5,,,,18693,,17,America/St_Johns,2013-08-10
+5928065,Cornwall,Cornwall,45.01809,-74.72815,P,PPL,CA,,8,,,,48821,,59,America/Toronto,2009-07-31
+5928063,Cornwall,Cornwall,46.22652,-63.21809,P,PPL,CA,,9,,,,5348,,15,America/Halifax,2021-12-27
+5928202,Corunna,Corunna,42.88338,-82.43313,P,PPL,CA,,8,,,,5686,,192,America/Toronto,2020-11-01
+5928337,Coteau-du-Lac,Coteau-du-Lac,45.30008,-74.18253,P,PPL,CA,,10,16,71040,,7044,,46,America/Toronto,2019-08-13
+5930890,Courtenay,Courtenay,49.68657,-124.9936,P,PPL,CA,,2,5926,5926010,,25599,,13,America/Vancouver,2021-12-21
+5930953,Coutts,Coutts,49.00201,-111.96304,P,PPL,CA,,1,,,,305,,1076,America/Edmonton,2007-08-21
+5931082,Cow Bay,Cow Bay,44.63141,-63.43218,P,PPL,CA,,7,,,,1257,,41,America/Halifax,2019-08-11
+5931074,Cowansville,Cowansville,45.20008,-72.74913,P,PPL,CA,,10,16,46080,,10887,,117,America/Toronto,2017-02-01
+7870334,Cowichan Bay,Cowichan Bay,48.73366,-123.61739,P,PPL,CA,,2,,,,2394,,92,America/Vancouver,2019-08-08
+5931427,Crabtree,Crabtree,45.96677,-73.46586,P,PPL,CA,,10,14,61013,,2248,,36,America/Toronto,2019-02-26
+5931789,Cranberry Portage,Cranberry Portage,54.58623,-101.37797,P,PPL,CA,,3,,,,771,,305,America/Winnipeg,2019-08-12
+5931800,Cranbrook,Cranbrook,49.49991,-115.76879,P,PPL,CA,,2,5901,5901022,,20047,,949,America/Edmonton,2021-12-21
+5932311,Creston,Creston,49.09987,-116.50211,P,PPL,CA,,2,5903,5903004,,5351,,647,America/Creston,2021-12-27
+7302252,Crooks Lake Lodge,Crooks Lake Lodge,52.65577,-59.43775,P,PPL,CA,,5,,,,8,,464,America/Goose_Bay,2010-05-31
+12070757,Cross Lake 19A,Cross Lake 19A,54.65135,-97.76848,P,PPL,CA,,3,,,,2018,,213,America/Winnipeg,2019-08-09
+5933070,Crossfield,Crossfield,51.43341,-114.03528,P,PPL,CA,,1,,,,2512,,1117,America/Edmonton,2008-04-11
+5933885,Cumberland,Cumberland,49.61634,-125.03613,P,PPL,CA,,2,5926,5926014,,3753,,165,America/Vancouver,2021-12-27
+5934709,Dalmeny,Dalmeny,52.34077,-106.7712,P,PPL,CA,,11,,,,1504,,524,America/Regina,2020-05-31
+5935042,Danville,Danville,45.78337,-72.0158,P,PPL,CA,,10,5,40047,,1761,,160,America/Toronto,2016-06-22
+5935277,Dartmouth,Dartmouth,44.67134,-63.57719,P,PPL,CA,,7,,,,101343,,35,America/Halifax,2010-09-22
+5935303,Dashwood,Dashwood,49.36633,-124.51947,P,PPL,CA,,2,,,,982,,74,America/Vancouver,2019-08-12
+5935341,Dauphin,Dauphin,51.14941,-100.05023,P,PPL,CA,,3,,,,8457,,294,America/Winnipeg,2021-11-12
+5935388,Daveluyville,Daveluyville,46.20006,-72.13239,P,PPL,CA,,10,17,39155,,1318,,88,America/Toronto,2016-02-23
+5935486,Davidson,Davidson,51.26676,-105.98449,P,PPL,CA,,11,,,,967,,614,America/Regina,2008-04-11
+6943713,Dawson City,Dawson City,64.06013,-139.43328,P,PPL,CA,,12,,,,1375,370,425,America/Dawson,2021-12-21
+5935804,Dawson Creek,Dawson Creek,55.75984,-120.2403,P,PPL,CA,,2,5955,5955014,,10802,,663,America/Dawson_Creek,2019-02-26
+5937073,Deep River,Deep River,46.10012,-77.49949,P,PPL,CA,,8,,,,4296,,146,America/Toronto,2008-04-11
+5937252,Deer Lake,Deer Lake,49.16671,-57.43163,P,PPL,CA,,5,,,,4602,,34,America/St_Johns,2019-08-08
+6943714,Deline,Deline,65.19844,-123.40565,P,PPL,CA,,13,11995138,6102003,,533,,168,America/Yellowknife,2019-02-26
+5937577,Deloraine,Deloraine,49.19082,-100.49477,P,PPL,CA,,3,,,,1068,,503,America/Winnipeg,2008-04-11
+5937612,Delson,Delson,45.36678,-73.54917,P,PPL,CA,,10,16,67025,,7322,,27,America/Toronto,2016-06-22
+5937615,Delta,Delta,49.14399,-122.9068,P,PPL,CA,,2,5915,5915011,,101668,,81,America/Vancouver,2019-02-26
+5937819,Denman Island,Denman Island,49.53294,-124.8195,P,PPL,CA,,2,,,,1020,,8,America/Vancouver,2019-12-17
+12076644,Denman Island Trust Area,Denman Island Trust Area,49.55189,-124.79881,P,PPL,CA,,2,5926,,,1165,,45,America/Vancouver,2019-08-11
+5938187,Deseronto,Deseronto,44.20012,-77.04944,P,PPL,CA,,8,,,,1897,,96,America/Toronto,2008-04-11
+5938513,Deux-Montagnes,Deux-Montagnes,45.53455,-73.90168,P,PPL,CA,,10,15,72010,,17402,,29,America/Toronto,2016-06-22
+5938801,Devon,Devon,53.36683,-113.73533,P,PPL,CA,,1,,,,5225,,695,America/Edmonton,2008-04-11
+5939210,Didsbury,Didsbury,51.66681,-114.13529,P,PPL,CA,,1,,,,4134,,1032,America/Edmonton,2008-04-11
+5939219,Dieppe,Dieppe,46.07844,-64.68735,P,PPL,CA,,4,,,,27304,,42,America/Moncton,2021-12-21
+5939236,Digby,Digby,44.62188,-65.7586,P,PPL,CA,,7,,,,2052,,35,America/Halifax,2014-11-13
+5939663,Disraeli,Disraeli,45.90007,-71.34907,P,PPL,CA,,10,12,31015,,2212,,251,America/Toronto,2019-08-08
+5940934,Dolbeau-Mistassini,Dolbeau-Mistassini,48.8786,-72.23142,P,PPL,CA,,10,2,92022,,12916,,127,America/Toronto,2016-02-24
+5940954,Dollard,Dollard,49.61675,-108.58471,P,PPL,CA,,11,,,,5,,921,America/Regina,2019-08-08
+5940956,Dollard-Des Ormeaux,Dollard-Des Ormeaux,45.49452,-73.82419,P,PPL,CA,,10,6,66142,,48930,,34,America/Toronto,2018-02-24
+7535690,Donnacona,Donnacona,46.68042,-71.7239,P,PPL,CA,,10,3,34025,,7200,,60,America/Toronto,2021-12-22
+5941761,Dorchester,Dorchester,42.98339,-81.06643,P,PPL,CA,,8,3539,3539027,,9329,,260,America/Toronto,2019-02-26
+5941925,Dorval,Dorval,45.4473,-73.75335,P,PPL,CA,,10,6,66087,,18980,,27,America/Toronto,2021-11-11
+5942290,Dowling,Dowling,46.59111,-81.33917,P,PPL,CA,,8,,,,1466,,270,America/Toronto,2019-08-08
+5942547,Drayton Valley,Drayton Valley,53.21682,-114.98544,P,PPL,CA,,1,,,,6099,,846,America/Edmonton,2008-04-11
+5942845,Drummondville,Drummondville,45.88336,-72.48241,P,PPL,CA,,10,17,49058,,59489,,89,America/Toronto,2016-04-12
+5942913,Dryden,Dryden,49.78334,-92.75032,P,PPL,CA,,8,,,,8195,,387,America/Winnipeg,2010-09-22
+12070755,Duck Lake,Duck Lake,50.0088,-119.39672,P,PPL,CA,,2,5935,,,6982,,431,America/Vancouver,2019-08-09
+5943564,Duffield,Duffield,53.52646,-114.346,P,PPL,CA,,1,,,,69,,727,America/Edmonton,2015-12-22
+5943865,Duncan,Duncan,48.78293,-123.70266,P,PPL,CA,,2,5919,5919008,,22199,,14,America/Vancouver,2022-01-21
+5944071,Dunham,Dunham,45.13338,-72.79913,P,PPL,CA,,10,16,46050,,3471,,154,America/Toronto,2019-02-26
+5944935,Ear Falls,Ear Falls,50.63955,-93.23526,P,PPL,CA,,8,3560,3560032,,995,,376,America/Winnipeg,2021-11-13
+5945016,East Angus,East Angus,45.48338,-71.66577,P,PPL,CA,,10,5,41060,,3634,,191,America/Toronto,2019-02-26
+8593823,East Broughton,East Broughton,46.21358,-71.07674,P,PPL,CA,,10,12,31122,,1832,,384,America/Toronto,2019-08-08
+5945707,East Gwillimbury,East Gwillimbury,44.10087,-79.43785,P,PPL,CA,,8,3519,,,23991,,271,America/Toronto,2019-08-09
+11184642,East Lawrencetown,East Lawrencetown,44.6584,-63.33249,P,PPL,CA,,7,1209,,,251,,24,America/Halifax,2019-01-25
+5946209,East Wellington,East Wellington,49.17385,-124.01745,P,PPL,CA,,2,,,,1444,,133,America/Vancouver,2019-08-11
+6545023,Edmundston,Edmundston,47.3737,-68.32512,P,PPL,CA,,4,,,,16580,200,154,America/Moncton,2021-12-21
+5946820,Edson,Edson,53.58345,-116.43559,P,PPL,CA,,1,,,,7975,,913,America/Edmonton,2008-04-11
+5947754,Elk Point,Elk Point,53.90017,-110.9017,P,PPL,CA,,1,,,,1514,,601,America/Edmonton,2008-04-11
+5947708,Elkford,Elkford,50.05007,-114.8854,P,PPL,CA,,2,5901,5901003,,2585,,1518,America/Edmonton,2019-02-26
+5947866,Elliot Lake,Elliot Lake,46.38336,-82.63315,P,PPL,CA,,8,,,,12508,,310,America/Toronto,2008-04-11
+5947954,Ellison,Ellison,49.93307,-119.36907,P,PPL,CA,,2,,,,3094,,422,America/Vancouver,2019-08-11
+5948094,Elmvale,Elmvale,44.5834,-79.86636,P,PPL,CA,,8,3543,3543009,,2314,,220,America/Toronto,2019-08-08
+5948770,Enderby,Enderby,50.5498,-119.15234,P,PPL,CA,,2,5937,5937033,,2964,,473,America/Vancouver,2021-12-27
+5948844,Englehart,Englehart,47.82397,-79.87386,P,PPL,CA,,8,3554,3554049,,1479,,206,America/Toronto,2021-12-25
+12076666,Englishman River South,Englishman River South,49.28209,-124.28164,P,PPL,CA,,2,5921,,,748,,67,America/Vancouver,2019-08-12
+5949092,Entwistle,Entwistle,53.60014,-115.00213,P,PPL,CA,,1,,,,389,,735,America/Edmonton,2019-08-08
+12070762,Eskasoni 3,Eskasoni 3,45.94522,-60.61617,P,PPL,CA,,7,1217,,,2120,,34,America/Glace_Bay,2019-08-09
+5949493,Espanola,Espanola,46.25837,-81.76649,P,PPL,CA,,8,,,,4682,,204,America/Toronto,2008-04-11
+5949512,Esquimalt,Esquimalt,48.43569,-123.41174,P,PPL,CA,,2,5917,5917040,,17655,,38,America/Vancouver,2021-06-15
+5949531,Essex,Essex,42.17509,-82.82483,P,PPL,CA,,8,,,,7446,,198,America/Toronto,2019-08-23
+5949563,Esterhazy,Esterhazy,50.65001,-102.08426,P,PPL,CA,,11,,,,2194,,516,America/Regina,2008-04-11
+5949568,Estevan,Estevan,49.13337,-102.98422,P,PPL,CA,,11,,,,11258,,563,America/Regina,2021-11-13
+5949601,Eston,Eston,51.1501,-108.75144,P,PPL,CA,,11,,,,979,,683,America/Regina,2008-04-11
+12076670,Evergreen Park,Evergreen Park,46.11307,-64.86358,P,PPL,CA,,4,1307,,,674,,60,America/Moncton,2019-08-12
+12076657,Fairisle,Fairisle,47.27888,-65.12442,P,PPL,CA,,4,1309,,,936,,38,America/Moncton,2019-10-17
+5951036,Fairview,Fairview,56.06675,-118.38606,P,PPL,CA,,1,,,,2998,,655,America/Edmonton,2021-11-13
+12070756,Fairwinds,Fairwinds,49.27588,-124.12782,P,PPL,CA,,2,5921,,,1147,,41,America/Vancouver,2019-08-09
+5951224,Falher,Falher,55.73339,-117.20262,P,PPL,CA,,1,,,,1166,,578,America/Edmonton,2013-09-22
+5951233,Falkland,Falkland,50.49979,-119.55239,P,PPL,CA,,2,,,,878,,598,America/Vancouver,2019-08-12
+5951289,Fall River,Fall River,44.81685,-63.6154,P,PPL,CA,,7,,,,11526,,33,America/Halifax,2017-11-26
+12070742,Fallingbrook,Fallingbrook,45.47558,-75.48401,P,PPL,CA,,8,3506,3506008,1,25000,,89,America/Toronto,2020-08-03
+5951644,Farnham,Farnham,45.28338,-72.98244,P,PPL,CA,,10,16,46112,,8330,,55,America/Toronto,2021-12-22
+5951842,Fauquier,Fauquier,49.87235,-118.07172,P,PPL,CA,,2,5903,,,170,,469,America/Vancouver,2017-08-27
+5952330,Ferme-Neuve,Ferme-Neuve,46.70011,-75.44929,P,PPL,CA,,10,15,79097,,2115,,219,America/Toronto,2019-02-26
+5952337,Fermont,Fermont,52.79445,-67.08378,P,PPL,CA,,10,9,97035,,2966,,607,America/Toronto,2021-12-22
+5952370,Fernie,Fernie,49.49996,-115.06871,P,PPL,CA,,2,,,,5249,,996,America/Edmonton,2021-12-27
+5954718,Flin Flon,Flin Flon,54.76703,-101.87433,P,PPL,CA,,3,,,,4982,,336,America/Winnipeg,2021-11-13
+8581594,Florenceville-Bristol,Florenceville-Bristol,46.44353,-67.61536,P,PPL,CA,,4,1311,,,1639,,64,America/Moncton,2019-10-16
+5955084,Foam Lake,Foam Lake,51.65001,-103.53431,P,PPL,CA,,11,,,,1138,,552,America/Regina,2008-04-11
+11810378,Fogo Island,Fogo Island,49.71649,-54.16981,P,PPL,CA,,5,,,,2244,,44,America/St_Johns,2018-01-31
+6944112,Forestville,Forestville,48.73808,-69.08478,P,PPL,CA,,10,9,95045,,2333,,84,America/Toronto,2019-08-08
+5955815,Fort Erie,Fort Erie,42.90012,-78.93286,P,PPL,CA,,8,3526,,,30710,,183,America/Toronto,2021-11-13
+5955826,Fort Frances,Fort Frances,48.61667,-93.4003,P,PPL,CA,,8,3559,,,7739,,340,America/Winnipeg,2021-11-13
+5955840,Fort Good Hope,Fort Good Hope,66.25698,-128.6374,P,PPL,CA,,13,11995138,6102009,,516,,27,America/Yellowknife,2019-02-26
+5955887,Fort Liard,Fort Liard,60.23947,-123.47371,P,PPL,CA,,13,11995140,6104009,,530,,220,America/Yellowknife,2020-08-19
+5955891,Fort Macleod,Fort Macleod,49.71671,-113.41857,P,PPL,CA,,1,,,,3060,,952,America/Edmonton,2008-04-11
+5955895,Fort McMurray,Fort McMurray,56.72676,-111.38103,P,PPL,CA,,1,,,,66573,,258,America/Edmonton,2021-11-10
+5955898,Fort McPherson,Fort McPherson,67.43863,-134.88543,P,PPL,CA,,13,11995136,6101015,,700,,21,America/Yellowknife,2021-12-22
+5955902,Fort Nelson,Fort Nelson,58.80533,-122.7002,P,PPL,CA,,2,5959,5959007,,3366,,415,America/Fort_Nelson,2021-12-27
+5955948,Fort Saskatchewan,Fort Saskatchewan,53.69814,-113.21382,P,PPL,CA,,1,4811056,,,14957,,627,America/Edmonton,2020-05-30
+5955954,Fort Smith,Fort Smith,60.00439,-111.88871,P,PPL,CA,,13,11995139,6105001,,2542,,205,America/Yellowknife,2021-12-22
+5955960,Fort St. John,Fort St. John,56.24988,-120.85292,P,PPL,CA,,2,5955,5955034,,20155,,696,America/Dawson_Creek,2021-12-21
+5955797,Fort-Coulonge,Fort-Coulonge,45.85011,-76.73272,P,PPL,CA,,10,7,84065,,2911,,106,America/Toronto,2016-06-22
+7116273,Fossambault-sur-le-Lac,Fossambault-sur-le-Lac,46.87662,-71.61541,P,PPL,CA,,10,3,22010,,2000,,165,America/Toronto,2019-08-08
+5956869,Fox Creek,Fox Creek,54.40007,-116.80238,P,PPL,CA,,1,,,,2457,,832,America/Edmonton,2008-04-11
+12076680,Fox Mountain,Fox Mountain,52.14438,-122.1121,P,PPL,CA,,2,5941,,,597,,951,America/Vancouver,2019-08-13
+5957157,Fox Roost-Margaree,Fox Roost-Margaree,47.57346,-59.05501,P,PPL,CA,,5,,,,327,,12,America/St_Johns,2019-08-11
+5957404,Franklin,Franklin,45.03338,-73.91591,P,PPL,CA,,10,16,69010,,1688,,137,America/Toronto,2016-06-22
+5957506,Franquelin,Franquelin,49.30007,-67.84367,P,PPL,CA,,10,9,96015,,324,,107,America/Toronto,2016-06-22
+5957946,French Creek,French Creek,49.34123,-124.35541,P,PPL,CA,,2,5921,,,1024,,31,America/Vancouver,2019-08-12
+5958590,Fruitvale,Fruitvale,49.11654,-117.55222,P,PPL,CA,,2,5905,5905005,,3491,,659,America/Vancouver,2021-12-27
+12076643,Fundy Bay,Fundy Bay,44.741,-66.76041,P,PPL,CA,,4,1302,,,1167,,3,America/Moncton,2019-08-11
+5959271,Gambo,Gambo,48.7832,-54.21482,P,PPL,CA,,5,,,,1978,,7,America/St_Johns,2021-12-22
+5959326,Gananoque,Gananoque,44.33342,-76.16607,P,PPL,CA,,8,,,,5458,,84,America/Toronto,2008-04-11
+5959335,Gander,Gander,48.95624,-54.61647,P,PPL,CA,,5,,,,11688,,136,America/St_Johns,2021-11-11
+5959340,Gander Bay North,Gander Bay North,49.34992,-54.48141,P,PPL,CA,,5,,,,853,,1,America/St_Johns,2019-08-12
+5959360,Ganges,Ganges,48.85342,-123.50032,P,PPL,CA,,2,5917,,,6000,,6,America/Vancouver,2019-12-17
+5959805,Garson,Garson,50.0778,-96.7073,P,PPL,CA,,3,,,,647,,246,America/Winnipeg,2019-08-12
+5959878,GaspÈ,Gaspe,48.83341,-64.48194,P,PPL,CA,,10,11,3005,,14819,,15,America/Toronto,2016-06-22
+5959974,Gatineau,Gatineau,45.47723,-75.70164,P,PPL,CA,,10,7,81017,,242124,,53,America/Toronto,2021-08-01
+5960842,Gibbons,Gibbons,53.83345,-113.33531,P,PPL,CA,,1,,,,2790,,633,America/Edmonton,2008-04-11
+5960971,Gibsons,Gibsons,49.39539,-123.50555,P,PPL,CA,,2,5929,5929005,,6821,,16,America/Vancouver,2019-02-26
+5961417,Gimli,Gimli,50.63362,-96.99066,P,PPL,CA,,3,,,,2246,,221,America/Winnipeg,2021-11-12
+5961508,Girvin,Girvin,51.15006,-105.91788,P,PPL,CA,,11,,,,15,,600,America/Regina,2019-08-08
+5961564,Glace Bay,Glace Bay,46.19695,-59.95698,P,PPL,CA,,7,,,,17556,,15,America/Glace_Bay,2021-12-21
+5961876,Glencoe,Glencoe,42.75009,-81.71648,P,PPL,CA,,8,3539,3539005,,2126,,223,America/Toronto,2019-08-08
+5962422,Godbout,Godbout,49.31679,-67.5989,P,PPL,CA,,10,9,96010,,298,,5,America/Toronto,2016-06-22
+5962440,Godefroy,Godefroy,51.75012,-68.08213,P,PPL,CA,,10,,,,1410,,432,America/Toronto,2019-08-10
+5962442,Goderich,Goderich,43.74171,-81.71339,P,PPL,CA,,8,3540,,,7628,,222,America/Toronto,2021-11-12
+5962582,Golden,Golden,51.29995,-116.9689,P,PPL,CA,,2,5939,5939007,,4038,,789,America/Edmonton,2019-02-26
+12070763,Golden,Golden,51.05917,-93.73568,P,PPL,CA,,8,3560,,,1154,,371,America/Winnipeg,2019-08-09
+5963013,Goodwood,Goodwood,44.03342,-79.19959,P,PPL,CA,,8,,,,663,,336,America/Toronto,2019-08-12
+5963821,Goulds,Goulds,47.45532,-52.77552,P,PPL,CA,,5,,,,4418,,93,America/St_Johns,2019-08-11
+5964215,Granby,Granby,45.40008,-72.73243,P,PPL,CA,,10,16,47017,,66222,,102,America/Toronto,2021-11-10
+5964230,Grand Bank,Grand Bank,47.09995,-55.76504,P,PPL,CA,,5,,,,4623,,5,America/St_Johns,2006-01-22
+12070752,Grand Centre,Grand Centre,54.41628,-110.21304,P,PPL,CA,,1,4812002,,,7256,,534,America/Edmonton,2019-08-09
+5964378,Grand Falls-Windsor,Grand Falls-Windsor,48.93324,-55.66492,P,PPL,CA,,5,,,,12076,,67,America/St_Johns,2008-04-11
+5964401,Grand Forks,Grand Forks,49.03309,-118.4356,P,PPL,CA,,2,5905,5905032,,4049,,514,America/Vancouver,2021-12-27
+5964410,Grand Haven,Grand Haven,56.23333,-120.9,P,PPL,CA,,2,,,,735,,655,America/Dawson_Creek,2019-08-12
+5964304,Grande Cache,Grande Cache,53.88335,-119.13585,P,PPL,CA,,1,,,,4025,,1225,America/Edmonton,2008-04-11
+5964347,Grande Prairie,Grande Prairie,55.16667,-118.80271,P,PPL,CA,,1,,,,41462,,653,America/Edmonton,2019-09-05
+5964318,Grande-Digue,Grande-Digue,46.30014,-64.56546,P,PPL,CA,,4,,,,2261,,21,America/Moncton,2021-12-26
+5965462,Gravelbourg,Gravelbourg,49.88336,-106.55122,P,PPL,CA,,11,,,,1109,,699,America/Regina,2008-04-11
+5965546,Gravenhurst,Gravenhurst,44.91681,-79.36633,P,PPL,CA,,8,,,,12312,,260,America/Toronto,2021-12-25
+12076652,Greater Lakeburn,Greater Lakeburn,46.07651,-64.66818,P,PPL,CA,,4,1307,,,1014,,48,America/Moncton,2019-08-12
+5965812,Greater Napanee,Greater Napanee,44.25012,-76.94944,P,PPL,CA,,8,,,,15892,,92,America/Toronto,2021-11-12
+5964700,Greater Sudbury,Greater Sudbury,46.49,-80.99001,P,PPL,CA,,8,,,,157857,,266,America/Toronto,2014-05-12
+5965944,Greenbank,Greenbank,44.15012,-79.01628,P,PPL,CA,,8,,,,554,,287,America/Toronto,2019-08-13
+5966580,Green's Harbour,Green's Harbour,47.63319,-53.49809,P,PPL,CA,,5,,,,642,,5,America/St_Johns,2019-08-12
+5966622,Greenstone,Greenstone,49.73343,-87.16668,P,PPL,CA,,8,,,,4636,,339,America/Toronto,2021-12-23
+5966689,Greenwood,Greenwood,44.97413,-64.93169,P,PPL,CA,,7,,,,5369,,28,America/Halifax,2021-12-27
+5966821,Grenfell,Grenfell,50.41674,-102.93432,P,PPL,CA,,11,,,,997,,595,America/Regina,2008-04-11
+5967149,Grimsby,Grimsby,43.20011,-79.56631,P,PPL,CA,,8,3526,,,27314,,88,America/Toronto,2021-12-25
+5967157,Grimshaw,Grimshaw,56.18339,-117.6027,P,PPL,CA,,1,,,,2560,,598,America/Edmonton,2021-12-23
+5967590,Grunthal,Grunthal,49.40668,-96.85873,P,PPL,CA,,3,,,,1680,,266,America/Winnipeg,2021-12-23
+5967629,Guelph,Guelph,43.54594,-80.25599,P,PPL,CA,,8,3523,,,115760,,335,America/Toronto,2019-06-10
+5967988,Gull Lake,Gull Lake,50.10007,-108.48471,P,PPL,CA,,11,,,,949,,778,America/Regina,2008-04-11
+11257139,HÈrouxville,Herouxville,46.66617,-72.62512,P,PPL,CA,,10,4,35035,,1340,,143,America/Toronto,2017-02-01
+5969025,Haines Junction,Haines Junction,60.75216,-137.51082,P,PPL,CA,,12,,,,613,,599,America/Whitehorse,2021-12-23
+12076628,Haliburton Village,Haliburton Village,45.04921,-78.50854,P,PPL,CA,,8,3546,,,1149,,325,America/Toronto,2020-05-30
+5969782,Hamilton,Hamilton,43.25011,-79.84963,P,PPL,CA,,8,,,,519949,,95,America/Toronto,2019-09-05
+5970014,Hampstead,Hampstead,45.48064,-73.66307,P,PPL,CA,,10,6,66058,,6996,,49,America/Toronto,2019-03-26
+5970018,Hampton,Hampton,45.52876,-65.85354,P,PPL,CA,,4,,,,3436,,0,America/Moncton,2019-08-08
+5970234,Hanna,Hanna,51.63343,-111.90181,P,PPL,CA,,1,,,,3140,,826,America/Edmonton,2008-04-11
+5970301,Hanover,Hanover,44.15009,-81.03303,P,PPL,CA,,8,,,,7688,,277,America/Toronto,2021-12-23
+5970414,Hantsport,Hantsport,45.06685,-64.16544,P,PPL,CA,,7,,,,1253,,-9999,America/Halifax,2008-04-11
+5970458,Happy Valley-Goose Bay,Happy Valley-Goose Bay,53.3038,-60.32576,P,PPL,CA,,5,,,,7572,12,17,America/Goose_Bay,2020-11-01
+5970478,Harbour Breton,Harbour Breton,47.48325,-55.79833,P,PPL,CA,,5,,,,1898,,1,America/St_Johns,2008-04-11
+5970873,Hare Bay,Hare Bay,48.8499,-54.01481,P,PPL,CA,,5,,,,968,,29,America/St_Johns,2008-04-11
+5971448,Harriston,Harriston,43.91199,-80.87199,P,PPL,CA,,8,3523,,,1797,,384,America/Toronto,2020-05-30
+7303784,Hartland,Hartland,46.29986,-67.51669,P,PPL,CA,,4,,,,902,99,101,America/Moncton,2010-07-18
+12076674,Hatzic Island,Hatzic Island,49.16446,-122.23755,P,PPL,CA,,2,5909,,,522,,8,America/Vancouver,2019-08-12
+5972068,Haute-Aboujagane,Haute-Aboujagane,46.14834,-64.39892,P,PPL,CA,,4,,,,974,,44,America/Moncton,2019-08-12
+12076633,Hauterive,Hauterive,49.19572,-68.25813,P,PPL,CA,,10,9,96020,,11549,,48,America/Toronto,2019-08-10
+12076665,Haut-Sheila,Haut-Sheila,47.74639,-64.91151,P,PPL,CA,,4,1315,,,752,,11,America/Moncton,2019-08-12
+5972291,Havre-Saint-Pierre,Havre-Saint-Pierre,50.24342,-63.60264,P,PPL,CA,,10,9,98040,,3460,,12,America/Toronto,2021-12-23
+5972360,Hawkesbury,Hawkesbury,45.60009,-74.61595,P,PPL,CA,,8,,,,10263,,53,America/Toronto,2021-11-12
+5972762,Hay River,Hay River,60.81555,-115.79993,P,PPL,CA,,13,11995139,6105016,,3528,,152,America/Yellowknife,2021-09-30
+12070761,Hayes Subdivision,Hayes Subdivision,45.05519,-64.58795,P,PPL,CA,,7,1207,,,1121,,49,America/Halifax,2019-08-09
+5972961,Headingley,Headingley,49.8753,-97.40896,P,PPL,CA,,3,,,,3215,,239,America/Winnipeg,2013-07-18
+5973108,Hearst,Hearst,49.68351,-83.66654,P,PPL,CA,,8,,,,4746,,235,America/Toronto,2008-04-11
+5973741,Hemmingford,Hemmingford,45.05008,-73.58248,P,PPL,CA,,10,16,68010,,808,,79,America/Toronto,2019-02-26
+12070753,Heritage Pointe,Heritage Pointe,50.84213,-114.00493,P,PPL,CA,,1,4806001,,,2075,,1048,America/Edmonton,2019-08-09
+5975004,High Level,High Level,58.51688,-117.13605,P,PPL,CA,,1,,,,3159,,329,America/Edmonton,2021-12-21
+5975034,High Prairie,High Prairie,55.4334,-116.4858,P,PPL,CA,,1,,,,2878,,593,America/Edmonton,2008-04-11
+5975038,High River,High River,50.58341,-113.86867,P,PPL,CA,,1,,,,9826,,1034,America/Edmonton,2008-04-11
+5975503,Hinton,Hinton,53.40009,-117.58567,P,PPL,CA,,1,,,,9889,,1022,America/Edmonton,2013-09-22
+5975610,Hixon,Hixon,53.41704,-122.58219,P,PPL,CA,,2,,,,202,,577,America/Vancouver,2010-11-06
+5976783,Hope,Hope,49.38299,-121.44144,P,PPL,CA,,2,5909,5909009,,4598,,45,America/Vancouver,2019-02-26
+6694966,Hopedale,Hopedale,55.46737,-60.20319,P,PPL,CA,,5,,,,625,,1,America/Goose_Bay,2008-07-14
+5976999,Hornby Island,Hornby Island,49.53448,-124.66923,P,PPL,CA,,2,5926,,,1100,,75,America/Vancouver,2018-08-13
+5977046,Hornepayne,Hornepayne,49.21451,-84.77617,P,PPL,CA,,8,3557,3557096,,1050,,330,America/Toronto,2019-02-26
+5977783,Houston,Houston,54.39976,-126.67008,P,PPL,CA,,2,5951,5951034,,2993,,590,America/Vancouver,2021-12-27
+5978126,Hudson,Hudson,45.45008,-74.14922,P,PPL,CA,,10,16,71100,,5088,,47,America/Toronto,2020-11-01
+5978133,Hudson Bay,Hudson Bay,52.85003,-102.38425,P,PPL,CA,,11,,,,1504,,375,America/Regina,2021-12-25
+5978404,Humboldt,Humboldt,52.20005,-105.1255,P,PPL,CA,,11,,,,4822,,568,America/Regina,2008-04-11
+5978683,Huntingdon,Huntingdon,45.08339,-74.16593,P,PPL,CA,,10,16,69045,,2865,,48,America/Toronto,2019-02-26
+5978765,Huntsville,Huntsville,45.33341,-79.21632,P,PPL,CA,,8,,,,19816,,302,America/Toronto,2021-11-13
+5978831,Huron East,Huron East,43.61679,-81.29975,P,PPL,CA,,8,,,,9264,,338,America/Toronto,2013-05-05
+5980472,Ile des ChÍnes,Ile des Chenes,49.7106,-96.98893,P,PPL,CA,,3,,,,1546,,236,America/Winnipeg,2019-08-11
+5982466,Ilford,Ilford,56.06722,-95.59925,P,PPL,CA,,3,,,,43,,193,America/Winnipeg,2013-04-06
+5982839,Indian Head,Indian Head,50.53336,-103.66775,P,PPL,CA,,11,,,,1642,,588,America/Regina,2008-04-11
+5983175,Ingersoll,Ingersoll,43.03339,-80.88302,P,PPL,CA,,8,,,,12757,,293,America/Toronto,2021-11-12
+5983433,Innisfil,Innisfil,44.30011,-79.64964,P,PPL,CA,,8,,,,7345,,266,America/Toronto,2006-01-22
+5983607,Inuvik,Inuvik,68.36166,-133.72817,P,PPL,CA,,13,11995136,6101017,,3243,,22,America/Inuvik,2021-11-11
+5983624,Invermay,Invermay,51.80586,-103.15281,P,PPL,CA,,11,,,,273,,557,America/Regina,2021-12-22
+5983626,Invermere,Invermere,50.51666,-116.03538,P,PPL,CA,,2,5901,5901039,,3391,,803,America/Edmonton,2021-12-27
+5984000,Iroquois Falls,Iroquois Falls,48.76688,-80.68307,P,PPL,CA,,8,,,,4232,,280,America/Toronto,2008-04-11
+5984019,Irricana,Irricana,51.32372,-113.60475,P,PPL,CA,,1,,,,1216,935,931,America/Edmonton,2020-01-19
+5984875,Ivujivik,Ivujivik,62.41737,-77.91592,P,PPL,CA,,10,10,,,414,,1,America/Toronto,2021-12-27
+5985477,Jaffray,Jaffray,49.38324,-115.30204,P,PPL,CA,,2,,,,554,,837,America/Edmonton,2019-08-13
+5985873,Jarvis,Jarvis,42.88559,-80.1122,P,PPL,CA,,8,3528,,,1037,,209,America/Toronto,2020-05-30
+6354954,Jasper,Jasper,52.87946,-118.08041,P,PPL,CA,,1,,,,3948,,1062,America/Edmonton,2021-08-01
+5987650,Joliette,Joliette,46.0164,-73.4236,P,PPL,CA,,10,14,61020,,34772,,57,America/Toronto,2016-06-20
+5988814,Kakisa,Kakisa,60.93927,-117.40883,P,PPL,CA,,13,11995139,6104005,,36,,217,America/Yellowknife,2019-02-26
+5989045,Kamloops,Kamloops,50.66648,-120.3192,P,PPL,CA,,2,5933,5933042,,90280,,414,America/Vancouver,2021-12-05
+6325493,Kamouraska,Kamouraska,47.56593,-69.86631,P,PPL,CA,,10,1,14050,,589,,4,America/Toronto,2016-06-22
+5989068,Kamsack,Kamsack,51.56668,-101.90093,P,PPL,CA,,11,,,,1898,,450,America/Regina,2021-12-22
+11071526,Kananaskis,Kananaskis,51.04821,-115.02223,P,PPL,CA,,1,,,,249,,1337,America/Edmonton,2016-04-07
+5989117,Kanata,Kanata,45.3001,-75.91606,P,PPL,CA,,8,3506,3506008,,90000,,93,America/Toronto,2019-08-07
+5989403,Kapuskasing,Kapuskasing,49.41694,-82.43308,P,PPL,CA,,8,3556,,,8292,,219,America/Toronto,2021-11-12
+5989931,Kazabazua,Kazabazua,45.95011,-76.01606,P,PPL,CA,,10,7,83015,,847,,183,America/Toronto,2016-06-22
+5990579,Kelowna,Kelowna,49.88307,-119.48568,P,PPL,CA,,2,5935,5935010,,142146,,350,America/Vancouver,2021-12-21
+5990669,Kelvington,Kelvington,52.16669,-103.5343,P,PPL,CA,,11,,,,941,,586,America/Regina,2008-04-11
+5990737,Kemptville,Kemptville,45.0168,-75.64104,P,PPL,CA,,8,3507,3507065,,500,,96,America/Toronto,2019-02-26
+5991055,Kenora,Kenora,49.76741,-94.48985,P,PPL,CA,,8,3560,,,15096,,328,America/Winnipeg,2021-11-11
+5991080,Kensington,Kensington,46.43343,-63.64871,P,PPL,CA,,9,,,,1619,,33,America/Halifax,2021-12-27
+5991148,Kentville,Kentville,45.0771,-64.49605,P,PPL,CA,,7,1207,,,12636,,15,America/Halifax,2014-08-31
+5991284,Kerrobert,Kerrobert,51.91682,-109.13479,P,PPL,CA,,11,,,,1061,,685,America/Regina,2021-12-22
+5991374,Keswick Ridge,Keswick Ridge,46.00011,-66.88218,P,PPL,CA,,4,,,,1652,,112,America/Moncton,2019-08-11
+5991609,Khedive,Khedive,49.61677,-104.51779,P,PPL,CA,,11,,,,15,,648,America/Regina,2019-08-08
+5991888,Killam,Killam,52.78344,-111.85175,P,PPL,CA,,1,,,,1056,,677,America/Edmonton,2008-04-11
+5991907,Killarney,Killarney,49.18332,-99.66364,P,PPL,CA,,3,,,,2362,,495,America/Winnipeg,2008-04-11
+11748824,Killarney,Killarney,45.97263,-81.51091,P,PPL,CA,,8,3552,,,386,,178,America/Toronto,2018-01-20
+5992059,Kimberley,Kimberley,49.67071,-115.9776,P,PPL,CA,,2,5901,5901028,,7425,,1067,America/Edmonton,2021-12-21
+5992154,Kindersley,Kindersley,51.46681,-109.16818,P,PPL,CA,,11,,,,4249,,689,America/Regina,2013-09-22
+5992180,King,King,43.96514,-79.59011,P,PPL,CA,,8,3519,3519049,,6970,,311,America/Toronto,2019-08-08
+5992424,Kingsey Falls,Kingsey Falls,45.85007,-72.0658,P,PPL,CA,,10,17,39097,,1480,,113,America/Toronto,2016-02-23
+5992500,Kingston,Kingston,44.22976,-76.48098,P,PPL,CA,,8,,,,114195,70,83,America/Toronto,2014-05-11
+5992724,Kipling,Kipling,50.10003,-102.6343,P,PPL,CA,,11,,,,969,,659,America/Regina,2008-04-11
+5992830,Kirkland,Kirkland,45.45008,-73.86586,P,PPL,CA,,10,6,66102,,20491,,36,America/Toronto,2016-06-22
+5992836,Kirkland Lake,Kirkland Lake,48.14461,-80.03767,P,PPL,CA,,8,,,,7775,,321,America/Toronto,2012-01-07
+5993072,Kitimat,Kitimat,54.05244,-128.65342,P,PPL,CA,,2,5949,5949005,,8987,,22,America/Vancouver,2019-02-26
+5994519,Kuujjuarapik,Kuujjuarapik,55.2759,-77.76243,P,PPL,CA,,10,10,,,686,,15,America/Toronto,2021-12-27
+5994866,La Broquerie,La Broquerie,49.51688,-96.50029,P,PPL,CA,,3,,,,1073,268,280,America/Winnipeg,2013-07-18
+6035664,La Conception,La Conception,46.15009,-74.69925,P,PPL,CA,,10,15,78115,,1287,,202,America/Toronto,2016-06-22
+6945986,La Malbaie,La Malbaie,47.654,-70.15268,P,PPL,CA,,10,3,15013,,8959,,16,America/Toronto,2018-02-24
+6049035,La Minerve,La Minerve,46.25009,-74.93257,P,PPL,CA,,10,15,78130,,1234,,280,America/Toronto,2019-02-26
+7535692,La PocatiËre,La Pocatiere,47.36733,-70.03484,P,PPL,CA,,10,1,14085,,4575,,35,America/Toronto,2017-04-03
+6049826,La Poile,La Poile,47.68488,-58.39546,P,PPL,CA,,5,,,,87,,9,America/St_Johns,2019-08-11
+6049863,La Prairie,La Prairie,45.41678,-73.49917,P,PPL,CA,,10,16,67015,,23357,,8,America/Toronto,2021-11-11
+6050066,La Ronge,La Ronge,55.10013,-105.28422,P,PPL,CA,,11,,,,5671,,360,America/Regina,2019-08-08
+6050194,La Sarre,La Sarre,48.80019,-79.19964,P,PPL,CA,,10,8,87090,,7719,,269,America/Toronto,2021-11-13
+6050416,La Tuque,La Tuque,47.43337,-72.7824,P,PPL,CA,,10,4,90012,,11001,,165,America/Toronto,2021-11-11
+6325521,LÈvis,Levis,46.80326,-71.17793,P,PPL,CA,,10,12,25213,,143414,,87,America/Toronto,2021-12-21
+6052583,L'…piphanie,L'Epiphanie,45.85008,-73.48246,P,PPL,CA,,10,14,60035,,4606,,21,America/Toronto,2016-06-22
+5994763,Labelle,Labelle,46.28339,-74.73255,P,PPL,CA,,10,15,78120,,1239,,223,America/Toronto,2016-06-22
+5994839,Labrador City,Labrador City,52.94626,-66.91137,P,PPL,CA,,5,,,,7220,,555,America/Goose_Bay,2021-11-11
+5994861,Labrieville,Labrieville,49.30009,-69.56294,P,PPL,CA,,10,,,,718,,156,America/Toronto,2019-08-12
+6014443,Lac du Bonnet,Lac du Bonnet,50.2536,-96.06116,P,PPL,CA,,3,,,,1089,,261,America/Winnipeg,2021-12-22
+6028050,Lac La Biche,Lac La Biche,54.7669,-111.96861,P,PPL,CA,,1,,,,2314,,566,America/Edmonton,2021-12-25
+5996666,Lac-Alouette,Lac-Alouette,45.81698,-73.9592,P,PPL,CA,,10,,,,4473,,99,America/Toronto,2019-08-10
+6002133,Lac-Brome,Lac-Brome,45.21678,-72.51581,P,PPL,CA,,10,16,46075,,5629,,209,America/Toronto,2016-06-22
+6005297,Lac-Connelly,Lac-Connelly,45.89788,-73.9723,P,PPL,CA,,10,,,,1212,,216,America/Toronto,2019-08-10
+6024829,Lachute,Lachute,45.65008,-74.33253,P,PPL,CA,,10,15,76020,,9562,,70,America/Toronto,2016-06-22
+6028783,Lac-Lapierre,Lac-Lapierre,45.89837,-73.77308,P,PPL,CA,,10,,,,2480,,94,America/Toronto,2019-08-10
+6032673,Lac-MÈgantic,Lac-Megantic,45.58338,-70.88234,P,PPL,CA,,10,5,30030,,4658,,396,America/Toronto,2016-06-22
+6035592,Lacolle,Lacolle,45.08338,-73.36585,P,PPL,CA,,10,16,56023,,1528,,40,America/Toronto,2016-06-22
+6035615,Lacombe,Lacombe,52.46681,-113.7353,P,PPL,CA,,1,,,,13057,,853,America/Edmonton,2021-11-11
+6042689,Lac-Simon,Lac-Simon,46.15699,-74.74129,P,PPL,CA,,10,15,78115,,1243,,245,America/Toronto,2019-08-08
+7602078,Ladner,Ladner,49.08938,-123.08241,P,PPL,CA,,2,5915,5915011,,200000,1,3,America/Vancouver,2019-02-26
+6047817,Ladysmith,Ladysmith,48.99016,-123.81699,P,PPL,CA,,2,5919,5919021,,8537,,71,America/Vancouver,2021-12-21
+6048316,Lake Cowichan,Lake Cowichan,48.82495,-124.05461,P,PPL,CA,,2,5919,5919016,,3226,,167,America/Vancouver,2021-12-27
+6048347,Lake Echo,Lake Echo,44.73345,-63.38198,P,PPL,CA,,7,,,,2515,,18,America/Halifax,2019-08-09
+6048370,Lakefield,Lakefield,44.43342,-78.26623,P,PPL,CA,,8,3515,3515015,,2753,,241,America/Toronto,2019-08-08
+6049024,Lambton Shores,Lambton Shores,43.16678,-81.93309,P,PPL,CA,,8,,,,10631,,207,America/Toronto,2021-11-13
+6049046,Lamont,Lamont,53.76686,-112.80195,P,PPL,CA,,1,,,,1774,,643,America/Edmonton,2021-12-25
+6534203,L'Ancienne-Lorette,L'Ancienne-Lorette,46.79392,-71.35191,P,PPL,CA,,10,3,23057,,16516,,27,America/Toronto,2019-02-26
+6049255,Landmark,Landmark,49.67169,-96.82232,P,PPL,CA,,3,,,,1292,,242,America/Winnipeg,2019-08-11
+6325516,L'Ange-Gardien,L'Ange-Gardien,46.91976,-71.08253,P,PPL,CA,,10,3,21040,,3634,,20,America/Toronto,2016-06-22
+6049379,Langenburg,Langenburg,50.84999,-101.71763,P,PPL,CA,,11,,,,1165,,511,America/Regina,2021-12-25
+6049388,Langford,Langford,48.44963,-123.50261,P,PPL,CA,,2,5917,5917044,,35342,,80,America/Vancouver,2021-12-21
+6049403,Langham,Langham,52.3668,-106.96793,P,PPL,CA,,11,,,,1496,,512,America/Regina,2021-12-25
+6049429,Langley,Langley,49.10107,-122.65883,P,PPL,CA,,2,5915,5915002,,23606,,13,America/Vancouver,2021-08-25
+6049515,Lanigan,Lanigan,51.85006,-105.03443,P,PPL,CA,,11,,,,1204,,534,America/Regina,2008-04-11
+6049537,Lanoraie,Lanoraie,45.96677,-73.21585,P,PPL,CA,,10,14,52017,,4447,,13,America/Toronto,2016-06-22
+6049634,Lantz,Lantz,44.98345,-63.48199,P,PPL,CA,,7,,,,2229,,18,America/Halifax,2019-08-11
+6049858,Lappe,Lappe,48.5668,-89.35013,P,PPL,CA,,8,,,,1436,,416,America/Toronto,2019-08-11
+6050216,L'Ascension-de-Notre-Seigneur,L'Ascension-de-Notre-Seigneur,48.68339,-71.6658,P,PPL,CA,,10,,,,1134,,139,America/Toronto,2019-08-11
+6050218,LaScie,LaScie,49.94995,-55.59811,P,PPL,CA,,5,,,,970,,30,America/St_Johns,2022-01-15
+6050263,L'Assomption,L'Assomption,45.82318,-73.4294,P,PPL,CA,,10,14,60028,,15906,,13,America/Toronto,2019-08-08
+6050539,Laurentides,Laurentides,47.13336,-72.28239,P,PPL,CA,,10,,,,12710,,239,America/Toronto,2019-08-10
+6050610,Laval,Laval,45.56995,-73.692,P,PPL,CA,,10,13,65005,,422993,,34,America/Toronto,2021-12-21
+6050650,Lavaltrie,Lavaltrie,45.88338,-73.28245,P,PPL,CA,,10,14,52007,,8762,,21,America/Toronto,2019-02-26
+6053877,L'Œle-Perrot,L'Ile-Perrot,45.38338,-73.9492,P,PPL,CA,,10,16,71060,,9927,,49,America/Toronto,2016-06-22
+12076634,Le Bic,Le Bic,48.37549,-68.69415,P,PPL,CA,,10,1,10043,,1115,,42,America/Toronto,2019-08-10
+10627796,le Plateau,le Plateau,45.43514,-75.7803,P,PPL,CA,,10,7,81017,,15000,,89,America/Toronto,2015-08-18
+6051122,Leamington,Leamington,42.05009,-82.59981,P,PPL,CA,,8,,,,32991,,188,America/Toronto,2019-08-08
+6051264,Lebel-sur-QuÈvillon,Lebel-sur-Quevillon,49.05018,-76.98273,P,PPL,CA,,10,10,99005,,3289,,281,America/Toronto,2016-06-22
+6051272,Leblanc,Leblanc,48.26683,-74.34914,P,PPL,CA,,10,,,,1513,,485,America/Toronto,2019-08-10
+6051562,Leduc,Leduc,53.26682,-113.55201,P,PPL,CA,,1,,,,15561,,728,America/Edmonton,2008-04-11
+6052773,Les CËdres,Les Cedres,45.31009,-74.05926,P,PPL,CA,,10,16,71050,,1434,,43,America/Toronto,2020-05-30
+6052788,Les Coteaux,Les Coteaux,45.28338,-74.23254,P,PPL,CA,,10,16,71033,,17396,,44,America/Toronto,2019-08-08
+6955478,Les Escoumins,Les Escoumins,48.35191,-69.40724,P,PPL,CA,,10,9,95025,,1339,,11,America/Toronto,2019-08-08
+6053154,Lethbridge,Lethbridge,49.69999,-112.81856,P,PPL,CA,,1,,,,70617,,907,America/Edmonton,2008-04-11
+6053446,Lewisporte,Lewisporte,49.24343,-55.06196,P,PPL,CA,,5,,,,2174,,6,America/St_Johns,2020-05-30
+6945979,Lillooet,Lillooet,50.6856,-121.942,P,PPL,CA,,2,5931,5931026,,2324,,276,America/Vancouver,2021-12-27
+6054238,Limoges,Limoges,45.3334,-75.24931,P,PPL,CA,,8,,,,2048,,68,America/Toronto,2019-08-08
+6054258,Lincoln,Lincoln,45.90012,-66.58218,P,PPL,CA,,4,,,,2504,,7,America/Moncton,2019-08-11
+6054350,Lindsay,Lindsay,44.35012,-78.73286,P,PPL,CA,,8,3516,,,20354,,261,America/Toronto,2019-09-27
+6054474,LiniËre,Liniere,46.00007,-70.41572,P,PPL,CA,,10,,,,1385,,416,America/Toronto,2019-08-10
+6054551,Linwood,Linwood,43.58171,-80.72815,P,PPL,CA,,8,3530,3530027,,759,,394,America/Toronto,2019-08-13
+6054578,Lions Bay,Lions Bay,49.45218,-123.2376,P,PPL,CA,,2,5915,5915065,,1334,,66,America/Vancouver,2021-12-27
+6054677,Listowel,Listowel,43.7334,-80.94973,P,PPL,CA,,8,,,,7530,,381,America/Toronto,2019-08-08
+6055388,Little Current,Little Current,45.97927,-81.9248,P,PPL,CA,,8,,,,2156,,190,America/Toronto,2011-12-30
+6057508,Little St. Lawrence,Little St. Lawrence,46.92972,-55.36109,P,PPL,CA,,5,,,,117,,20,America/St_Johns,2019-08-11
+6057842,Lively,Lively,46.43338,-81.14975,P,PPL,CA,,8,,,,5608,,270,America/Toronto,2019-08-08
+6058314,Lockwood,Lockwood,51.65006,-105.01783,P,PPL,CA,,11,,,,15,,522,America/Regina,2019-08-08
+6058415,Logan Lake,Logan Lake,50.49225,-120.8149,P,PPL,CA,,2,5933,5933035,,2190,,1100,America/Vancouver,2020-05-30
+6058560,London,London,42.98339,-81.23304,P,PPL,CA,,8,,,,346765,,252,America/Toronto,2012-08-19
+6059891,Longueuil,Longueuil,45.53121,-73.51806,P,PPL,CA,,10,16,58227,,229330,,18,America/Toronto,2019-09-05
+6060325,Lorette,Lorette,49.73919,-96.87232,P,PPL,CA,,3,6160992,,,3208,,239,America/Winnipeg,2019-09-17
+8556299,L'Orignal,L'Orignal,45.6198,-74.6915,P,PPL,CA,,8,3502,3502010,,1450,,52,America/Toronto,2019-08-08
+12076673,Lorne,Lorne,47.8738,-66.12687,P,PPL,CA,,4,1314,,,600,,152,America/Moncton,2019-08-12
+6060407,Lorraine,Lorraine,45.68338,-73.78249,P,PPL,CA,,10,14,64008,,9613,,64,America/Toronto,2016-06-22
+6060697,LotbiniËre,Lotbiniere,46.61675,-71.93239,P,PPL,CA,,10,12,33115,,887,,28,America/Toronto,2018-02-24
+6060839,Louiseville,Louiseville,46.25594,-72.94145,P,PPL,CA,,10,4,51015,,5819,,17,America/Toronto,2016-02-24
+6060985,Loverna,Loverna,51.66682,-110.00157,P,PPL,CA,,11,,,,5,,688,America/Edmonton,2019-08-08
+10287505,Lower Sackville,Lower Sackville,44.77599,-63.67865,P,PPL,CA,,7,,,,21379,,53,America/Halifax,2016-10-18
+6061745,Lucan,Lucan,43.18339,-81.39976,P,PPL,CA,,8,3539,3539060,,2541,,304,America/Toronto,2019-08-08
+12076629,Luceville,Luceville,48.54498,-68.39658,P,PPL,CA,,10,1,9092,,1112,,8,America/Toronto,2019-08-10
+6061958,Lumby,Lumby,50.24979,-118.96904,P,PPL,CA,,2,5937,5937005,,2000,,516,America/Vancouver,2021-12-27
+6061979,Lumsden,Lumsden,50.65009,-104.86783,P,PPL,CA,,11,,,,1824,,496,America/Regina,2021-12-24
+6062042,Lundbreck,Lundbreck,49.5856,-114.1619,P,PPL,CA,,1,,,,244,1200,1197,America/Edmonton,2015-07-08
+6062069,Lunenburg,Lunenburg,44.37847,-64.31658,P,PPL,CA,,7,,,,2263,,10,America/Halifax,2021-12-21
+6062163,Lutes Mountain,Lutes Mountain,46.13544,-64.90504,P,PPL,CA,,4,,,,16311,,133,America/Moncton,2016-06-29
+6072447,MÈtabetchouan,Metabetchouan,48.36679,-72.01583,P,PPL,CA,,10,,,,2123,,237,America/Toronto,2019-08-10
+6062563,Macamic,Macamic,48.75018,-78.99962,P,PPL,CA,,10,8,87058,,2734,,283,America/Toronto,2021-12-24
+6063191,Mackenzie,Mackenzie,55.33637,-123.09374,P,PPL,CA,,2,5953,5953033,,3262,,771,America/Vancouver,2019-08-08
+6063429,Macklin,Macklin,52.33344,-109.93484,P,PPL,CA,,11,,,,1257,,674,America/Regina,2008-04-11
+6063989,Madoc,Madoc,44.50842,-77.47448,P,PPL,CA,,8,3512,3512026,,1535,,176,America/Toronto,2019-08-08
+6064180,Magog,Magog,45.26678,-72.14909,P,PPL,CA,,10,5,45072,,15550,,220,America/Toronto,2016-05-16
+6064202,Magrath,Magrath,49.41668,-112.86856,P,PPL,CA,,1,,,,2095,,980,America/Edmonton,2008-04-11
+6064438,Main Point-Davidsville,Main Point-Davidsville,49.34944,-54.41834,P,PPL,CA,,5,,,,302,,9,America/St_Johns,2019-08-11
+11789599,Maisonnette,Maisonnette,47.82364,-64.99838,P,PPL,CA,,4,1315,,,605,,4,America/Moncton,2017-12-22
+6064704,Malartic,Malartic,48.13633,-78.12533,P,PPL,CA,,10,8,89015,,3710,,318,America/Toronto,2021-12-25
+6945997,Maliotenam,Maliotenam,50.21119,-66.18164,P,PPL,CA,,10,9,97007,,1316,,51,America/Toronto,2016-06-22
+12076630,Manawan,Manawan,47.22029,-74.38606,P,PPL,CA,,10,14,,,1648,,422,America/Toronto,2019-08-10
+6065088,Mandeville,Mandeville,46.36677,-73.34915,P,PPL,CA,,10,14,52095,,2043,,188,America/Toronto,2016-06-22
+6065253,Manitouwadge,Manitouwadge,49.12152,-85.8403,P,PPL,CA,,8,3558,3558066,,1708,,331,America/Toronto,2019-08-08
+6065262,Maniwaki,Maniwaki,46.38341,-75.96605,P,PPL,CA,,10,7,83065,,4236,,162,America/Toronto,2016-10-30
+6065306,Manning,Manning,56.92166,-117.63117,P,PPL,CA,,1,4817078,,,1359,,461,America/Edmonton,2020-05-31
+6065347,Mannville,Mannville,53.33345,-111.1684,P,PPL,CA,,1,,,,828,,620,America/Edmonton,2019-02-17
+6065592,Maple Creek,Maple Creek,49.90628,-109.48094,P,PPL,CA,,11,,,,2121,,764,America/Regina,2020-05-30
+6065686,Maple Ridge,Maple Ridge,49.21939,-122.60193,P,PPL,CA,,2,5915,5915075,,82256,,42,America/Vancouver,2021-11-11
+8616967,Maria,Maria,48.1749,-65.98595,P,PPL,CA,,10,11,6005,,1124,,7,America/Toronto,2019-08-08
+6066350,Marieville,Marieville,45.43338,-73.16585,P,PPL,CA,,10,16,55048,,5600,,34,America/Toronto,2016-04-13
+6066504,Markdale,Markdale,44.3168,-80.64971,P,PPL,CA,,8,3542,3542015,,1216,,424,America/Toronto,2019-08-08
+11820688,Markerville,Markerville,52.12399,-114.1701,P,PPL,CA,,1,4808001,,,42,,901,America/Edmonton,2021-07-27
+6066513,Markham,Markham,43.86682,-79.2663,P,PPL,CA,,8,,,,328966,,168,America/Toronto,2021-12-21
+6067033,Martensville,Martensville,52.28339,-106.66792,P,PPL,CA,,11,,,,9645,,513,America/Regina,2021-12-24
+6067472,Marystown,Marystown,47.16663,-55.14829,P,PPL,CA,,5,,,,2697,,17,America/St_Johns,2019-08-08
+6067494,Mascouche,Mascouche,45.74965,-73.59956,P,PPL,CA,,10,14,64015,,34626,,17,America/Toronto,2016-06-22
+6067547,MaskinongÈ,Maskinonge,46.2286,-73.01917,P,PPL,CA,,10,4,51008,,1105,,14,America/Toronto,2016-02-24
+6067747,Matagami,Matagami,49.76326,-77.62735,P,PPL,CA,,10,10,99015,,1966,,259,America/Toronto,2020-05-30
+6696260,Matane,Matane,48.82857,-67.52197,P,PPL,CA,,10,1,8053,,14812,,74,America/Toronto,2019-02-26
+6067959,Mattawa,Mattawa,46.31681,-78.69957,P,PPL,CA,,8,,,,1993,,161,America/Toronto,2021-12-24
+6068315,Mayerthorpe,Mayerthorpe,53.95015,-115.13547,P,PPL,CA,,1,,,,1320,,716,America/Edmonton,2021-12-24
+6068416,Mayo,Mayo,63.59274,-135.89984,P,PPL,CA,,12,,,,540,,581,America/Whitehorse,2016-07-02
+6068464,Mazenod,Mazenod,49.86676,-106.21788,P,PPL,CA,,11,,,,10,,704,America/Regina,2019-08-08
+12070759,McEwen,McEwen,46.1452,-64.78615,P,PPL,CA,,4,1307,,,1462,,55,America/Moncton,2019-08-09
+6071421,Meadow Lake,Meadow Lake,54.13348,-108.43471,P,PPL,CA,,11,,,,5266,,480,America/Regina,2019-08-08
+6071497,Meaford,Meaford,44.60725,-80.61081,P,PPL,CA,,8,,,,4910,,202,America/Toronto,2019-08-08
+6071618,Medicine Hat,Medicine Hat,50.03928,-110.67661,P,PPL,CA,,1,,,,63138,,673,America/Edmonton,2016-04-02
+6071876,Melfort,Melfort,52.86673,-104.61768,P,PPL,CA,,11,,,,5778,,457,America/Regina,2019-08-08
+6071900,Melita,Melita,49.26811,-100.99669,P,PPL,CA,,3,,,,1042,,443,America/Winnipeg,2021-12-25
+6071971,Melville,Melville,50.91671,-102.80099,P,PPL,CA,,11,,,,4127,,549,America/Regina,2019-08-08
+6072350,Merritt,Merritt,50.11225,-120.7942,P,PPL,CA,,2,5933,5933006,,7139,,593,America/Vancouver,2021-12-27
+7535694,Metabetchouan-Lac-a-la-Croix,Metabetchouan-Lac-a-la-Croix,48.41,-71.78,P,PPL,CA,,10,2,93012,,4084,,160,America/Toronto,2016-06-22
+6072470,Metcalfe,Metcalfe,45.2334,-75.46603,P,PPL,CA,,8,3506,3506008,,1776,,89,America/Toronto,2019-08-08
+6072482,Metchosin,Metchosin,48.38293,-123.53591,P,PPL,CA,,2,5917,5917042,,4803,,49,America/Vancouver,2019-02-26
+6073290,Middleton,Middleton,45.71659,-63.17932,P,PPL,CA,,7,,,,1391,,40,America/Halifax,2019-08-08
+6073289,Middleton,Middleton,44.94284,-65.07022,P,PPL,CA,,7,,,,1832,,20,America/Halifax,2021-12-27
+6073363,Midland,Midland,44.7501,-79.88296,P,PPL,CA,,8,,,,24353,,195,America/Toronto,2019-08-08
+6073561,Mildmay,Mildmay,44.043,-81.11889,P,PPL,CA,,8,3541,3541004,,1219,,313,America/Toronto,2020-05-30
+6073749,Millbrook,Millbrook,44.15012,-78.44954,P,PPL,CA,,8,3515,3515013,,1695,,215,America/Toronto,2019-08-08
+6074099,Millet,Millet,53.09415,-113.47056,P,PPL,CA,,1,4811011,,,1905,,752,America/Edmonton,2020-05-06
+6074639,Mingan,Mingan,50.292,-64.03196,P,PPL,CA,,10,9,98040,,407,,6,America/Toronto,2017-09-16
+6074882,Minnedosa,Minnedosa,50.24532,-99.84364,P,PPL,CA,,3,,,,2449,,516,America/Winnipeg,2021-12-25
+6075061,Mirabel,Mirabel,45.65008,-74.08251,P,PPL,CA,,10,15,74005,,34626,,70,America/Toronto,2016-06-22
+6075081,Miramichi,Miramichi,47.02895,-65.50186,P,PPL,CA,,4,1309,,,17537,,18,America/Moncton,2021-12-21
+6943602,Miscou,Miscou,47.94395,-64.57111,P,PPL,CA,,4,1315,,,530,,5,America/Moncton,2019-08-12
+6075292,Mission,Mission,49.13298,-122.30258,P,PPL,CA,,2,5909,5909056,,33261,,8,America/Vancouver,2019-08-08
+6075357,Mississauga,Mississauga,43.5789,-79.6583,P,PPL,CA,,8,,,,668549,,159,America/Toronto,2012-07-01
+6075359,Mississauga Beach,Mississauga Beach,43.25876,-79.08625,P,PPL,CA,,8,3526,,,4662,,85,America/Toronto,2020-05-31
+6075491,Mistissini,Mistissini,50.41832,-73.86895,P,PPL,CA,,10,18,,,2869,,399,America/Toronto,2020-05-30
+6076211,Moncton,Moncton,46.09454,-64.7965,P,PPL,CA,,4,1307,,,108620,,30,America/Moncton,2019-08-08
+6076690,Montague,Montague,46.16681,-62.64866,P,PPL,CA,,9,,,,1834,,11,America/Halifax,2019-08-08
+7602072,Montague Harbour,Montague Harbour,48.89452,-123.39166,P,PPL,CA,,2,,,,200,10,61,America/Vancouver,2010-11-14
+6076939,Montebello,Montebello,45.6501,-74.93258,P,PPL,CA,,10,7,80010,,978,,50,America/Toronto,2019-02-26
+6944113,Mont-Joli,Mont-Joli,48.58388,-68.19214,P,PPL,CA,,10,1,9077,,6568,,81,America/Toronto,2018-02-24
+6077128,Mont-Laurier,Mont-Laurier,46.55011,-75.4993,P,PPL,CA,,10,15,79088,,13405,,226,America/Toronto,2016-06-22
+6325529,Montmagny,Montmagny,46.98043,-70.55493,P,PPL,CA,,10,12,18050,,11724,,15,America/Toronto,2021-02-20
+6077251,MontrÈal-Est,Montreal-Est,45.63202,-73.5075,P,PPL,CA,,10,6,66007,,3850,,12,America/Toronto,2021-12-22
+6077265,MontrÈal-Ouest,Montreal-Ouest,45.45286,-73.64918,P,PPL,CA,,10,6,66047,,5184,,48,America/Toronto,2019-06-07
+6077295,Montrose,Montrose,49.08314,-117.58552,P,PPL,CA,,2,5905,5905009,,996,,631,America/Vancouver,2021-12-27
+6077315,Mont-Royal,Mont-Royal,45.51675,-73.64918,P,PPL,CA,,10,6,66072,,18933,,47,America/Toronto,2016-06-22
+6077338,Mont-Saint-GrÈgoire,Mont-Saint-Gregoire,45.33338,-73.16585,P,PPL,CA,,10,16,56097,,3086,,40,America/Toronto,2017-02-01
+6077340,Mont-Saint-Hilaire,Mont-Saint-Hilaire,45.56515,-73.1868,P,PPL,CA,,10,16,57035,,15720,,39,America/Toronto,2017-01-31
+6077445,Mont-Tremblant,Mont-Tremblant,46.21274,-74.58438,P,PPL,CA,,10,15,78102,,8892,,257,America/Toronto,2019-02-26
+6077991,Moose Factory,Moose Factory,51.26689,-80.61624,P,PPL,CA,,8,,,,1807,,0,America/Toronto,2019-08-10
+6078112,Moose Jaw,Moose Jaw,50.40005,-105.53445,P,PPL,CA,,11,,,,33890,,552,America/Regina,2021-12-21
+6078359,Moosomin,Moosomin,50.14261,-101.66666,P,PPL,CA,,11,,,,2485,,578,America/Regina,2021-12-25
+6078372,Moosonee,Moosonee,51.27931,-80.6345,P,PPL,CA,,8,3556,,,1405,,10,America/Toronto,2019-08-08
+6078447,Morden,Morden,49.1919,-98.10136,P,PPL,CA,,3,,,,8668,,306,America/Winnipeg,2021-12-25
+6078607,Morin-Heights,Morin-Heights,45.90009,-74.24922,P,PPL,CA,,10,15,77050,,3925,,240,America/Toronto,2019-02-26
+6078636,Morinville,Morinville,53.80014,-113.65203,P,PPL,CA,,1,,,,9848,,701,America/Edmonton,2021-12-25
+6078727,Morris,Morris,49.35499,-97.36567,P,PPL,CA,,3,,,,1916,,236,America/Winnipeg,2021-12-25
+6078737,Morrisburg,Morrisburg,44.9001,-75.18261,P,PPL,CA,,8,3501,3501020,,3014,,77,America/Toronto,2019-02-26
+6079673,Mount Albert,Mount Albert,44.13341,-79.3163,P,PPL,CA,,8,,,,4925,,243,America/Toronto,2019-08-09
+12076656,Mount Currie 6,Mount Currie 6,50.32937,-122.66395,P,PPL,CA,,2,5931,,,961,,370,America/Vancouver,2019-08-12
+6082231,Mount Pearl,Mount Pearl,47.51659,-52.78135,P,PPL,CA,,5,,,,23120,,109,America/St_Johns,2021-11-11
+6943820,Murdochville,Murdochville,48.9583,-65.5006,P,PPL,CA,,10,11,3025,,764,,554,America/Toronto,2019-02-26
+6085444,Nackawic,Nackawic,45.99666,-67.24028,P,PPL,CA,,4,,,,941,,70,America/Moncton,2021-12-26
+6085665,Nakusp,Nakusp,50.24987,-117.80226,P,PPL,CA,,2,5903,5903050,,1706,,484,America/Vancouver,2019-02-26
+6085772,Nanaimo,Nanaimo,49.16638,-123.94003,P,PPL,CA,,2,5921,5921007,,90504,,16,America/Vancouver,2021-12-05
+6085892,Nanton,Nanton,50.35008,-113.76866,P,PPL,CA,,1,,,,2181,,1019,America/Edmonton,2021-12-25
+6085931,Napanee,Napanee,44.25012,-76.94944,P,PPL,CA,,8,,,,7439,,92,America/Toronto,2019-08-08
+6085960,Napierville,Napierville,45.18648,-73.40468,P,PPL,CA,,10,16,68030,,3124,,57,America/Toronto,2016-06-22
+6086225,Natashquan,Natashquan,50.18514,-61.81912,P,PPL,CA,,10,9,98025,,246,,5,America/Toronto,2016-06-22
+6086590,Neebing,Neebing,48.1668,-89.41683,P,PPL,CA,,8,,,,1986,,234,America/Toronto,2013-05-05
+6086673,Neepawa,Neepawa,50.22892,-99.46642,P,PPL,CA,,3,,,,4609,,374,America/Winnipeg,2021-12-25
+6086871,Nelson,Nelson,49.49985,-117.28553,P,PPL,CA,,2,5903,5903015,,10664,,541,America/Vancouver,2021-12-21
+6087029,Nepean,Nepean,45.33619,-75.7225,P,PPL,CA,,8,3506,3506008,,180000,,87,America/Toronto,2019-09-26
+6087315,Neustadt,Neustadt,44.08339,-80.99973,P,PPL,CA,,8,,,,517,,290,America/Toronto,2019-08-12
+6325572,Neuville,Neuville,46.69823,-71.58275,P,PPL,CA,,10,3,34007,,3638,,18,America/Toronto,2016-06-22
+6943833,New Carlisle,New Carlisle,48.00956,-65.33621,P,PPL,CA,,10,11,5040,,1358,,29,America/Toronto,2016-06-22
+6087579,New Glasgow,New Glasgow,45.58344,-62.64863,P,PPL,CA,,7,,,,18665,,11,America/Halifax,2019-08-08
+6087591,New Hamburg,New Hamburg,43.38339,-80.6997,P,PPL,CA,,8,3530,3530020,,13595,,348,America/Toronto,2019-08-08
+6087624,New Hazelton,New Hazelton,55.24635,-127.5923,P,PPL,CA,,2,5949,5949024,,627,,312,America/Vancouver,2019-02-26
+6087704,New Maryland,New Maryland,45.89662,-66.68225,P,PPL,CA,,4,1310,,,4174,,125,America/Moncton,2021-12-26
+6087844,New Westminster,New Westminster,49.20678,-122.91092,P,PPL,CA,,2,5915,5915029,,58549,,64,America/Vancouver,2019-02-26
+6087701,Newmarket,Newmarket,44.05011,-79.46631,P,PPL,CA,,8,,,,84224,,250,America/Toronto,2021-12-21
+6943826,New-Richmond,New-Richmond,48.16059,-65.85823,P,PPL,CA,,10,11,5070,,3748,,7,America/Toronto,2016-06-22
+6087892,Niagara Falls,Niagara Falls,43.10012,-79.06627,P,PPL,CA,,8,,,,82000,,184,America/Toronto,2021-08-01
+6087905,Niagara-on-the-Lake,Niagara-on-the-Lake,43.25655,-79.08527,P,PPL,CA,,8,3526,,,17511,,85,America/Toronto,2021-04-19
+6088132,Nicolet,Nicolet,46.23085,-72.61292,P,PPL,CA,,10,17,50072,,5669,,24,America/Toronto,2020-05-31
+6088469,Nipawin,Nipawin,53.36678,-104.00092,P,PPL,CA,,11,,,,4401,,361,America/Regina,2021-12-25
+6088677,Niverville,Niverville,49.60559,-97.04234,P,PPL,CA,,3,,,,4083,,235,America/Winnipeg,2021-12-25
+6089009,Noonan,Noonan,45.96682,-66.53218,P,PPL,CA,,4,,,,1042,,102,America/Moncton,2019-08-11
+6089125,Norfolk County,Norfolk County,42.8334,-80.38297,P,PPL,CA,,8,,,,60847,,235,America/Toronto,2010-09-22
+6089245,Norman Wells,Norman Wells,65.28201,-126.8329,P,PPL,CA,,13,11995138,6102007,,1027,,17,America/Yellowknife,2019-02-26
+6089179,Normandin,Normandin,48.83328,-72.53209,P,PPL,CA,,10,2,92040,,2728,,142,America/Toronto,2016-06-22
+6089404,North Battleford,North Battleford,52.77972,-108.2967,P,PPL,CA,,11,,,,19440,,526,America/Regina,2013-10-06
+6089426,North Bay,North Bay,46.3168,-79.46633,P,PPL,CA,,8,3548,,,50396,,206,America/Toronto,2019-09-05
+6089661,North Cowichan,North Cowichan,48.84133,-123.68596,P,PPL,CA,,2,5919,5919008,,29676,,145,America/Vancouver,2021-12-21
+12076640,North Oyster/Yellow Point,North Oyster/Yellow Point,49.04807,-123.83395,P,PPL,CA,,2,5919,,,1320,,44,America/Vancouver,2019-08-11
+6090405,North Perth,North Perth,43.7251,-80.96723,P,PPL,CA,,8,,,,13130,,380,America/Toronto,2021-11-13
+6090579,North Saanich,North Saanich,48.66634,-123.41933,P,PPL,CA,,2,5917,5917005,,11089,,11,America/Vancouver,2019-02-26
+6090785,North Vancouver,North Vancouver,49.31636,-123.06934,P,PPL,CA,,2,5915,5915051,,48000,68,89,America/Vancouver,2021-08-25
+6091197,Norwood,Norwood,44.38342,-77.98281,P,PPL,CA,,8,3515,3515003,,1380,,212,America/Toronto,2019-08-08
+6091369,Notre-Dame-de-l'Œle-Perrot,Notre-Dame-de-l'Ile-Perrot,45.36678,-73.9325,P,PPL,CA,,10,16,71065,,9885,,41,America/Toronto,2016-06-22
+6091422,Notre-Dame-des-Prairies,Notre-Dame-des-Prairies,46.05007,-73.43245,P,PPL,CA,,10,14,61030,,8230,,62,America/Toronto,2016-06-22
+6091445,Notre-Dame-du-Lac,Notre-Dame-du-Lac,46.75012,-79.04961,P,PPL,CA,,10,,,,1184,,248,America/Toronto,2019-08-10
+6091451,Notre-Dame-du-Mont-Carmel,Notre-Dame-du-Mont-Carmel,46.0168,-75.08259,P,PPL,CA,,10,,,,1091,,235,America/Toronto,2019-08-10
+6091919,Oak Bay,Oak Bay,48.44964,-123.3026,P,PPL,CA,,2,5917,5917030,,18015,,45,America/Vancouver,2019-02-26
+6092122,Oakville,Oakville,43.45011,-79.68292,P,PPL,CA,,8,,,,193832,,99,America/Toronto,2021-12-21
+6092873,Oka,Oka,45.46489,-74.08892,P,PPL,CA,,10,15,72032,,1254,,47,America/Toronto,2019-08-08
+6092889,Okanagan Falls,Okanagan Falls,49.35,-119.56667,P,PPL,CA,,2,,,,2167,,357,America/Vancouver,2021-12-27
+6093010,Okotoks,Okotoks,50.72885,-113.98281,P,PPL,CA,,1,,,,14826,,1071,America/Edmonton,2009-03-25
+6093347,Olds,Olds,51.78341,-114.10199,P,PPL,CA,,1,,,,8944,,1039,America/Edmonton,2019-08-08
+6093514,Oliver,Oliver,49.18306,-119.5524,P,PPL,CA,,2,5907,5907014,,5279,,309,America/Vancouver,2019-08-08
+7803723,Omemee,Omemee,44.29897,-78.55989,P,PPL,CA,,8,3516,,,1323,,252,America/Toronto,2019-09-27
+6094201,Orangeville,Orangeville,43.9168,-80.09967,P,PPL,CA,,8,,,,30734,,443,America/Toronto,2019-08-08
+6094325,Orillia,Orillia,44.60868,-79.42068,P,PPL,CA,,8,,,,31166,,232,America/Toronto,2021-11-10
+6094391,Ormstown,Ormstown,45.13338,-73.99922,P,PPL,CA,,10,16,69037,,1730,,38,America/Toronto,2019-08-08
+6094407,Oromocto,Oromocto,45.83512,-66.47917,P,PPL,CA,,4,,,,8805,,27,America/Moncton,2019-08-08
+6094578,Oshawa,Oshawa,43.90012,-78.84957,P,PPL,CA,,8,,,,166000,,105,America/Toronto,2021-12-21
+6094665,Osoyoos,Osoyoos,49.03306,-119.45237,P,PPL,CA,,2,,,,4520,,277,America/Vancouver,2019-08-08
+6094884,Otterburn Park,Otterburn Park,45.53338,-73.21585,P,PPL,CA,,10,16,57030,,8464,,13,America/Toronto,2016-06-22
+6095416,Outlook,Outlook,51.48803,-107.05644,P,PPL,CA,,11,,,,2279,,540,America/Regina,2021-12-25
+6095645,Owen Sound,Owen Sound,44.56717,-80.94349,P,PPL,CA,,8,,,,21341,,180,America/Toronto,2021-11-12
+6095751,Oxbow,Oxbow,49.23335,-102.1676,P,PPL,CA,,11,,,,1058,,582,America/Regina,2008-04-11
+6095779,Oxford,Oxford,45.73345,-63.86542,P,PPL,CA,,7,,,,1190,,6,America/Halifax,2021-12-27
+6101321,PÈribonka,Peribonka,48.76677,-72.04905,P,PPL,CA,,10,2,92010,,464,,106,America/Toronto,2016-06-22
+6095989,Paddle Prairie,Paddle Prairie,57.95014,-117.48608,P,PPL,CA,,1,,,,544,,360,America/Edmonton,2019-08-12
+6096232,Paisley,Paisley,44.30641,-81.27265,P,PPL,CA,,8,3541,3541043,,1045,,214,America/Toronto,2019-08-08
+6096381,Palmer,Palmer,49.85006,-106.3512,P,PPL,CA,,11,,,,10,,723,America/Regina,2019-08-08
+6096672,Papineauville,Papineauville,45.6168,-75.01599,P,PPL,CA,,10,7,80037,,1600,,52,America/Toronto,2018-02-24
+12076636,Parc-Boutin,Parc-Boutin,45.29209,-73.26154,P,PPL,CA,,10,12,26070,,1127,,30,America/Toronto,2022-03-04
+6942553,Paris,Paris,43.2,-80.38333,P,PPL,CA,,8,,,,12310,,255,America/Toronto,2021-12-21
+6098542,Parkhill,Parkhill,43.15993,-81.68464,P,PPL,CA,,8,3539,3539041,,1737,,207,America/Toronto,2019-08-08
+6098642,Parksville,Parksville,49.31947,-124.31575,P,PPL,CA,,2,5921,5921018,,12000,,26,America/Vancouver,2019-02-26
+6098717,Parrsboro,Parrsboro,45.40567,-64.32585,P,PPL,CA,,7,,,,1472,,17,America/Halifax,2014-10-31
+6098747,Parry Sound,Parry Sound,45.34732,-80.03527,P,PPL,CA,,8,3549,,,6321,,199,America/Toronto,2019-08-08
+6098924,Pasadena,Pasadena,49.01671,-57.59837,P,PPL,CA,,5,,,,3620,,28,America/St_Johns,2021-12-22
+6100069,Peace River,Peace River,56.23715,-117.29176,P,PPL,CA,,1,,,,6842,,330,America/Edmonton,2021-11-13
+6100086,Peachland,Peachland,49.76862,-119.74633,P,PPL,CA,,2,5935,5935018,,1305,,396,America/Vancouver,2020-05-31
+6100681,Pelican Narrows,Pelican Narrows,55.16685,-102.9341,P,PPL,CA,,11,,,,1942,,318,America/Regina,2019-08-08
+6100799,Pemberton,Pemberton,50.31641,-122.80273,P,PPL,CA,,2,5931,5931012,,2574,,211,America/Vancouver,2021-12-27
+6100832,Pembroke,Pembroke,45.81681,-77.11616,P,PPL,CA,,8,,,,13882,,120,America/Toronto,2021-11-13
+6100954,Penhold,Penhold,52.13342,-113.8687,P,PPL,CA,,1,,,,3277,,895,America/Edmonton,2021-12-25
+6101141,Penticton,Penticton,49.48062,-119.58584,P,PPL,CA,,2,5907,5907041,,33761,,357,America/Vancouver,2021-11-11
+12076663,Pepper Creek,Pepper Creek,45.95286,-66.59038,P,PPL,CA,,4,1310,,,802,,49,America/Moncton,2019-08-12
+6101546,Perth,Perth,44.90011,-76.24939,P,PPL,CA,,8,,,,5573,,134,America/Toronto,2019-08-08
+6101606,Petawawa,Petawawa,45.89452,-77.28007,P,PPL,CA,,8,,,,17187,,143,America/Toronto,2021-11-13
+6101645,Peterborough,Peterborough,44.30012,-78.31623,P,PPL,CA,,8,,,,81032,,188,America/Toronto,2021-12-21
+6103581,Petrolia,Petrolia,42.86678,-82.14981,P,PPL,CA,,8,3538,3538016,,5375,,190,America/Toronto,2019-08-08
+6103959,Piapot,Piapot,49.98337,-109.11817,P,PPL,CA,,11,,,,50,,757,America/Regina,2019-08-08
+6104111,Pickering,Pickering,43.90012,-79.13289,P,PPL,CA,,8,,,,91771,,214,America/Toronto,2021-12-21
+6104215,Picton,Picton,44.00176,-77.14637,P,PPL,CA,,8,3513,,,4702,,96,America/Toronto,2021-12-25
+6104221,Pictou,Pictou,45.67875,-62.70936,P,PPL,CA,,7,,,,3186,,45,America/Halifax,2021-12-27
+6104231,Picture Butte,Picture Butte,49.8833,-112.78516,P,PPL,CA,,1,,,,1700,,906,America/Edmonton,2019-08-08
+6104260,Piedmont,Piedmont,45.90008,-74.13251,P,PPL,CA,,10,15,77030,,2721,,184,America/Toronto,2016-06-22
+6104329,Pierreville,Pierreville,46.07034,-72.81125,P,PPL,CA,,10,17,50113,,1119,,24,America/Toronto,2019-08-08
+6104745,Pilot Butte,Pilot Butte,50.48011,-104.41911,P,PPL,CA,,11,,,,2137,,618,America/Regina,2021-12-25
+6104841,Pincher Creek,Pincher Creek,49.48328,-113.95195,P,PPL,CA,,1,,,,3855,,1151,America/Edmonton,2008-04-11
+6104876,Pincourt,Pincourt,45.38338,-73.9825,P,PPL,CA,,10,16,71070,,11197,,27,America/Toronto,2016-06-22
+6104966,Pine Falls,Pine Falls,50.56641,-96.21808,P,PPL,CA,,3,,,,632,,230,America/Winnipeg,2019-08-12
+6105815,Pitt Meadows,Pitt Meadows,49.22119,-122.68965,P,PPL,CA,,2,5915,5915070,,18573,,13,America/Vancouver,2021-12-21
+6106158,Plantagenet,Plantagenet,45.5326,-74.99369,P,PPL,CA,,8,,,,9680,,51,America/Toronto,2021-12-25
+6106255,Plattsville,Plattsville,43.30794,-80.61618,P,PPL,CA,,8,3532,3532045,,1366,,316,America/Toronto,2020-10-24
+6945991,Plessisville,Plessisville,46.21856,-71.76201,P,PPL,CA,,10,17,32040,,6677,,163,America/Toronto,2019-02-26
+8379097,PohÈnÈgamook,Pohenegamook,47.46315,-69.22666,P,PPL,CA,,10,1,13095,,2770,,231,America/Toronto,2016-06-22
+6106676,Point de Bute,Point de Bute,45.90064,-64.24186,P,PPL,CA,,4,,,,571,,23,America/Moncton,2019-08-13
+6107272,Pointe-Calumet,Pointe-Calumet,45.50008,-73.9659,P,PPL,CA,,10,15,72020,,6396,,23,America/Toronto,2016-06-22
+6107325,Pointe-Claire,Pointe-Claire,45.44868,-73.81669,P,PPL,CA,,10,6,66097,,30161,,45,America/Toronto,2019-02-26
+6107683,Pointe-du-Lac,Pointe-du-Lac,48.50009,-71.78241,P,PPL,CA,,10,,,,7104,,101,America/Toronto,2019-08-10
+6109273,Ponoka,Ponoka,52.6768,-113.58147,P,PPL,CA,,1,,,,6656,,806,America/Edmonton,2010-12-16
+6110611,Pont Rouge,Pont Rouge,48.88332,-72.08247,P,PPL,CA,,10,2,92015,,7518,,135,America/Toronto,2016-06-22
+8379100,Pont-Rouge,Pont-Rouge,46.75468,-71.69566,P,PPL,CA,,10,3,34017,,8723,,104,America/Toronto,2016-06-22
+6111632,Port Alberni,Port Alberni,49.24133,-124.8028,P,PPL,CA,,2,5923,5923008,,20712,,22,America/Vancouver,2019-08-08
+6111704,Port Colborne,Port Colborne,42.90012,-79.23288,P,PPL,CA,,8,,,,18306,,188,America/Toronto,2021-11-12
+6111867,Port Hawkesbury,Port Hawkesbury,45.61652,-61.35636,P,PPL,CA,,7,1215,,,3004,,25,America/Halifax,2022-03-04
+6111882,Port Hope,Port Hope,44.01682,-78.39953,P,PPL,CA,,8,,,,12587,,144,America/Toronto,2019-09-06
+6111953,Port McNeill,Port McNeill,50.59,-127.08638,P,PPL,CA,,2,5943,5943012,,2064,,12,America/Vancouver,2019-11-14
+6111995,Port Renfrew,Port Renfrew,48.55281,-124.4221,P,PPL,CA,,2,5917,,,190,,16,America/Vancouver,2013-09-13
+6112000,Port Rowan,Port Rowan,42.6168,-80.46638,P,PPL,CA,,8,,,,1102,,184,America/Toronto,2019-08-09
+6112027,Port Stanley,Port Stanley,42.66679,-81.21644,P,PPL,CA,,8,3534,3534020,,2148,,180,America/Toronto,2019-08-08
+6112057,Port Williams,Port Williams,45.10015,-64.41546,P,PPL,CA,,7,,,,1120,,31,America/Halifax,2019-08-08
+6111529,Portage la Prairie,Portage la Prairie,49.97282,-98.29263,P,PPL,CA,,3,,,,13304,,263,America/Winnipeg,2021-12-21
+6111696,Port-Cartier,Port-Cartier,50.03339,-66.86545,P,PPL,CA,,10,9,97022,,5851,,31,America/Toronto,2016-06-22
+6354894,Portneuf,Portneuf,46.69058,-71.89011,P,PPL,CA,,10,3,34048,,3107,,12,America/Toronto,2019-02-26
+6112530,Powassan,Powassan,46.0334,-79.34961,P,PPL,CA,,8,,,,1243,,330,America/Toronto,2008-04-11
+6112608,Powell River,Powell River,49.83278,-124.52368,P,PPL,CA,,2,5927,5927008,,13157,,41,America/Vancouver,2021-12-21
+6112681,Powerview,Powerview,50.56611,-96.19868,P,PPL,CA,,3,,,,684,,228,America/Winnipeg,2019-08-12
+6113198,PrÈvost,Prevost,45.86678,-74.08251,P,PPL,CA,,10,15,75040,,10132,,166,America/Toronto,2016-06-22
+6112862,Preeceville,Preeceville,51.94998,-102.66766,P,PPL,CA,,11,,,,1003,,508,America/Regina,2008-04-11
+6113027,Prescott,Prescott,44.71681,-75.51604,P,PPL,CA,,8,,,,4466,,90,America/Toronto,2013-09-22
+6113335,Prince Albert,Prince Albert,53.20008,-105.76772,P,PPL,CA,,11,,,,35102,,431,America/Regina,2022-02-14
+6113355,Prince Edward,Prince Edward,44.00012,-77.24946,P,PPL,CA,,8,,,,25496,,97,America/Toronto,2010-09-22
+6113365,Prince George,Prince George,53.9166,-122.75301,P,PPL,CA,,2,5953,5953023,,74003,,578,America/Vancouver,2021-11-10
+6113406,Prince Rupert,Prince Rupert,54.31507,-130.32098,P,PPL,CA,,2,5947,5947012,,14708,,26,America/Vancouver,2019-02-26
+6113463,Princeton,Princeton,49.45802,-120.51076,P,PPL,CA,,2,5907,5907024,,2828,,660,America/Vancouver,2021-12-27
+6113466,Princeville,Princeville,45.76684,-61.29853,P,PPL,CA,,7,,,,5571,,43,America/Halifax,2010-09-23
+8379101,Princeville,Princeville,46.17163,-71.87462,P,PPL,CA,,10,17,32033,,5693,,160,America/Toronto,2016-02-23
+6113828,Provost,Provost,52.35014,-110.26828,P,PPL,CA,,1,,,,2082,,666,America/Edmonton,2008-04-11
+6115156,Queenswood Heights,Queenswood Heights,45.47083,-75.50556,P,PPL,CA,,8,3506,3506008,,12000,,86,America/Toronto,2019-08-08
+6115187,Quesnel,Quesnel,52.97842,-122.4931,P,PPL,CA,,2,5941,5941013,,9879,,479,America/Vancouver,2021-12-21
+6115355,Quinte West,Quinte West,44.18342,-77.56618,P,PPL,CA,,8,,,,43577,,130,America/Toronto,2021-11-12
+6116204,Rama,Rama,51.7574,-102.99894,P,PPL,CA,,11,,,,80,553,553,America/Regina,2021-12-25
+6116338,Ramsayville,Ramsayville,45.37472,-75.56472,P,PPL,CA,,8,3506,3506008,,90,,73,America/Toronto,2021-12-26
+6116394,Ranchero,Ranchero,50.654,-119.20236,P,PPL,CA,,2,,,,959,,524,America/Vancouver,2019-08-12
+6117611,Rawdon,Rawdon,46.05007,-73.71587,P,PPL,CA,,10,14,62037,,5188,,176,America/Toronto,2019-08-08
+6117675,Raymond,Raymond,49.46382,-112.66024,P,PPL,CA,,1,4802001,,,3708,,956,America/Edmonton,2021-12-25
+6117731,Rayside-Balfour,Rayside-Balfour,46.60873,-81.20763,P,PPL,CA,,8,,,,14557,,280,America/Toronto,2021-11-12
+6118158,Red Deer,Red Deer,52.26682,-113.802,P,PPL,CA,,1,,,,73593,,856,America/Edmonton,2008-04-11
+6118425,Red Lake,Red Lake,51.06676,-93.73373,P,PPL,CA,,8,,,,1177,,358,America/Winnipeg,2019-08-08
+6118417,Red Lake,Red Lake,51.01678,-93.82736,P,PPL,CA,,8,3560,,,4366,,374,America/Winnipeg,2018-01-20
+6119113,Regina Beach,Regina Beach,50.79146,-104.98006,P,PPL,CA,,11,,,,1629,,512,America/Regina,2020-05-30
+6119448,Renfrew,Renfrew,45.46681,-76.68272,P,PPL,CA,,8,,,,8223,,128,America/Toronto,2021-12-25
+6119518,Repentigny,Repentigny,45.74222,-73.45008,P,PPL,CA,,10,14,60013,,84965,,10,America/Toronto,2021-11-11
+6121621,Revelstoke,Revelstoke,50.99712,-118.1953,P,PPL,CA,,2,5939,5939019,,7547,,459,America/Vancouver,2021-12-21
+6122037,Richelieu,Richelieu,45.44336,-73.24602,P,PPL,CA,,10,16,55057,,5208,,29,America/Toronto,2019-02-26
+6122053,Richibucto,Richibucto,46.68073,-64.88044,P,PPL,CA,,4,,,,1266,,5,America/Moncton,2021-12-27
+6122085,Richmond,Richmond,49.17003,-123.13683,P,PPL,CA,,2,5915,5915015,,198309,,9,America/Vancouver,2021-11-10
+6122081,Richmond,Richmond,45.1834,-75.83266,P,PPL,CA,,8,3506,3506008,,4055,,90,America/Toronto,2019-08-08
+6122078,Richmond,Richmond,45.66677,-72.1491,P,PPL,CA,,10,5,42098,,3232,,126,America/Toronto,2021-12-22
+6122091,Richmond Hill,Richmond Hill,43.87111,-79.43725,P,PPL,CA,,8,3519,,,195022,,232,America/Toronto,2021-12-21
+6122230,Ridgetown,Ridgetown,42.43536,-81.88733,P,PPL,CA,,8,3536,,,3002,,213,America/Toronto,2020-05-30
+6122288,Rigaud,Rigaud,45.47927,-74.30238,P,PPL,CA,,10,16,71133,,3613,,30,America/Toronto,2019-08-08
+6122374,Rimbey,Rimbey,52.6334,-114.23532,P,PPL,CA,,1,,,,2567,,913,America/Edmonton,2021-12-25
+6354895,Rimouski,Rimouski,48.44879,-68.52396,P,PPL,CA,,10,1,10043,,42240,,23,America/Toronto,2016-06-22
+6122707,Rivers,Rivers,50.03081,-100.24029,P,PPL,CA,,3,,,,1257,,478,America/Winnipeg,2021-12-25
+6354897,RiviËre-du-Loup,Riviere-du-Loup,47.82699,-69.54243,P,PPL,CA,,10,1,12072,,18586,,56,America/Toronto,2019-02-26
+6124931,RiviËre-Rouge,Riviere-Rouge,46.41679,-74.86596,P,PPL,CA,,10,15,79037,,4645,,240,America/Toronto,2021-12-25
+6125653,Roberval,Roberval,48.5168,-72.23244,P,PPL,CA,,10,2,91025,,10227,,113,America/Toronto,2021-12-22
+6125862,Roblin,Roblin,51.22999,-101.3565,P,PPL,CA,,3,,,,1614,,553,America/Winnipeg,2021-12-25
+6125877,Robsart,Robsart,49.38334,-109.28477,P,PPL,CA,,11,,,,20,,961,America/Regina,2019-08-08
+6125931,Rochebaucourt,Rochebaucourt,48.68349,-77.49948,P,PPL,CA,,10,8,88010,,161,,300,America/Toronto,2016-06-22
+6126336,Rock Island,Rock Island,45.00699,-72.09628,P,PPL,CA,,10,,,,897,,314,America/Toronto,2019-08-12
+6126540,Rockwood,Rockwood,43.61899,-80.14441,P,PPL,CA,,8,3523,3523009,,4629,,360,America/Toronto,2019-08-08
+6126749,Rocky Mountain House,Rocky Mountain House,52.36683,-114.9188,P,PPL,CA,,1,,,,6527,,982,America/Edmonton,2008-04-11
+8051143,Rosebud,Rosebud,51.3003,-112.9507,P,PPL,CA,,1,,,,80,,790,America/Edmonton,2011-10-25
+6127681,RosemËre,Rosemere,45.63338,-73.79919,P,PPL,CA,,10,15,73020,,14173,,29,America/Toronto,2019-02-26
+6127749,Rosetown,Rosetown,51.5501,-108.00136,P,PPL,CA,,11,,,,2309,,583,America/Regina,2008-04-11
+6127950,Rossland,Rossland,49.08313,-117.80224,P,PPL,CA,,2,5905,5905023,,3729,,1103,America/Vancouver,2021-12-27
+6128008,Rosthern,Rosthern,52.66679,-106.33446,P,PPL,CA,,11,,,,1405,,507,America/Regina,2008-04-11
+6128089,Rougemont,Rougemont,45.43338,-73.04914,P,PPL,CA,,10,16,55037,,1481,,49,America/Toronto,2019-08-08
+6128577,Rouyn-Noranda,Rouyn-Noranda,48.23656,-79.02311,P,PPL,CA,,10,8,86042,,23504,,299,America/Toronto,2019-08-08
+6128795,Royston,Royston,49.64703,-124.9467,P,PPL,CA,,2,5926,,,1616,,15,America/Vancouver,2019-08-11
+6136572,Russell,Russell,45.2501,-75.36602,P,PPL,CA,,8,,,,4464,,72,America/Toronto,2019-08-10
+6137063,Sackville,Sackville,45.89868,-64.36836,P,PPL,CA,,4,1307,,,2963,,17,America/Moncton,2020-05-30
+6944111,SacrÈ-Coeur,Sacre-Coeur,48.2297,-69.80061,P,PPL,CA,,10,9,95010,,1881,,115,America/Toronto,2016-06-22
+6137270,Saguenay,Saguenay,48.41675,-71.06573,P,PPL,CA,,10,2,94068,,143692,,84,America/Toronto,2016-06-22
+6137411,Saint Andrews,Saint Andrews,45.0737,-67.05312,P,PPL,CA,,4,1302,,,1809,,9,America/Moncton,2014-09-20
+12076661,Saint IrÈnÈe and Alderwood,Saint Irenee and Alderwood,47.49887,-64.98691,P,PPL,CA,,4,1315,,,847,,31,America/Moncton,2019-08-12
+6138517,Saint John,Saint John,45.27076,-66.05616,P,PPL,CA,,4,1301,,,67575,,30,America/Moncton,2021-11-10
+6137842,Saint-…douard,Saint-Edouard,45.23338,-73.51588,P,PPL,CA,,10,16,68045,,1672,,53,America/Toronto,2016-06-22
+6138047,Saint-…mile-de-Suffolk,Saint-Emile-de-Suffolk,45.9334,-74.91597,P,PPL,CA,,10,7,80125,,566,,217,America/Toronto,2016-06-22
+6138075,Saint-…phrem-de-Beauce,Saint-Ephrem-de-Beauce,46.06677,-70.94905,P,PPL,CA,,10,,,,1385,,294,America/Toronto,2019-08-10
+6137327,Saint-Adolphe-d'Howard,Saint-Adolphe-d'Howard,45.96679,-74.33253,P,PPL,CA,,10,15,77065,,3702,,374,America/Toronto,2016-06-22
+6137352,Saint-Alexandre,Saint-Alexandre,50.02539,-66.86155,P,PPL,CA,,10,,,,1093,,13,America/Toronto,2019-08-10
+6137353,Saint-Alexandre,Saint-Alexandre,45.5001,-75.74935,P,PPL,CA,,10,,,,1304,,74,America/Toronto,2019-08-10
+6137378,Saint-Amable,Saint-Amable,45.65008,-73.29916,P,PPL,CA,,10,16,59015,,9486,,44,America/Toronto,2019-08-08
+6137383,Saint-Ambroise,Saint-Ambroise,46.07647,-73.55636,P,PPL,CA,,10,,,,1655,,92,America/Toronto,2019-08-10
+6354900,Saint-AndrÈ,Saint-Andre,47.67833,-69.72229,P,PPL,CA,,10,1,14040,,690,,4,America/Toronto,2016-06-22
+6137404,Saint-AndrÈ-Avellin,Saint-Andre-Avellin,45.7168,-75.06599,P,PPL,CA,,10,7,80027,,1903,,177,America/Toronto,2019-08-08
+6945984,Saint-Anselme,Saint-Anselme,46.62922,-70.9734,P,PPL,CA,,10,12,19062,,2541,,164,America/Toronto,2019-08-08
+6137422,Saint-Antoine,Saint-Antoine,46.36294,-64.74985,P,PPL,CA,,4,,,,1252,,58,America/Moncton,2019-08-08
+8224455,Saint-Antoine-de-Tilly,Saint-Antoine-de-Tilly,46.66346,-71.57335,P,PPL,CA,,10,12,33095,,1462,,49,America/Toronto,2016-06-22
+6137462,Saint-Augustin,Saint-Augustin,51.22602,-58.65017,P,PPL,CA,,10,9,98012,,3961,,7,America/Blanc-Sablon,2016-06-22
+7535681,Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,46.74064,-71.45131,P,PPL,CA,,10,3,23072,,17281,,78,America/Toronto,2019-02-26
+6137479,Saint-BarnabÈ-Sud,Saint-Barnabe-Sud,45.72977,-72.92244,P,PPL,CA,,10,,,,1387,,32,America/Toronto,2019-08-10
+11789602,Saint-Basile,Saint-Basile,47.39149,-68.2711,P,PPL,CA,,4,1313,,,717,,302,America/Moncton,2017-12-22
+6137489,Saint-Basile-le-Grand,Saint-Basile-le-Grand,45.53338,-73.28246,P,PPL,CA,,10,16,57020,,15605,,13,America/Toronto,2016-06-22
+12076678,Saint-Bernard-de-l'Œle-aux-Coudres,Saint-Bernard-de-l'Ile-aux-Coudres,47.0686,-70.5417,P,PPL,CA,,10,12,18070,,576,,7,America/Toronto,2019-08-13
+6137525,Saint-Boniface,Saint-Boniface,46.50011,-75.98264,P,PPL,CA,,10,,,,1035,,241,America/Toronto,2019-08-10
+6137533,Saint-Bruno,Saint-Bruno,48.46679,-71.6491,P,PPL,CA,,10,2,93030,,2636,,150,America/Toronto,2017-05-24
+6137539,Saint-Bruno-de-Guigues,Saint-Bruno-de-Guigues,47.46685,-79.43296,P,PPL,CA,,10,8,85045,,1100,,228,America/Toronto,2021-12-25
+6137540,Saint-Bruno-de-Montarville,Saint-Bruno-de-Montarville,45.53341,-73.34916,P,PPL,CA,,10,16,58037,,24388,,41,America/Toronto,2019-02-26
+6137631,Saint-CÙme--LiniËre,Saint-Come--Liniere,46.06677,-70.51573,P,PPL,CA,,10,12,29057,,2167,,310,America/Toronto,2016-06-22
+6137571,Saint-CÈsaire,Saint-Cesaire,45.41678,-72.99914,P,PPL,CA,,10,16,55023,,3815,,32,America/Toronto,2019-08-08
+6137557,Saint-Canut,Saint-Canut,45.71502,-74.08376,P,PPL,CA,,10,15,74005,,10643,,76,America/Toronto,2019-08-10
+6137576,Saint-Charles,Saint-Charles,45.70288,-73.55417,P,PPL,CA,,10,,,,1482,,12,America/Toronto,2019-08-10
+6137587,Saint-Charles-de-Bourget,Saint-Charles-de-Bourget,48.56679,-71.36578,P,PPL,CA,,10,2,94255,,690,,129,America/Toronto,2016-06-22
+6137633,Saint-Constant,Saint-Constant,45.36678,-73.56588,P,PPL,CA,,10,16,67035,,27359,,26,America/Toronto,2021-11-11
+6137649,Saint-Cyrille-de-Wendover,Saint-Cyrille-de-Wendover,45.93336,-72.43241,P,PPL,CA,,10,17,49070,,1279,,76,America/Toronto,2016-02-23
+6137655,Saint-Damase,Saint-Damase,45.53341,-72.99914,P,PPL,CA,,10,16,54017,,1349,,30,America/Toronto,2016-06-22
+6137676,Saint-Denis-sur-Richelieu,Saint-Denis-sur-Richelieu,45.78338,-73.14915,P,PPL,CA,,10,16,57068,,1067,,17,America/Toronto,2016-06-22
+6137692,Saint-Donat-de-Montcalm,Saint-Donat-de-Montcalm,46.31868,-74.22171,P,PPL,CA,,10,,,,1213,,401,America/Toronto,2019-08-10
+6639619,Sainte Catherine de la Jacques Cartier,Sainte Catherine de la Jacques Cartier,46.85244,-71.62056,P,PPL,CA,,10,3,22005,,5021,,159,America/Toronto,2016-06-22
+11429024,Sainte-…lisabeth,Sainte-Elisabeth,46.09502,-73.35176,P,PPL,CA,,10,14,52030,,1559,,51,America/Toronto,2017-02-01
+6137696,Sainte-AdËle,Sainte-Adele,45.95008,-74.13251,P,PPL,CA,,10,15,77022,,10634,,246,America/Toronto,2018-02-24
+6137702,Sainte-Agathe-des-Monts,Sainte-Agathe-des-Monts,46.05009,-74.28252,P,PPL,CA,,10,15,78032,,10223,,375,America/Toronto,2021-12-21
+6137733,Sainte-Anne-de-Bellevue,Sainte-Anne-de-Bellevue,45.40618,-73.9456,P,PPL,CA,,10,6,66117,,5197,,34,America/Toronto,2019-02-26
+6137749,Sainte-Anne-des-Monts,Sainte-Anne-des-Monts,49.12402,-66.49243,P,PPL,CA,,10,11,4037,,5602,,15,America/Toronto,2016-06-22
+6137753,Sainte-Anne-des-Plaines,Sainte-Anne-des-Plaines,45.76468,-73.81156,P,PPL,CA,,10,15,73035,,10680,,67,America/Toronto,2016-06-22
+6137764,Sainte-BÈatrix,Sainte-Beatrix,46.20007,-73.61587,P,PPL,CA,,10,14,62020,,1849,,204,America/Toronto,2017-02-01
+6137781,Sainte-Catherine,Sainte-Catherine,46.31836,-72.56632,P,PPL,CA,,10,4,37067,,16211,,10,America/Toronto,2016-06-22
+6137780,Sainte-Catherine,Sainte-Catherine,45.40008,-73.58248,P,PPL,CA,,10,16,67030,,16762,,25,America/Toronto,2017-02-01
+6137823,Sainte-Croix,Sainte-Croix,45.13368,-72.80083,P,PPL,CA,,10,,,,1401,,151,America/Toronto,2019-08-10
+6137941,Sainte-Julie,Sainte-Julie,45.58338,-73.33246,P,PPL,CA,,10,16,59010,,29019,,37,America/Toronto,2021-11-11
+6137947,Sainte-Julienne,Sainte-Julienne,45.96677,-73.71587,P,PPL,CA,,10,14,63060,,3263,,116,America/Toronto,2019-08-08
+6137970,Saint-ElzÈar,Saint-Elzear,45.60338,-73.72698,P,PPL,CA,,10,13,65005,,1057,,47,America/Toronto,2019-08-08
+6137971,Sainte-Madeleine,Sainte-Madeleine,45.60008,-73.09914,P,PPL,CA,,10,16,54025,,1959,,30,America/Toronto,2019-08-08
+6945989,Sainte-Marie,Sainte-Marie,46.43401,-71.01168,P,PPL,CA,,10,12,26030,,13565,,159,America/Toronto,2021-11-12
+6138032,Sainte-Marthe-sur-le-Lac,Sainte-Marthe-sur-le-Lac,45.53338,-73.9325,P,PPL,CA,,10,15,72015,,11311,,35,America/Toronto,2016-06-22
+6138038,Sainte-Martine,Sainte-Martine,45.25008,-73.79919,P,PPL,CA,,10,16,70012,,2535,,33,America/Toronto,2016-06-22
+6138103,Sainte-Sophie,Sainte-Sophie,45.81678,-73.89919,P,PPL,CA,,10,15,75028,,1634,,73,America/Toronto,2016-06-22
+6138118,Sainte-ThËcle,Sainte-Thecle,46.81676,-72.49911,P,PPL,CA,,10,4,35050,,1333,,155,America/Toronto,2019-08-08
+6138121,Sainte-ThÈrËse,Sainte-Therese,45.63922,-73.82757,P,PPL,CA,,10,15,73010,,25224,,36,America/Toronto,2016-06-22
+6138175,Saint-Eustache,Saint-Eustache,45.565,-73.90554,P,PPL,CA,,10,15,72005,,42062,,42,America/Toronto,2016-06-22
+6138201,Saint-FÈlicien,Saint-Felicien,48.65007,-72.44906,P,PPL,CA,,10,2,91042,,10278,,111,America/Toronto,2021-11-12
+6138210,Saint-FÈlix-de-Valois,Saint-Felix-de-Valois,46.16977,-73.42525,P,PPL,CA,,10,14,62007,,6029,,123,America/Toronto,2017-02-01
+6138196,Saint-Faustin,Saint-Faustin,46.11679,-74.48253,P,PPL,CA,,10,,,,976,,372,America/Toronto,2019-08-12
+12076655,Saint-Flavien,Saint-Flavien,46.51187,-71.59648,P,PPL,CA,,10,12,33052,,975,,131,America/Toronto,2019-08-12
+6138276,Saint-GÈdÈon,Saint-Gedeon,48.50009,-71.76581,P,PPL,CA,,10,2,93035,,1859,,112,America/Toronto,2016-06-22
+6138260,Saint-Gabriel,Saint-Gabriel,46.30007,-73.38245,P,PPL,CA,,10,14,52080,,2901,,190,America/Toronto,2016-06-22
+6620953,Saint-Georges,Saint-Georges,46.11353,-70.66526,P,PPL,CA,,10,12,29073,,31173,,163,America/Toronto,2016-06-22
+6138310,Saint-Germain-de-Grantham,Saint-Germain-de-Grantham,45.83337,-72.56582,P,PPL,CA,,10,17,49048,,3485,,86,America/Toronto,2019-08-08
+8354586,Saint-Henri,Saint-Henri,46.69314,-71.06927,P,PPL,CA,,10,12,19068,,5023,,87,America/Toronto,2018-02-24
+6138352,Saint-Hippolyte,Saint-Hippolyte,45.93338,-74.0159,P,PPL,CA,,10,15,75045,,8083,,254,America/Toronto,2016-06-22
+6138360,Saint-HonorÈ,Saint-Honore,48.53338,-71.08236,P,PPL,CA,,10,2,94240,,2265,,144,America/Toronto,2019-08-08
+6138374,Saint-Hyacinthe,Saint-Hyacinthe,45.63076,-72.95699,P,PPL,CA,,10,16,54048,,50326,,32,America/Toronto,2019-09-05
+6138380,Saint-Ignace,Saint-Ignace,46.70013,-65.08204,P,PPL,CA,,4,,,,567,,17,America/Moncton,2019-08-13
+6138400,Saint-Isidore,Saint-Isidore,47.43345,-79.29965,P,PPL,CA,,10,,,,1122,,274,America/Toronto,2019-08-11
+6138501,Saint-JÈrÙme,Saint-Jerome,45.78036,-74.00365,P,PPL,CA,,10,15,75017,,54948,,95,America/Toronto,2016-06-22
+6138419,Saint-Jacques-le-Mineur,Saint-Jacques-le-Mineur,45.28338,-73.41587,P,PPL,CA,,10,16,68040,,1672,,47,America/Toronto,2016-06-22
+6138446,Saint-Jean-Baptiste,Saint-Jean-Baptiste,45.3806,-74.0121,P,PPL,CA,,10,16,71083,,1703,,24,America/Toronto,2019-08-08
+6138495,Saint-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu,45.30713,-73.26259,P,PPL,CA,,10,16,56083,,98036,,32,America/Toronto,2021-12-21
+6138535,Saint-Joseph,Saint-Joseph,45.95817,-73.22025,P,PPL,CA,,10,,,,2576,,16,America/Toronto,2019-08-10
+7535693,Saint-Joseph-de-Beauce,Saint-Joseph-de-Beauce,46.3,-70.86667,P,PPL,CA,,10,12,27043,,4454,,170,America/Toronto,2019-02-26
+6138558,Saint-Joseph-de-Coleraine,Saint-Joseph-de-Coleraine,45.96677,-71.36577,P,PPL,CA,,10,12,31045,,1319,,273,America/Toronto,2016-06-22
+6138573,Saint-Joseph-du-Lac,Saint-Joseph-du-Lac,45.53338,-73.9992,P,PPL,CA,,10,15,72025,,6195,,63,America/Toronto,2016-06-22
+7731836,Saint-LÈonard,Saint-Leonard,47.16317,-67.9246,P,PPL,CA,,4,1313,,,2700,,154,America/Moncton,2019-08-09
+6138628,Saint-LÈonard-d'Aston,Saint-Leonard-d'Aston,46.10723,-72.3735,P,PPL,CA,,10,17,50042,,1336,,73,America/Toronto,2020-05-30
+8354587,Saint-Lambert-de-Lauzon,Saint-Lambert-de-Lauzon,46.58624,-71.20892,P,PPL,CA,,10,12,26070,,2443,,131,America/Toronto,2019-08-10
+6138617,Saint-Lazare,Saint-Lazare,45.40008,-74.13256,P,PPL,CA,,10,16,71105,,19889,,56,America/Toronto,2021-11-12
+6138638,Saint-Liboire,Saint-Liboire,45.65068,-72.76348,P,PPL,CA,,10,16,54072,,1775,,82,America/Toronto,2019-08-08
+6138643,Saint-Lin-Laurentides,Saint-Lin-Laurentides,45.85008,-73.76588,P,PPL,CA,,10,14,63048,,17463,,59,America/Toronto,2021-11-11
+6138719,Saint-Marc-des-CarriËres,Saint-Marc-des-Carrieres,46.68335,-72.0491,P,PPL,CA,,10,3,34065,,2358,,47,America/Toronto,2018-10-26
+6138754,Saint-Mathieu,Saint-Mathieu,45.31678,-73.51587,P,PPL,CA,,10,16,67005,,1879,,36,America/Toronto,2016-06-22
+7283711,Saint-Mathieu-de-Rioux,Saint-Mathieu-de-Rioux,48.18317,-68.98693,P,PPL,CA,,10,1,11050,,672,,148,America/Toronto,2019-02-26
+6138791,Saint-Michel,Saint-Michel,45.56758,-73.62168,P,PPL,CA,,10,6,66023,VS,1558,,37,America/Toronto,2019-08-08
+11429023,Saint-Norbert,Saint-Norbert,46.16949,-73.31494,P,PPL,CA,,10,14,52070,,1059,,76,America/Toronto,2017-02-01
+12076647,Saint-PacÙme,Saint-Pacome,47.40457,-69.95025,P,PPL,CA,,10,1,14070,,1087,,50,America/Toronto,2019-08-11
+8593671,Saint-Pascal,Saint-Pascal,47.51813,-69.80301,P,PPL,CA,,10,1,14018,,3490,,54,America/Toronto,2016-06-22
+6138968,Saint-Prime,Saint-Prime,48.59242,-72.33555,P,PPL,CA,,10,2,91035,,1021,,119,America/Toronto,2020-05-06
+6138974,Saint-RaphaÎl,Saint-Raphael,46.25011,-76.01605,P,PPL,CA,,10,,,,1113,,179,America/Toronto,2019-08-10
+6138980,Saint-Raymond,Saint-Raymond,45.46698,-73.60948,P,PPL,CA,,10,6,66023,CN,3227,,50,America/Toronto,2019-08-08
+6139045,Saint-Sauveur,Saint-Sauveur,45.88686,-74.17943,P,PPL,CA,,10,15,77043,,9191,,254,America/Toronto,2016-06-22
+6139047,Saint-Sauveur-des-Monts,Saint-Sauveur-des-Monts,45.90008,-74.16591,P,PPL,CA,,10,15,77043,,7849,,216,America/Toronto,2019-08-08
+8556258,Saint-SimÈon,Saint-Simeon,47.84431,-69.87837,P,PPL,CA,,10,3,15058,,1300,,45,America/Toronto,2016-06-22
+6139113,Saint-ThÈophile,Saint-Theophile,45.93338,-70.48233,P,PPL,CA,,10,12,29005,,743,,378,America/Toronto,2016-06-22
+6139123,Saint-Thomas,Saint-Thomas,46.01677,-73.34915,P,PPL,CA,,10,14,61027,,3193,,28,America/Toronto,2017-02-01
+6139154,Saint-Tite,Saint-Tite,46.73336,-72.56581,P,PPL,CA,,10,4,35027,,3880,,134,America/Toronto,2021-12-25
+6139181,Saint-Victor,Saint-Victor,45.61118,-73.51527,P,PPL,CA,,10,,,,1233,,17,America/Toronto,2019-08-11
+6139216,Saint-Zotique,Saint-Zotique,45.25009,-74.24924,P,PPL,CA,,10,16,71025,,6773,,47,America/Toronto,2016-06-22
+6139289,Salaberry-de-Valleyfield,Salaberry-de-Valleyfield,45.25008,-74.13253,P,PPL,CA,,10,16,70052,,42410,,46,America/Toronto,2021-11-11
+6139354,Salisbury,Salisbury,46.03905,-65.04628,P,PPL,CA,,4,,,,1534,,45,America/Moncton,2019-08-08
+6139393,Salluit,Salluit,62.20411,-75.64344,P,PPL,CA,,10,10,,,1075,,35,America/Toronto,2022-01-20
+6139413,Salmo,Salmo,49.19554,-117.27704,P,PPL,CA,,2,5903,5903011,,1141,,662,America/Vancouver,2021-12-27
+6139416,Salmon Arm,Salmon Arm,50.6998,-119.30237,P,PPL,CA,,2,,,,12875,,347,America/Vancouver,2020-02-22
+12042098,Salt Spring Island,Salt Spring Island,48.81852,-123.49061,P,PPL,CA,,2,5917,,,10557,,205,America/Vancouver,2019-12-17
+6139678,Saltair,Saltair,48.94963,-123.76939,P,PPL,CA,,2,,,,2069,,67,America/Vancouver,2019-08-11
+12076677,Saprae Creek,Saprae Creek,56.6515,-111.1426,P,PPL,CA,,1,4816037,,,572,,381,America/Edmonton,2019-08-13
+6141190,Sarnia,Sarnia,42.97866,-82.40407,P,PPL,CA,,8,3538,,,72125,,185,America/Toronto,2019-09-05
+6141256,Saskatoon,Saskatoon,52.13238,-106.66892,P,PPL,CA,,11,,,,198958,,484,America/Regina,2019-09-05
+6142418,Scotch Creek,Scotch Creek,50.89981,-119.4524,P,PPL,CA,,2,,,,711,,350,America/Vancouver,2019-08-12
+6142503,Scott,Scott,49.81684,-74.58248,P,PPL,CA,,10,,,,813,,365,America/Toronto,2019-08-12
+6142917,Seaforth,Seaforth,43.55009,-81.39976,P,PPL,CA,,8,,,,2680,,308,America/Toronto,2019-08-08
+6143004,Seal Cove,Seal Cove,49.93326,-56.38151,P,PPL,CA,,5,,,,315,,169,America/St_Johns,2008-04-11
+6143367,Sechelt,Sechelt,49.47512,-123.75903,P,PPL,CA,,2,5929,5929011,,8832,,10,America/Vancouver,2019-08-08
+6144054,Selkirk,Selkirk,50.1436,-96.88452,P,PPL,CA,,3,,,,10278,,227,America/Winnipeg,2021-11-13
+6144195,Senneterre,Senneterre,48.39302,-77.23951,P,PPL,CA,,10,8,89040,,2239,,314,America/Toronto,2019-08-08
+6144312,Sept-Œles,Sept-Iles,50.20011,-66.38208,P,PPL,CA,,10,9,97007,,28534,,5,America/Toronto,2021-11-12
+6144602,Sexsmith,Sexsmith,55.34998,-118.78602,P,PPL,CA,,1,,,,2461,,719,America/Edmonton,2019-08-08
+8354533,Shannon,Shannon,46.88026,-71.51464,P,PPL,CA,,10,3,22020,,5086,,170,America/Toronto,2019-09-17
+6145425,Shaunavon,Shaunavon,49.65005,-108.4181,P,PPL,CA,,11,,,,1658,,916,America/Regina,2008-04-11
+6145563,Shawville,Shawville,45.60011,-76.4827,P,PPL,CA,,10,7,84010,,1203,,159,America/Toronto,2019-08-08
+6145668,Shediac,Shediac,46.21981,-64.54107,P,PPL,CA,,4,,,,6664,,16,America/Moncton,2021-12-26
+12076646,Shediac Bridge-Shediac River,Shediac Bridge-Shediac River,46.26886,-64.60047,P,PPL,CA,,4,1307,,,1098,,8,America/Moncton,2019-08-11
+6145672,Shediac Cape,Shediac Cape,46.23344,-64.56545,P,PPL,CA,,4,,,,838,,10,America/Moncton,2019-08-12
+6145887,Shelburne,Shelburne,43.76325,-65.32355,P,PPL,CA,,7,,,,1330,,10,America/Halifax,2019-08-08
+6145890,Shelburne,Shelburne,44.0787,-80.20408,P,PPL,CA,,8,,,,8126,,497,America/Toronto,2019-08-08
+6145951,Shellbrook,Shellbrook,53.21679,-106.40109,P,PPL,CA,,11,,,,1192,,494,America/Regina,2008-04-11
+6146045,Shenley,Shenley,46.00007,-70.83234,P,PPL,CA,,10,,,,882,,390,America/Toronto,2019-08-12
+6146143,Sherbrooke,Sherbrooke,45.40008,-71.89908,P,PPL,CA,,10,5,43027,,129447,,175,America/Toronto,2019-09-05
+6146279,Sherwood Park,Sherwood Park,53.51684,-113.3187,P,PPL,CA,,1,,,,70618,729,722,America/Edmonton,2021-12-21
+8617250,Shilo,Shilo,49.80551,-99.64634,P,PPL,CA,,3,5928075,,,1419,,381,America/Winnipeg,2020-05-30
+11789760,Shippagan,Shippagan,47.74424,-64.70804,P,PPL,CA,,4,1315,,,2580,,1,America/Moncton,2021-12-27
+6147353,Sicamous,Sicamous,50.83312,-118.98565,P,PPL,CA,,2,5939,5939045,,1786,,355,America/Vancouver,2019-08-08
+6147962,Simcoe,Simcoe,42.8334,-80.29967,P,PPL,CA,,8,,,,13922,,210,America/Toronto,2017-12-13
+12076671,Sion,Sion,49.01682,-118.4921,P,PPL,CA,,2,5905,,,658,,538,America/Vancouver,2019-08-12
+6148374,Sioux Lookout,Sioux Lookout,50.06676,-91.98358,P,PPL,CA,,8,,,,2941,,412,America/Winnipeg,2019-08-08
+12076649,Six Mile,Six Mile,48.45767,-123.46088,P,PPL,CA,,2,5917,5917047,,1031,,22,America/Vancouver,2019-08-11
+12076672,Skowkale 10,Skowkale 10,49.13631,-121.94244,P,PPL,CA,,2,5909,,,623,,13,America/Vancouver,2019-08-12
+6149374,Slave Lake,Slave Lake,55.28344,-114.76896,P,PPL,CA,,1,,,,7661,,583,America/Edmonton,2016-04-02
+7669004,Slesse Park,Slesse Park,49.07611,-121.82954,P,PPL,CA,,2,,,,238,,159,America/Vancouver,2011-02-19
+6149996,Smithers,Smithers,54.78036,-127.17428,P,PPL,CA,,2,5951,5951043,,5351,,494,America/Vancouver,2021-12-27
+6150174,Smiths Falls,Smiths Falls,44.90452,-76.02333,P,PPL,CA,,8,3509,,,8885,,131,America/Toronto,2021-12-26
+6150293,Smoky Lake,Smoky Lake,54.11687,-112.46863,P,PPL,CA,,1,,,,1063,,618,America/Edmonton,2008-04-11
+6151264,Sooke,Sooke,48.37463,-123.72762,P,PPL,CA,,2,5917,5917052,,6145,,39,America/Vancouver,2019-02-26
+6151350,Sorel-Tracy,Sorel-Tracy,46.04178,-73.11358,P,PPL,CA,,10,16,53052,,41629,,13,America/Toronto,2021-08-28
+6151456,Souris,Souris,49.6172,-100.2612,P,PPL,CA,,3,,,,1876,,428,America/Winnipeg,2021-12-25
+6151455,Souris,Souris,46.3501,-62.24862,P,PPL,CA,,9,,,,1053,,8,America/Halifax,2021-12-27
+6152244,South Huron,South Huron,43.31679,-81.51647,P,PPL,CA,,8,,,,9982,,246,America/Toronto,2013-05-05
+12076642,South Pender Harbour,South Pender Harbour,49.62202,-124.02484,P,PPL,CA,,2,5929,,,1187,,14,America/Vancouver,2019-08-11
+6152561,South River,South River,45.8334,-79.38293,P,PPL,CA,,8,3549,3549054,,1114,,369,America/Toronto,2021-12-26
+6153024,Sovereign,Sovereign,51.5168,-107.71803,P,PPL,CA,,11,,,,25,,585,America/Regina,2019-08-08
+6153117,Spanish,Spanish,46.20007,-82.34984,P,PPL,CA,,8,,,,639,,208,America/Toronto,2012-10-16
+6153250,Sparwood,Sparwood,49.73332,-114.88532,P,PPL,CA,,2,5901,5901006,,3490,,1140,America/Edmonton,2019-08-08
+6153766,Spirit River,Spirit River,55.78327,-118.83607,P,PPL,CA,,1,,,,1157,,616,America/Edmonton,2008-04-11
+12070746,Springbrook,Springbrook,52.1792,-113.87981,P,PPL,CA,,1,4808001,,,1507,,896,America/Edmonton,2019-08-11
+6154159,Springdale,Springdale,49.49995,-56.06492,P,PPL,CA,,5,,,,2080,,2,America/St_Johns,2019-08-08
+6154202,Springhill,Springhill,45.65015,-64.04873,P,PPL,CA,,7,,,,2743,,192,America/Halifax,2021-12-27
+6154383,Spruce Grove,Spruce Grove,53.53344,-113.91874,P,PPL,CA,,1,,,,36135,,704,America/Edmonton,2019-08-08
+6154462,Spruce Lake,Spruce Lake,53.53348,-109.08475,P,PPL,CA,,11,,,,55,,602,America/Regina,2019-08-08
+6154636,Squamish,Squamish,49.69925,-123.15631,P,PPL,CA,,2,5931,5931006,,17587,,4,America/Vancouver,2019-08-26
+6154897,St. Adolphe,St. Adolphe,49.6744,-97.11124,P,PPL,CA,,3,,,,1362,,234,America/Winnipeg,2019-08-09
+6155033,St. Albert,St. Albert,53.63344,-113.63533,P,PPL,CA,,1,,,,57719,,663,America/Edmonton,2010-09-22
+6155302,St. Anthony,St. Anthony,51.37039,-55.59743,P,PPL,CA,,5,,,,2049,,9,America/St_Johns,2021-02-20
+6155721,St. Catharines,St. Catharines,43.17126,-79.24267,P,PPL,CA,,8,3526,,,133113,,102,America/Toronto,2021-12-05
+6155762,St. Claude,St. Claude,49.65861,-98.34244,P,PPL,CA,,3,,,,600,,308,America/Winnipeg,2014-12-21
+6155763,St. Clements,St. Clements,43.5168,-80.6497,P,PPL,CA,,8,,,,820,,370,America/Toronto,2019-08-12
+6156606,St. FranÁois Xavier,St. Francois Xavier,49.9128,-97.54237,P,PPL,CA,,3,,,,662,,239,America/Winnipeg,2019-08-11
+7290516,St. George,St. George,43.24495,-80.25144,P,PPL,CA,,8,,,,3255,,239,America/Toronto,2019-08-08
+6156874,St. Jean Baptiste,St. Jean Baptiste,49.26559,-97.34037,P,PPL,CA,,3,,,,563,,233,America/Winnipeg,2019-08-13
+6157795,St. Paul,St. Paul,53.98347,-111.28507,P,PPL,CA,,1,,,,5728,,632,America/Edmonton,2019-08-08
+6157830,St. Peters Bay,St. Peters Bay,46.4168,-62.58195,P,PPL,CA,,9,,,,253,,0,America/Halifax,2020-10-21
+6158349,St. Stephen,St. Stephen,45.18044,-67.29529,P,PPL,CA,,4,,,,4415,,25,America/Moncton,2020-10-21
+6158357,St. Thomas,St. Thomas,42.77361,-81.18038,P,PPL,CA,,8,,,,38909,,232,America/Toronto,2021-12-21
+6158664,St. Victor,St. Victor,49.43336,-105.86784,P,PPL,CA,,11,,,,20,,753,America/Regina,2019-08-08
+12070760,Starlight Village,Starlight Village,45.88308,-66.76905,P,PPL,CA,,4,1310,,,2127,,96,America/Moncton,2019-08-09
+6156102,Steinbach,Steinbach,49.52579,-96.68451,P,PPL,CA,,3,,,,15829,,263,America/Winnipeg,2021-11-13
+6156244,Stephenville,Stephenville,48.55001,-58.5818,P,PPL,CA,,5,,,,6278,,15,America/St_Johns,2008-04-11
+6156245,Stephenville Crossing,Stephenville Crossing,48.50001,-58.4318,P,PPL,CA,,5,,,,1183,,-9999,America/St_Johns,2008-04-11
+6156307,Stettler,Stettler,52.31683,-112.71861,P,PPL,CA,,1,,,,5494,,814,America/Edmonton,2008-04-11
+6156427,Stewart,Stewart,55.93598,-129.9866,P,PPL,CA,,2,5949,5949032,,496,,5,America/Vancouver,2020-11-01
+6156822,Stirling,Stirling,44.30012,-77.54948,P,PPL,CA,,8,3512,3512020,,2030,,125,America/Toronto,2019-08-08
+6620467,St-Jean-Port-Joli,St-Jean-Port-Joli,47.21418,-70.26969,P,PPL,CA,,10,12,17070,,3304,,7,America/Toronto,2017-04-03
+6157355,Stonewall,Stonewall,50.13441,-97.32676,P,PPL,CA,,3,,,,4177,,256,America/Winnipeg,2008-04-11
+6157536,Stony Plain,Stony Plain,53.53343,-114.00205,P,PPL,CA,,1,,,,8939,,705,America/Edmonton,2008-04-11
+6157977,Stratford,Stratford,43.36679,-80.94972,P,PPL,CA,,8,,,,31465,,365,America/Toronto,2021-11-10
+6158023,Strathmore,Strathmore,51.05011,-113.38523,P,PPL,CA,,1,,,,13592,,976,America/Edmonton,2019-08-08
+6158467,Stuie,Stuie,52.36667,-126.06667,P,PPL,CA,,2,,,,3,,162,America/Vancouver,2016-11-04
+7910942,Stuie,Stuie,52.37127,-126.0658,P,PPL,CA,,2,,,,3,,216,America/Vancouver,2016-11-04
+6159232,Summerland,Summerland,49.59977,-119.66911,P,PPL,CA,,2,5907,5907035,,11615,,475,America/Vancouver,2021-12-27
+6159244,Summerside,Summerside,46.3912,-63.78869,P,PPL,CA,,9,1103,,,14829,,-9999,America/Halifax,2022-03-04
+6159474,Sundre,Sundre,51.8001,-114.63532,P,PPL,CA,,1,,,,2384,,1089,America/Edmonton,2008-04-11
+6159580,Sunny Corner,Sunny Corner,46.9334,-65.81545,P,PPL,CA,,4,,,,789,,21,America/Moncton,2019-08-12
+6159570,Sunnybrae,Sunnybrae,50.76651,-119.26907,P,PPL,CA,,2,,,,610,,348,America/Vancouver,2019-08-12
+6159739,Sunset View Beach,Sunset View Beach,53.54458,-108.6347,P,PPL,CA,,11,,,,74,,666,America/Regina,2019-08-08
+6159905,Surrey,Surrey,49.10635,-122.82509,P,PPL,CA,,2,5915,5915004,,394976,,82,America/Vancouver,2019-02-26
+6159980,Sussex,Sussex,45.72266,-65.50663,P,PPL,CA,,4,,,,5298,,23,America/Moncton,2019-08-08
+6160070,Sutton,Sutton,45.10008,-72.61582,P,PPL,CA,,10,16,46058,,3906,,176,America/Toronto,2021-12-22
+6160291,Swan Hills,Swan Hills,54.71681,-115.40226,P,PPL,CA,,1,,,,1900,,1139,America/Edmonton,2008-04-11
+6160362,Swan River,Swan River,52.1058,-101.26759,P,PPL,CA,,3,,,,4198,,340,America/Winnipeg,2008-04-11
+6160603,Swift Current,Swift Current,50.28337,-107.80135,P,PPL,CA,,11,,,,16604,,742,America/Swift_Current,2021-11-13
+6354908,Sydney,Sydney,46.1351,-60.1831,P,PPL,CA,,7,1217,,,105968,,6,America/Glace_Bay,2021-08-25
+7303783,Sydney Mines,Sydney Mines,46.23669,-60.21767,P,PPL,CA,,7,,,,7312,0,18,America/Glace_Bay,2010-07-18
+6160806,Sylvan Lake,Sylvan Lake,52.311,-114.08375,P,PPL,CA,,1,4808012,,,14816,,940,America/Edmonton,2021-11-13
+6162654,TÈmiscaming,Temiscaming,46.72122,-79.09712,P,PPL,CA,,10,8,85005,,1854,,240,America/Toronto,2016-06-22
+6160919,Taber,Taber,49.78703,-112.14603,P,PPL,CA,,1,,,,8163,,813,America/Edmonton,2012-07-24
+12076660,Tabusintac,Tabusintac,47.3278,-65.01139,P,PPL,CA,,4,1309,,,861,,10,America/Moncton,2019-08-12
+6639665,Tadoussac,Tadoussac,48.15001,-69.71667,P,PPL,CA,,10,9,95005,,858,,114,America/Toronto,2016-06-22
+6162007,Tavistock,Tavistock,43.31679,-80.83302,P,PPL,CA,,8,3532,3532038,,2955,,341,America/Toronto,2019-08-08
+6162416,Tecumseh,Tecumseh,42.31678,-82.89983,P,PPL,CA,,8,,,,23229,,178,America/Toronto,2021-12-21
+6162659,Temiskaming Shores,Temiskaming Shores,47.49376,-79.71529,P,PPL,CA,,8,,,,10442,,248,America/Toronto,2010-09-22
+6162907,Terence Bay,Terence Bay,44.47011,-63.72159,P,PPL,CA,,7,,,,749,,4,America/Halifax,2019-08-12
+6162949,Terrace,Terrace,54.51634,-128.60345,P,PPL,CA,,2,5949,5949011,,19443,,70,America/Vancouver,2019-02-26
+6162997,Terrasse-des-Pins,Terrasse-des-Pins,45.86449,-74.06627,P,PPL,CA,,10,15,75040,,4268,,178,America/Toronto,2019-08-08
+6163012,Terrebonne,Terrebonne,45.70004,-73.64732,P,PPL,CA,,10,14,64008,,111575,,18,America/Toronto,2021-11-11
+6164499,The Pas,The Pas,53.82159,-101.24488,P,PPL,CA,,3,,,,5513,,270,America/Winnipeg,2021-11-13
+6164831,Thessalon,Thessalon,46.25006,-83.5666,P,PPL,CA,,8,,,,1175,,175,America/Toronto,2019-08-08
+6943827,Thetford-Mines,Thetford-Mines,46.09371,-71.30539,P,PPL,CA,,10,12,31084,,25704,,317,America/Toronto,2016-06-22
+6165406,Thompson,Thompson,55.7435,-97.85579,P,PPL,CA,,3,,,,13678,,205,America/Winnipeg,2021-11-10
+6165719,Thorold,Thorold,43.11682,-79.19958,P,PPL,CA,,8,,,,18801,,178,America/Toronto,2021-11-13
+6165875,Three Hills,Three Hills,51.70012,-113.26863,P,PPL,CA,,1,,,,3051,,897,America/Edmonton,2008-04-11
+6166142,Thunder Bay,Thunder Bay,48.38202,-89.25018,P,PPL,CA,,8,3558,,,107909,,188,America/Thunder_Bay,2021-12-21
+6166224,Thurso,Thurso,45.6001,-75.24931,P,PPL,CA,,10,7,80050,,2476,,55,America/Toronto,2020-11-01
+6166739,Timmins,Timmins,48.46686,-81.33312,P,PPL,CA,,8,,,,41788,,301,America/Toronto,2021-11-10
+6166987,Tisdale,Tisdale,52.85002,-104.05096,P,PPL,CA,,11,,,,2862,,448,America/Regina,2008-04-11
+6167125,Tobermory,Tobermory,45.25007,-81.66647,P,PPL,CA,,8,3541,3541069,,1427,,192,America/Toronto,2019-02-26
+6167254,Tofield,Tofield,53.36684,-112.66862,P,PPL,CA,,1,,,,1911,,697,America/Edmonton,2008-04-11
+6354950,Tofino,Tofino,49.15314,-125.90744,P,PPL,CA,,2,5923,5923025,,1932,,20,America/Vancouver,2021-12-21
+6167523,Tompkins,Tompkins,47.80001,-59.21528,P,PPL,CA,,5,,,,114,,16,America/St_Johns,2019-08-08
+6167817,Torbay,Torbay,47.66659,-52.73135,P,PPL,CA,,5,,,,3097,,69,America/St_Johns,2006-01-22
+6167983,Tottenham,Tottenham,44.02437,-79.80553,P,PPL,CA,,8,3543,3543007,,5143,,261,America/Toronto,2019-08-08
+6168788,TrËs-Saint-RÈdempteur,Tres-Saint-Redempteur,45.43339,-74.38254,P,PPL,CA,,10,16,71125,,863,,63,America/Toronto,2016-06-22
+7302644,Tracadie-Sheila,Tracadie-Sheila,47.51444,-64.91806,P,PPL,CA,,4,,,,3184,,18,America/Moncton,2019-08-08
+6168326,Trail,Trail,49.09983,-117.70223,P,PPL,CA,,2,5905,5905014,,9707,,422,America/Vancouver,2019-02-26
+6169141,Trois-RiviËres,Trois-Rivieres,46.34515,-72.5477,P,PPL,CA,,10,4,37067,,119693,,16,America/Toronto,2020-11-01
+6169587,Truro,Truro,45.36685,-63.26538,P,PPL,CA,,7,,,,12261,,17,America/Halifax,2021-12-21
+6169661,Tsawwassen,Tsawwassen,49.01667,-123.08333,P,PPL,CA,,2,5915,5915011,,21588,,35,America/Vancouver,2021-12-21
+6170031,Tuktoyaktuk,Tuktoyaktuk,69.44472,-133.03422,P,PPL,CA,,13,11995136,6101036,,978,,1,America/Yellowknife,2020-08-19
+6170118,Tumbler Ridge,Tumbler Ridge,55.13027,-120.99415,P,PPL,CA,,2,5955,5955003,,2454,830,838,America/Dawson_Creek,2019-02-26
+6170799,Tweed,Tweed,44.47512,-77.31616,P,PPL,CA,,8,3512,3512030,,1701,,157,America/Toronto,2019-08-08
+6171332,Two Hills,Two Hills,53.71031,-111.74595,P,PPL,CA,,1,4810052,,,1352,,605,America/Edmonton,2021-12-25
+6171515,Tyndall,Tyndall,50.0828,-96.6589,P,PPL,CA,,3,,,,935,,242,America/Winnipeg,2019-08-12
+6171633,Ucluelet,Ucluelet,48.94153,-125.54635,P,PPL,CA,,2,5923,5923019,,1566,,24,America/Vancouver,2019-02-26
+5976257,Ulukhaktok,Ulukhaktok,70.7364,-117.77155,P,PPL,CA,,13,11995136,6101095,,396,,23,America/Yellowknife,2021-12-22
+6172009,Unity,Unity,52.45014,-109.16816,P,PPL,CA,,11,,,,2475,,633,America/Regina,2019-08-08
+6172355,Upper Island Cove,Upper Island Cove,47.64989,-53.21478,P,PPL,CA,,5,,,,1142,,108,America/St_Johns,2019-08-08
+6172932,Uxbridge,Uxbridge,44.10012,-79.11628,P,PPL,CA,,8,3518,3518029,,21176,,274,America/Toronto,2021-11-13
+6173236,Val Marie,Val Marie,49.23334,-107.73461,P,PPL,CA,,11,,,,126,,788,America/Regina,2020-10-21
+6172998,Valcourt,Valcourt,45.50008,-72.31581,P,PPL,CA,,10,5,42055,,2451,,200,America/Toronto,2016-06-22
+6173001,Val-David,Val-David,46.03338,-74.21592,P,PPL,CA,,10,15,78010,,5209,,325,America/Toronto,2021-12-22
+6173012,Val-des-Monts,Val-des-Monts,45.6501,-75.66604,P,PPL,CA,,10,7,82015,,9539,,141,America/Toronto,2016-06-22
+6173017,Val-d'Or,Val-d'Or,48.0974,-77.79737,P,PPL,CA,,10,8,89008,,25541,,338,America/Toronto,2019-08-08
+8593691,VallÈe-Jonction,Vallee-Jonction,46.37441,-70.91881,P,PPL,CA,,10,12,26015,,1940,,171,America/Toronto,2016-06-22
+12070764,Valley East,Valley East,46.66773,-81.00028,P,PPL,CA,,8,3553,,,17451,,290,America/Toronto,2019-08-09
+6173220,Valleyview,Valleyview,55.06673,-117.28585,P,PPL,CA,,1,,,,1863,,692,America/Edmonton,2021-12-25
+6173241,Val-Morin,Val-Morin,46.00008,-74.18251,P,PPL,CA,,10,15,78005,,2772,,335,America/Toronto,2016-06-22
+6173331,Vancouver,Vancouver,49.24966,-123.11934,P,PPL,CA,,2,5915,,,600000,,70,America/Vancouver,2019-09-05
+6173361,Vanderhoof,Vanderhoof,54.01657,-124.01982,P,PPL,CA,,2,5951,5951007,,1462,,635,America/Vancouver,2019-02-26
+6173404,Vanier,Vanier,45.4399,-75.66498,P,PPL,CA,,8,3506,3506008,,17000,,57,America/Toronto,2019-08-07
+6173508,Varennes,Varennes,45.68338,-73.43246,P,PPL,CA,,10,16,59020,,20994,,15,America/Toronto,2021-11-11
+6173570,Vaudreuil-Dorion,Vaudreuil-Dorion,45.40008,-74.03251,P,PPL,CA,,10,16,71083,,25789,,22,America/Toronto,2016-06-22
+6173577,Vaughan,Vaughan,43.8361,-79.49827,P,PPL,CA,,8,,,,306233,,218,America/Toronto,2021-12-21
+6173600,Vauxhall,Vauxhall,50.06678,-112.11853,P,PPL,CA,,1,,,,1222,,780,America/Edmonton,2019-08-08
+6173604,Vawn,Vawn,53.11686,-108.6847,P,PPL,CA,,11,,,,49,,541,America/Regina,2019-08-08
+6173635,Vegreville,Vegreville,53.50015,-112.05182,P,PPL,CA,,1,,,,5708,,635,America/Edmonton,2021-12-25
+6173690,Venise-en-QuÈbec,Venise-en-Quebec,45.08338,-73.13245,P,PPL,CA,,10,16,56005,,1547,,29,America/Toronto,2016-06-22
+6173750,VerchËres,Vercheres,45.78338,-73.34916,P,PPL,CA,,10,16,59025,,4030,,2,America/Toronto,2016-06-22
+6173801,Vermilion,Vermilion,53.35409,-110.85849,P,PPL,CA,,1,,,,4084,,617,America/Edmonton,2021-11-13
+6173864,Vernon,Vernon,50.26729,-119.27337,P,PPL,CA,,2,5937,5937014,,40116,,383,America/Vancouver,2021-11-11
+6173865,Vernon Lake,Vernon Lake,50.0261,-126.36157,P,PPL,CA,,2,5943,,,48073,,259,America/Vancouver,2021-10-13
+6173954,Vesuvius,Vesuvius,48.88137,-123.57207,P,PPL,CA,,2,,,,100,,20,America/Vancouver,2019-12-17
+6173994,Viceroy,Viceroy,49.46676,-105.3678,P,PPL,CA,,11,,,,20,,746,America/Regina,2019-08-08
+6174151,Victoriaville,Victoriaville,46.05007,-71.96579,P,PPL,CA,,10,17,39062,,34426,,131,America/Toronto,2016-04-12
+6174254,Viking,Viking,53.09606,-111.77527,P,PPL,CA,,1,4810022,,,1106,,688,America/Edmonton,2020-05-30
+6174335,Ville-Marie,Ville-Marie,47.33345,-79.43297,P,PPL,CA,,10,8,85025,,2831,,204,America/Toronto,2021-12-25
+6174406,Vineland,Vineland,43.15132,-79.39449,P,PPL,CA,,8,3526,,,4074,,108,America/Toronto,2020-05-30
+6174457,Virden,Virden,49.8508,-100.93262,P,PPL,CA,,3,,,,3114,,442,America/Winnipeg,2021-12-25
+6174462,Virgil,Virgil,43.21682,-79.13288,P,PPL,CA,,8,,,,2937,,92,America/Toronto,2019-08-10
+6174468,Virgin Arm-Carter's Cove,Virgin Arm-Carter's Cove,49.53322,-54.78145,P,PPL,CA,,5,,,,615,,17,America/St_Johns,2019-08-12
+6174687,Vulcan,Vulcan,50.40008,-113.25189,P,PPL,CA,,1,,,,1917,,1043,America/Edmonton,2021-12-25
+6174727,Wabana,Wabana,47.63319,-52.94806,P,PPL,CA,,5,,,,2146,,84,America/St_Johns,2021-12-22
+6174914,Wadena,Wadena,51.94999,-103.80102,P,PPL,CA,,11,,,,1306,,542,America/Regina,2021-12-25
+6175059,Wainwright,Wainwright,52.83482,-110.85342,P,PPL,CA,,1,,,,6270,,680,America/Edmonton,2021-12-25
+6175108,Wakefield,Wakefield,45.6668,-75.83265,P,PPL,CA,,10,7,82035,,2000,,305,America/Toronto,2016-06-22
+7669012,Walnut Grove,Walnut Grove,49.16473,-122.64042,P,PPL,CA,,2,5915,5915001,,25683,,40,America/Vancouver,2019-02-26
+6176226,Warman,Warman,52.31679,-106.56791,P,PPL,CA,,11,,,,10961,,507,America/Regina,2019-08-08
+6176300,Warren,Warren,50.13171,-97.54738,P,PPL,CA,,3,,,,818,,250,America/Winnipeg,2019-08-12
+6176393,Warwick,Warwick,45.95007,-71.9824,P,PPL,CA,,10,17,39077,,4766,,168,America/Toronto,2021-12-25
+6176421,Wasaga Beach,Wasaga Beach,44.5168,-80.01637,P,PPL,CA,,8,,,,20675,,188,America/Toronto,2021-12-25
+6176563,Waskaganish,Waskaganish,51.48333,-78.75,P,PPL,CA,,10,10,99060,,1839,,21,America/Toronto,2019-08-08
+6176654,Waswanipi,Waswanipi,49.73346,-76.16604,P,PPL,CA,,10,10,,,1473,,307,America/Toronto,2016-04-13
+6176751,Waterford,Waterford,42.9334,-80.28296,P,PPL,CA,,8,,,,3132,,240,America/Toronto,2019-08-08
+6176823,Waterloo,Waterloo,43.4668,-80.51639,P,PPL,CA,,8,,,,104986,,325,America/Toronto,2021-12-05
+6176821,Waterloo,Waterloo,45.35008,-72.51582,P,PPL,CA,,10,16,47025,,4410,,210,America/Toronto,2021-12-22
+6176887,Waterton,Waterton,49.04995,-113.91864,P,PPL,CA,,1,,,,88,1280,1357,America/Edmonton,2016-04-18
+8051152,Waterton Lakes,Waterton Lakes,49.08252,-113.86909,P,PPL,CA,,1,,,,5,,1302,America/Edmonton,2011-10-26
+6176902,Watford,Watford,42.95008,-81.88309,P,PPL,CA,,8,3538,3538043,,1536,,240,America/Toronto,2019-08-08
+6176928,Watrous,Watrous,51.66677,-105.46788,P,PPL,CA,,11,,,,1865,,543,America/Regina,2019-08-08
+6176992,Watson Lake,Watson Lake,60.06349,-128.70893,P,PPL,CA,,12,,,,1547,,678,America/Whitehorse,2021-07-27
+6177154,Waverley,Waverley,44.78345,-63.5987,P,PPL,CA,,7,,,,813,,25,America/Halifax,2019-08-12
+6177178,Wawa,Wawa,47.98877,-84.77411,P,PPL,CA,,8,3557,,,2905,,287,America/Toronto,2021-12-25
+12076664,Wedgewood,Wedgewood,55.12245,-118.77316,P,PPL,CA,,1,4819006,,,753,,645,America/Edmonton,2019-08-12
+12076648,Weedon Centre,Weedon Centre,45.70802,-71.45986,P,PPL,CA,,10,5,41098,,1059,,276,America/Toronto,2019-08-11
+6177869,Welland,Welland,42.98342,-79.24958,P,PPL,CA,,8,,,,52293,,180,America/Toronto,2021-11-10
+6177893,Wellesley,Wellesley,43.47691,-80.76209,P,PPL,CA,,8,3530,3530027,,3246,,361,America/Toronto,2019-08-13
+6178038,Wembley,Wembley,55.14995,-119.13602,P,PPL,CA,,1,,,,1516,,729,America/Edmonton,2021-12-25
+11838088,Wendover,Wendover,45.57275,-75.12757,P,PPL,CA,,8,3502,3502023,,1302,,53,America/Toronto,2018-03-23
+6178582,West End,West End,49.28333,-123.13333,P,PPL,CA,,2,5915,5915022,,47200,,49,America/Vancouver,2021-12-21
+7281936,West Kelowna,West Kelowna,49.8625,-119.58333,P,PPL,CA,,2,5935,5935029,,28793,,484,America/Vancouver,2019-02-26
+6179147,West Lorne,West Lorne,42.60009,-81.59976,P,PPL,CA,,8,3534,3534042,,1337,,216,America/Toronto,2019-08-08
+12070751,Westlake,Westlake,55.22228,-118.80415,P,PPL,CA,,1,4819006,,,1363,,679,America/Edmonton,2019-08-09
+6179138,Westlock,Westlock,54.15016,-113.86876,P,PPL,CA,,1,,,,4678,,651,America/Edmonton,2019-08-08
+6179226,Westmount,Westmount,45.48341,-73.59918,P,PPL,CA,,10,6,66032,,20494,,52,America/Toronto,2019-02-26
+6179560,Westville,Westville,45.56685,-62.71534,P,PPL,CA,,7,,,,3628,,72,America/Halifax,2021-12-27
+6179602,Wetaskiwin,Wetaskiwin,52.96683,-113.36869,P,PPL,CA,,1,,,,11302,,758,America/Edmonton,2008-04-11
+6179652,Weyburn,Weyburn,49.66675,-103.85109,P,PPL,CA,,11,,,,10870,,568,America/Regina,2021-12-25
+6943733,Weymontachie,Weymontachie,47.8994,-73.7772,P,PPL,CA,,10,4,,,1038,,351,America/Toronto,2019-08-10
+6180144,Whistler,Whistler,50.11817,-122.95396,P,PPL,CA,,2,5931,5931020,,8713,,673,America/Vancouver,2019-09-17
+6180266,White City,White City,50.43338,-104.36778,P,PPL,CA,,11,,,,3099,,606,America/Regina,2021-12-25
+6180675,White Lake,White Lake,50.88311,-119.30238,P,PPL,CA,,2,,,,656,,525,America/Vancouver,2019-08-12
+6180961,White Rock,White Rock,49.02049,-122.79507,P,PPL,CA,,2,5915,5915007,,66450,,67,America/Vancouver,2020-05-30
+6180285,Whitecourt,Whitecourt,54.15015,-115.68548,P,PPL,CA,,1,,,,8763,,689,America/Edmonton,2008-04-11
+6182001,Wilkie,Wilkie,52.41683,-108.70142,P,PPL,CA,,11,,,,1301,,662,America/Regina,2021-12-25
+6182212,Williams Lake,Williams Lake,52.14153,-122.14451,P,PPL,CA,,2,5941,5941009,,14168,,674,America/Vancouver,2019-02-26
+6182823,Winchester,Winchester,45.0834,-75.34933,P,PPL,CA,,8,3501,3501030,,2394,,75,America/Toronto,2019-08-08
+6182958,Windsor,Windsor,44.98345,-64.13204,P,PPL,CA,,7,,,,3864,,11,America/Halifax,2010-01-29
+6182962,Windsor,Windsor,42.30008,-83.01654,P,PPL,CA,,8,,,,278013,,190,America/Toronto,2021-08-08
+6182959,Windsor,Windsor,45.56678,-71.99909,P,PPL,CA,,10,5,42088,,5408,,173,America/Toronto,2016-06-22
+6183141,Wingham,Wingham,43.88793,-81.31145,P,PPL,CA,,8,3540,3540055,,2934,,318,America/Toronto,2021-12-25
+6183204,Winkler,Winkler,49.1817,-97.94104,P,PPL,CA,,3,,,,12660,,271,America/Winnipeg,2021-11-13
+6183858,Wolfville,Wolfville,45.08345,-64.36546,P,PPL,CA,,7,,,,4195,,53,America/Halifax,2021-12-27
+6184288,Woodrow,Woodrow,49.70006,-106.71793,P,PPL,CA,,11,,,,58,,733,America/Regina,2019-08-08
+6185007,Wynndel,Wynndel,49.18,-116.5525,P,PPL,CA,,2,,,,900,,578,America/Creston,2016-04-27
+6185021,Wynyard,Wynyard,51.76674,-104.18436,P,PPL,CA,,11,,,,1732,,559,America/Regina,2021-12-25
+7669001,Yale,Yale,49.56202,-121.42974,P,PPL,CA,,2,,,,186,,65,America/Vancouver,2011-02-19
+6185138,Yamachiche,Yamachiche,46.28175,-72.82873,P,PPL,CA,,10,4,51020,,1240,,10,America/Toronto,2020-05-30
+6185217,Yarmouth,Yarmouth,43.83345,-66.11557,P,PPL,CA,,7,,,,6518,,26,America/Halifax,2021-11-11
+6185607,Yorkton,Yorkton,51.2167,-102.46766,P,PPL,CA,,11,,,,16343,498,504,America/Regina,2021-11-12
+6185619,Youbou,Youbou,48.86632,-124.20271,P,PPL,CA,,2,,,,734,,183,America/Vancouver,2010-11-06
+6186038,Zephyr,Zephyr,44.20011,-79.2663,P,PPL,CA,,8,,,,505,,250,America/Toronto,2019-08-12
+5920288,Charlottetown,Charlottetown,46.23459,-63.1256,P,PPLA,CA,,9,1102,,,42402,,14,America/Halifax,2021-08-08
+5946768,Edmonton,Edmonton,53.55014,-113.46871,P,PPLA,CA,,1,,,,712391,668,610,America/Edmonton,2021-07-25
+5957776,Fredericton,Fredericton,45.94541,-66.66558,P,PPLA,CA,,4,,,,52337,,110,America/Moncton,2019-09-05
+6324729,Halifax,Halifax,44.6464,-63.57291,P,PPLA,CA,,7,1209,,,359111,,28,America/Halifax,2019-09-23
+5983720,Iqaluit,Iqaluit,63.74697,-68.51727,P,PPLA,CA,,14,,,,6124,,14,America/Iqaluit,2019-09-05
+6325494,QuÈbec,Quebec,46.81228,-71.21454,P,PPLA,CA,,10,3,23027,,528595,,54,America/Toronto,2021-07-25
+6119109,Regina,Regina,50.45008,-104.6178,P,PPLA,CA,,11,,,,176183,,577,America/Regina,2019-09-05
+6324733,St. John's,St. John's,47.56494,-52.70931,P,PPLA,CA,,5,,,,99182,,35,America/St_Johns,2019-09-05
+6167865,Toronto,Toronto,43.70011,-79.4163,P,PPLA,CA,,8,,,,2600000,,175,America/Toronto,2019-09-05
+6174041,Victoria,Victoria,48.4359,-123.35155,P,PPLA,CA,,2,5917,,,289625,,18,America/Vancouver,2021-08-08
+6180550,Whitehorse,Whitehorse,60.71611,-135.05375,P,PPLA,CA,,12,,,,23272,707,630,America/Whitehorse,2021-07-30
+6183235,Winnipeg,Winnipeg,49.8844,-97.14704,P,PPLA,CA,,3,,,,632063,,245,America/Winnipeg,2019-09-05
+6185377,Yellowknife,Yellowknife,62.45411,-114.37248,P,PPLA,CA,,13,11995137,6106023,,19569,,252,America/Yellowknife,2022-03-11
+5921356,Chilliwack,Chilliwack,49.16638,-121.95257,P,PPLA2,CA,,2,5909,5909020,,77000,,11,America/Vancouver,2019-02-26
+5992996,Kitchener,Kitchener,43.42537,-80.5112,P,PPLA2,CA,,8,3530,,,233700,,336,America/Toronto,2019-09-05
+6058024,Lloydminster,Lloydminster,53.27237,-110.02256,P,PPLA2,CA,,1,4810039,,,31400,,657,America/Edmonton,2019-08-08
+6074377,Milton,Milton,43.51681,-79.88294,P,PPLA2,CA,,8,3524,,,101715,195,194,America/Toronto,2019-09-05
+6077243,MontrÈal,Montreal,45.50884,-73.58781,P,PPLA2,CA,,10,6,66023,,1600000,,216,America/Toronto,2019-02-25
+6141439,Sault Ste. Marie,Sault Ste. Marie,46.51677,-84.33325,P,PPLA2,CA,,8,3557,,,66313,,186,America/Toronto,2019-08-08
+6184365,Woodstock,Woodstock,43.13339,-80.7497,P,PPLA2,CA,,8,3532,,,40404,,299,America/Toronto,2019-08-08
+5885383,Anmore,Anmore,49.31637,-122.85263,P,PPLA3,CA,,2,5915,5915038,,2210,,183,America/Vancouver,2019-04-30
+5911606,Burnaby,Burnaby,49.26636,-122.95263,P,PPLA3,CA,,2,5915,5915025,,202799,,87,America/Vancouver,2019-02-26
+5927690,Coquitlam,Coquitlam,49.2846,-122.78217,P,PPLA3,CA,,2,5915,5915034,,140000,,39,America/Vancouver,2021-08-28
+5992144,Kincardine,Kincardine,44.18339,-81.63307,P,PPLA3,CA,,8,3541,3541024,,6725,,195,America/Toronto,2019-08-17
+6072206,Mercier,Mercier,45.3105,-73.73976,P,PPLA3,CA,,10,16,67045,,10121,,46,America/Toronto,2020-11-11
+6111706,Port Coquitlam,Port Coquitlam,49.26637,-122.76932,P,PPLA3,CA,,2,5915,5915039,,58000,,16,America/Vancouver,2019-04-15
+6111962,Port Moody,Port Moody,49.28124,-122.82457,P,PPLA3,CA,,2,5915,5915043,,27512,,44,America/Vancouver,2019-04-30
+6137381,Saint-Ambroise,Saint-Ambroise,48.55447,-71.32148,P,PPLA3,CA,,10,2,94255,,1678,,125,America/Toronto,2020-06-01
+6138802,Saint-Michel-des-Saints,Saint-Michel-des-Saints,46.67702,-73.91881,P,PPLA3,CA,,10,14,62085,,1131,,366,America/Toronto,2019-08-18
+6138916,Saint-Pie,Saint-Pie,45.50277,-72.9089,P,PPLA3,CA,,10,16,54008,,5438,,38,America/Toronto,2016-07-01
+6138987,Saint-RÈmi,Saint-Remi,45.26678,-73.61588,P,PPLA3,CA,,10,16,68055,,6891,,55,America/Toronto,2019-08-08
+6145489,Shawinigan,Shawinigan,46.56675,-72.74913,P,PPLA3,CA,,10,4,36033,,38211,,123,America/Toronto,2019-08-08
+6094573,Osgoode,Osgoode,45.14887,-75.59778,P,PPLA4,CA,,8,3506,3506008,,2578,,92,America/Toronto,2019-08-08
+6094817,Ottawa,Ottawa,45.41117,-75.69812,P,PPLC,CA,,8,3506,3506008,,812129,,71,America/Toronto,2019-09-05
+12069867,Alcida,Alcida,47.7704,-65.82871,P,PPLL,CA,,4,1315,,,208,,105,America/Moncton,2019-08-11
+5883235,Alcomdale,Alcomdale,53.90015,-113.83535,P,PPLL,CA,,1,,,,88,,718,America/Edmonton,2019-08-08
+5885280,Angus,Angus,44.31681,-79.88295,P,PPLL,CA,,8,3543,3543021,,10269,,193,America/Toronto,2019-02-26
+12069869,Anse-Bleue,Anse-Bleue,47.82833,-65.0815,P,PPLL,CA,,4,1315,,,327,,3,America/Moncton,2019-08-11
+5886735,Arctic Bay,Arctic Bay,73.03752,-85.15057,P,PPLL,CA,,14,,,,841,,3,America/Rankin_Inlet,2014-01-05
+5895886,Bear Creek,Bear Creek,56.29828,-108.97317,P,PPLL,CA,,11,,,,33,,461,America/Regina,2019-08-08
+5897681,Belfast,Belfast,46.08341,-62.88197,P,PPLL,CA,,9,,,,1839,,14,America/Halifax,2013-05-05
+5899341,Beynon,Beynon,51.33343,-112.78517,P,PPLL,CA,,1,,,,8,,744,America/Edmonton,2007-08-08
+5901845,Birken,Birken,50.48303,-122.6194,P,PPLL,CA,,2,,,,253,,571,America/Vancouver,2019-08-08
+5903053,Black Point,Black Point,56.36691,-109.45159,P,PPLL,CA,,11,,,,43,,440,America/Regina,2019-08-08
+5906575,Bourget,Bourget,45.43475,-75.16028,P,PPLL,CA,,8,3502,,,1169,,57,America/Toronto,2020-05-30
+5910187,Br˚lÈ,Brule,53.28337,-117.88569,P,PPLL,CA,,1,,,,31,,1441,America/Edmonton,2019-08-11
+5907355,Bralorne,Bralorne,50.76646,-122.8195,P,PPLL,CA,,2,,,,36,,1281,America/Vancouver,2019-08-08
+8131396,Breakeyville,Breakeyville,46.68037,-71.22327,P,PPLL,CA,,10,12,25213,,5000,101,98,America/Toronto,2016-06-22
+5914668,Camsell Portage,Camsell Portage,59.61693,-109.2513,P,PPLL,CA,,11,,,,10,,214,America/Regina,2019-08-08
+12069883,Cap-Bateau,Cap-Bateau,47.81199,-64.53749,P,PPLL,CA,,4,1315,,,262,,5,America/Moncton,2019-08-11
+6943834,Carleton,Carleton,48.10252,-66.11962,P,PPLL,CA,,10,11,6013,,1101,,13,America/Toronto,2020-05-30
+5920521,Cheadle,Cheadle,51.0128,-113.54274,P,PPLL,CA,,1,,,,108,998,988,America/Edmonton,2013-09-22
+6957320,Churchill Falls,Churchill Falls,53.53153,-64.00849,P,PPLL,CA,,5,,,,650,320,374,America/Goose_Bay,2009-11-22
+5924351,Clyde River,Clyde River,70.47233,-68.58987,P,PPLL,CA,,14,,,,1017,,-9999,America/Iqaluit,2020-11-01
+12069929,Coteau Road,Coteau Road,47.83592,-64.55777,P,PPLL,CA,,4,1315,,,410,,8,America/Moncton,2019-08-11
+5934715,Dalroy,Dalroy,51.13342,-113.66865,P,PPLL,CA,,1,,,,55,,969,America/Edmonton,2019-08-08
+5937497,Delaware,Delaware,42.91679,-81.41646,P,PPLL,CA,,8,3539,3539033,,2521,,222,America/Toronto,2019-02-26
+5938172,Descharme Lake,Descharme Lake,57.10022,-109.20156,P,PPLL,CA,,11,,,,5,,450,America/Regina,2019-08-08
+5938768,Devine,Devine,50.51643,-122.48598,P,PPLL,CA,,2,,,,58,,447,America/Vancouver,2019-08-08
+12069941,Dunlop,Dunlop,47.68713,-65.73386,P,PPLL,CA,,4,1315,,,950,,37,America/Moncton,2019-08-11
+5948870,English Corner,English Corner,44.73345,-63.78201,P,PPLL,CA,,7,,,,1151,,116,America/Halifax,2019-08-08
+5955777,Fort Albany,Fort Albany,52.19998,-81.66664,P,PPLL,CA,,8,,,,900,,11,America/Toronto,2012-01-31
+5955783,Fort Assiniboine,Fort Assiniboine,54.33344,-114.76887,P,PPLL,CA,,1,,,,176,,602,America/Edmonton,2019-08-08
+5959808,Garson Lake,Garson Lake,56.31692,-109.96837,P,PPLL,CA,,11,,,,10,,463,America/Regina,2019-08-08
+5961560,Gjoa Haven,Gjoa Haven,68.62602,-95.87836,P,PPLL,CA,,14,,,,1109,,1,America/Cambridge_Bay,2012-07-25
+5970063,Hanceville,Hanceville,51.91922,-123.04458,P,PPLL,CA,,2,,,,10000,,691,America/Vancouver,2013-05-05
+5985934,Jasper Park Lodge,Jasper Park Lodge,52.88633,-118.05625,P,PPLL,CA,,1,,,,3907,,1036,America/Edmonton,2015-01-07
+5990174,Keephills,Keephills,53.44183,-114.35208,P,PPLL,CA,,1,,,,48,,722,America/Edmonton,2019-08-08
+5991182,Keoma,Keoma,51.21682,-113.65195,P,PPLL,CA,,1,,,,104,,949,America/Edmonton,2019-08-08
+5994339,Kugluktuk,Kugluktuk,67.82743,-115.09649,P,PPLL,CA,,14,,,,1302,,1,America/Cambridge_Bay,2013-08-17
+6039722,La CrÍte,La Crete,58.18348,-116.40268,P,PPLL,CA,,1,,,,433,,324,America/Edmonton,2019-08-11
+12070173,Leech,Leech,47.45314,-64.98185,P,PPLL,CA,,4,1315,,,608,,15,America/Moncton,2019-08-11
+6060002,Looma,Looma,53.36683,-113.252,P,PPLL,CA,,1,4811012,,,30,753,753,America/Edmonton,2018-07-20
+6062881,Macdowall,Macdowall,53.01678,-106.01777,P,PPLL,CA,,11,,,,125,,481,America/Regina,2019-08-08
+6063111,MacKay,MacKay,53.65014,-115.58549,P,PPLL,CA,,1,,,,10,,805,America/Edmonton,2019-08-08
+12069897,Madran,Madran,47.81674,-65.77205,P,PPLL,CA,,4,1315,,,260,,44,America/Moncton,2019-08-11
+12070165,Maltempec,Maltempec,47.67312,-64.9821,P,PPLL,CA,,4,1315,,,275,,12,America/Moncton,2019-08-11
+6078177,Moose Lake,Moose Lake,49.20559,-95.30629,P,PPLL,CA,,3,,,,1225,,346,America/Winnipeg,2019-08-08
+6080088,Mount Brydges,Mount Brydges,42.90009,-81.48306,P,PPLL,CA,,8,3539,3539015,,1842,,246,America/Toronto,2019-08-08
+6083490,Mud Bay,Mud Bay,49.46633,-124.8028,P,PPLL,CA,,2,,,,222,,24,America/Vancouver,2019-08-08
+12069946,Nicholas Denys,Nicholas Denys,47.69863,-65.88047,P,PPLL,CA,,4,1315,,,852,,167,America/Moncton,2019-08-12
+6088642,Niton Junction,Niton Junction,53.61954,-115.7716,P,PPLL,CA,,1,,,,38,,846,America/Edmonton,2019-01-08
+6096551,Pangnirtung,Pangnirtung,66.14642,-65.69996,P,PPLL,CA,,14,,,,1320,,1,America/Pangnirtung,2016-04-02
+6099585,Patrick's Cove-Angels Cove,Patrick's Cove-Angels Cove,47.03672,-54.11469,P,PPLL,CA,,5,,,,56,,19,America/St_Johns,2019-08-11
+12069899,Petit-Rocher-Nord,Petit-Rocher-Nord,47.80925,-65.73246,P,PPLL,CA,,4,1315,,,572,,9,America/Moncton,2019-08-13
+12069932,Pigeon Hill,Pigeon Hill,47.84741,-64.5114,P,PPLL,CA,,4,1315,,,443,,11,America/Moncton,2019-08-11
+6106621,Point Aconi,Point Aconi,46.33344,-60.29846,P,PPLL,CA,,7,,,,134,,23,America/Glace_Bay,2019-08-08
+12069933,Pointe-Alexandre,Pointe-Alexandre,47.80529,-64.66755,P,PPLL,CA,,4,1315,,,303,,3,America/Moncton,2019-08-11
+12069934,Pointe-Br˚lÈe,Pointe-Brulee,47.75567,-64.73041,P,PPLL,CA,,4,1315,,,221,,2,America/Moncton,2019-08-11
+12069935,Pointe-Canot,Pointe-Canot,47.83338,-64.69454,P,PPLL,CA,,4,1315,,,247,,1,America/Moncton,2019-08-11
+12069894,Pokemouche,Pokemouche,47.66828,-64.87647,P,PPLL,CA,,4,1315,,,490,,4,America/Moncton,2019-08-11
+12069936,Pokesudie,Pokesudie,47.79774,-64.76512,P,PPLL,CA,,4,1315,,,228,,1,America/Moncton,2019-08-11
+6114228,Puntledge,Puntledge,49.67322,-125.02907,P,PPLL,CA,,2,5926,,,1387,,70,America/Vancouver,2020-05-30
+6114366,Purple Springs,Purple Springs,49.81675,-111.90177,P,PPLL,CA,,1,,,,29,,801,America/Edmonton,2019-08-08
+6115728,Radway,Radway,54.06686,-112.95199,P,PPLL,CA,,1,,,,171,,629,America/Edmonton,2019-08-08
+6116548,Rankin Inlet,Rankin Inlet,62.80906,-92.08534,P,PPLL,CA,,14,,,,2334,,1,America/Rankin_Inlet,2016-05-05
+12070137,Robertville,Robertville,47.69624,-65.77344,P,PPLL,CA,,4,1315,,,937,,63,America/Moncton,2019-08-11
+6137052,Sachs Harbour,Sachs Harbour,71.98495,-125.24665,P,PPLL,CA,,13,11995136,6101041,,90,,46,America/Yellowknife,2019-02-26
+12069938,Sainte-CÈcile,Sainte-Cecile,47.85468,-64.66494,P,PPLL,CA,,4,1315,,,732,,6,America/Moncton,2019-08-12
+12070176,Saint-Pons,Saint-Pons,47.47739,-64.96091,P,PPLL,CA,,4,1315,,,319,,25,America/Moncton,2019-08-11
+12070150,Saint-Sauveur,Saint-Sauveur,47.52955,-65.26898,P,PPLL,CA,,4,1315,,,673,,79,America/Moncton,2019-08-11
+12069937,Saint-Simon,Saint-Simon,47.73657,-64.84123,P,PPLL,CA,,4,1315,,,700,,10,America/Moncton,2019-08-12
+6149394,Sled Lake,Sled Lake,54.43345,-107.33455,P,PPLL,CA,,11,,,,10,,463,America/Regina,2019-08-08
+6154596,Spuzzum,Spuzzum,49.6886,-121.41506,P,PPLL,CA,,2,,,,22,,130,America/Vancouver,2019-08-08
+6156847,St. Isidore,St. Isidore,56.2001,-117.10267,P,PPLL,CA,,1,,,,218,,573,America/Edmonton,2013-07-20
+6156938,St. Joseph's,St. Joseph's,50.50008,-104.18437,P,PPLL,CA,,11,,,,76,,686,America/Regina,2019-08-08
+6155240,Stanley Mission,Stanley Mission,55.41684,-104.55087,P,PPLL,CA,,11,,,,95,,336,America/Regina,2019-08-08
+6157430,Stoney Point,Stoney Point,44.26681,-79.53292,P,PPLL,CA,,8,,,,1087,,216,America/Toronto,2019-08-08
+6172408,Upper Liard,Upper Liard,60.04958,-128.90613,P,PPLL,CA,,12,,,,642,,608,America/Whitehorse,2021-07-27
+6172763,Uranium City,Uranium City,59.56707,-108.6183,P,PPLL,CA,,11,,,,73,,268,America/Regina,2019-08-08
+6175609,Walpole Island,Walpole Island,42.6152,-82.51398,P,PPLL,CA,,8,3538,,,1878,,176,America/Detroit,2018-01-20
+6176376,Warspite,Warspite,54.10017,-112.61864,P,PPLL,CA,,1,,,,76,,655,America/Edmonton,2019-08-08
+6177814,Welcome Beach,Welcome Beach,49.47959,-123.89239,P,PPLL,CA,,2,5929,,,1125,,81,America/Vancouver,2019-08-08
+8533869,West Vancouver,West Vancouver,49.36672,-123.16652,P,PPLL,CA,,2,5915,5915055,,42694,,750,America/Vancouver,2019-02-26
+8558534,Willowdale,Willowdale,43.76672,-79.39909,P,PPLL,CA,,8,,,,79440,,176,America/Toronto,2013-07-08
+6183870,Wollaston Lake,Wollaston Lake,58.11137,-103.15646,P,PPLL,CA,,11,,,,99,,414,America/Regina,2019-08-08
