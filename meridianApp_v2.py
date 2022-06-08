@@ -1,4 +1,6 @@
 import dash
+import base64
+import io
 from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output, State, MATCH, ALL
@@ -8,17 +10,18 @@ import plotly.graph_objects as go
 import pandas as pd
 from urllib.request import urlopen
 import json
+import numpy as np
+
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 px.set_mapbox_access_token('pk.eyJ1Ijoic3dlYmVyNjEzIiwiYSI6ImNsNDMwaGQ5NzE0N3AzZG9menk4cWljMWQifQ.jkgByHIsA8MOWgULENoDJA')
 
 app = dash.Dash(
-    __name__,
+    __name__, external_stylesheets=external_stylesheets
 )
 
 # read in canadian city data
-df = pd.read_csv('https://gist.githubusercontent.com/curran/13d30e855d48cdd6f22acdf0afe27286/raw/0635f14817ec634833bb904a47594cc2f5f9dbf8/worldcities_clean.csv')
-df = df[df['country'] == 'Canada']
-df['text'] = df['city'] + ', pop ' + df['population'].astype(str)
+canada_cities = pd.read_csv('https://raw.githubusercontent.com/sweber613/meridian/main/Canadian%20Population%20Centres%20-%20Adapted%20From%20GeoNames.org.csv', encoding = "ISO-8859-1")
 
 us_cities = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/us-cities-top-1k.csv")
 
@@ -30,6 +33,15 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
 unemp = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/fips-unemp-16.csv",
                    dtype={"fips": str})
 
+
+jdata = json.load(open('census_subdivisions_digital_2016.json'))
+
+PRUID = [feat['properties']['CSDUID'] for feat in jdata['features']]
+PRENAME = [feat['properties']['CSDNAME'] for feat in jdata['features']]
+
+df = pd.DataFrame(list(zip(PRUID, PRENAME)), columns =['CSDUID', 'CSDNAME'])
+df['randNum'] = np.random.uniform(0.0, 1.0, df.shape[0])
+
 class dataLayer:
     def __init__(self, type, graphObject):
         self.type = type
@@ -38,15 +50,14 @@ class dataLayer:
 dataDict = {}
 layoutDict = {}
 
-defaultData = 'Canadian cities'
+defaultData = 'Canadian population centres'
 defaultLayout = 'Street'
 
-dataDict['Canadian cities'] = dataLayer('scatter',
-                                go.Scattermapbox(lon = df['lng'],
-                                  lat = df['lat'],
-                                  text = df['text'],
+dataDict['Canadian population centres'] = dataLayer('scatter',
+                                go.Scattermapbox(lon = canada_cities['Longitude'],
+                                  lat = canada_cities['Latitude'],
+                                  text = canada_cities['Place Name (UTF8) VarChar(200)'],
                                   mode = 'markers',
-                                  marker_color = df['population'],
                                   marker_size = 20,
                                   marker_opacity = 1.0)
                               )
@@ -69,14 +80,24 @@ dataDict['Airports'] = dataLayer('scatter',
                            marker_opacity = 1.0)
                        )
 
-dataDict['Unemp'] = dataLayer('choropleth',
-                        go.Choroplethmapbox(geojson=counties,
-                            locations=unemp['fips'],
-                            z=unemp['unemp'],
-                            colorscale="Viridis",
-                            marker_line_width=.5)
-                      )
+# dataDict['Unemp'] = dataLayer('choropleth',
+#                         go.Choroplethmapbox(geojson=counties,
+#                             locations=unemp['fips'],
+#                             z=unemp['unemp'],
+#                             colorscale="Viridis",
+#                             marker_line_width=.5)
+#                       )
 
+dataDict['CensusDivisions'] = dataLayer('choropleth',
+                        go.Choroplethmapbox(z=df['randNum'],
+                            locations=df['CSDUID'],
+                            featureidkey='properties.CSDUID',
+                            colorscale="Viridis",
+                            marker_line_width=.5,
+                            geojson=jdata,
+                            text=df['CSDNAME'],
+                            marker_opacity=0.33)
+                    )
 
 layoutDict['Street'] = go.Layout(mapbox_style="open-street-map", height=1000, mapbox = {'zoom' : 3, 'center_lat' : 65, 'center_lon' : -105}, margin={"r":0,"t":0,"l":0,"b":0})
 
@@ -92,6 +113,7 @@ layoutDict['Satellite'] = go.Layout(
                                 ]
                             }
                         ],
+                        mapbox = {'zoom' : 3, 'center_lat' : 65, 'center_lon' : -105},
                         height=1000,
                         margin={"r":0,"t":0,"l":0,"b":0}
                     )
@@ -116,19 +138,35 @@ app.layout = html.Div([
                             ),
                             dcc.Tabs(id='standard-overlay-configuration-tabs', children=[])
                         ]),
-                        dcc.Tab(value='custom-overlay-tab', label='Custom Overlays')
-                    ]),
-                ], style={'width': '14%', 'display': 'inline-block', 'verticalAlign': 'top'}),
+                        dcc.Tab(value='custom-overlay-tab', label='Custom Overlays', children=[
+                            dcc.Upload(
+                                id='upload-data',
+                                children=[html.Button('Upload File')]
+                            ),
+                            dcc.Tabs(id='custom-overlay-configuration-tabs', children=[])
+                        ]),
+                    ])], style={'width': '14%', 'display': 'inline-block', 'verticalAlign': 'top'}),
                 html.Div(
                     dcc.Graph(id='basemap-container', figure=fig),
                     style={'width': '84%', 'display': 'inline-block', 'verticalAlign': 'top'}
                 ),
 ])
 
+def parseCSV(fileContents, fileName):
+    content_type, content_string = fileContents.split(',')
+
+    decoded = base64.b64decode(content_string)
+    if 'csv' in fileName:
+        df = pd.read_csv(io.StringIO(decoded.decode('utf-8')))
+
+    return df
+
 @app.callback(
     Output('basemap-container', 'figure'),
     Input('basemap-dropdown', 'value'),
     Input('data-checklist', 'value'),
+    Input('upload-data', 'contents'),
+    State('upload-data', 'filename'),
     Input({'type' : 'marker-size', 'id' : ALL}, 'value'),
     State({'type' : 'marker-size', 'id' : ALL}, 'id'),
     Input({'type' : 'marker-opacity', 'id' : ALL}, 'value'),
@@ -136,7 +174,7 @@ app.layout = html.Div([
     Input({'type' : 'colour-picker', 'id' : ALL}, 'value'),
     State({'type' : 'colour-picker', 'id' : ALL}, 'id'),
 )
-def updateMapFigure(basemap, datasets, sizeValues, sizeIds, opacityValues, opacityIds, colourValues, colourIds):
+def updateMapFigure(basemap, datasets, content, filename, sizeValues, sizeIds, opacityValues, opacityIds, colourValues, colourIds):
     mapData = []
     print(colourValues, colourIds)
     for data in datasets:
@@ -150,6 +188,18 @@ def updateMapFigure(basemap, datasets, sizeValues, sizeIds, opacityValues, opaci
             if(id['id'] == data):
                 dataDict[data].graphObject.marker.color = colourValues[i]['hex']
         mapData.append(dataDict[data].graphObject)
+
+    if content is not None:
+        userDF = parseCSV(content, filename)
+        dataDict['userData'] = dataLayer('scatter',
+                                    go.Scattermapbox(lon = userDF['Longitude'],
+                                       lat = userDF['Latitude'],
+                                       text = userDF['Name'],
+                                       mode = 'markers',
+                                       marker_size = 10,
+                                       marker_opacity = 1.0)
+                               )
+        mapData.append(dataDict['userData'].graphObject)
     return go.Figure(data = mapData, layout = layoutDict[basemap])
 
 @app.callback(
