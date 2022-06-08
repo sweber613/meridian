@@ -34,7 +34,7 @@ unemp = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/fi
                    dtype={"fips": str})
 
 
-jdata = json.load(open('census_subdivisions_digital_2016.json'))
+jdata = json.load(open('census_subdivisions_simple_2016.json'))
 
 PRUID = [feat['properties']['CSDUID'] for feat in jdata['features']]
 PRENAME = [feat['properties']['CSDNAME'] for feat in jdata['features']]
