@@ -30,14 +30,13 @@ airports = pd.read_csv('https://raw.githubusercontent.com/sweber613/meridian/mai
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
     counties = json.load(response)
 
-unemp = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/fips-unemp-16.csv",
-                   dtype={"fips": str})
+unemp = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/fips-unemp-16.csv", dtype={"fips": str})
 
+with urlopen('https://raw.githubusercontent.com/sweber613/meridian/main/census_subdivisions_simple_2016.json') as response:
+    census_subdivisions = json.load(response)
 
-jdata = json.load(open('census_subdivisions_simple_2016.json'))
-
-PRUID = [feat['properties']['CSDUID'] for feat in jdata['features']]
-PRENAME = [feat['properties']['CSDNAME'] for feat in jdata['features']]
+PRUID = [feat['properties']['CSDUID'] for feat in census_subdivisions['features']]
+PRENAME = [feat['properties']['CSDNAME'] for feat in census_subdivisions['features']]
 
 df = pd.DataFrame(list(zip(PRUID, PRENAME)), columns =['CSDUID', 'CSDNAME'])
 df['randNum'] = np.random.uniform(0.0, 1.0, df.shape[0])
@@ -94,7 +93,7 @@ dataDict['CensusDivisions'] = dataLayer('choropleth',
                             featureidkey='properties.CSDUID',
                             colorscale="Viridis",
                             marker_line_width=.5,
-                            geojson=jdata,
+                            geojson=census_subdivisions,
                             text=df['CSDNAME'],
                             marker_opacity=0.33)
                     )
