@@ -2,7 +2,7 @@ import dash
 import base64
 import io
 from dash import dcc
-from dash import html
+from dash import html, ctx
 from dash.dependencies import Input, Output, State, MATCH, ALL
 import dash_daq as daq
 import plotly.express as px
@@ -11,10 +11,13 @@ import pandas as pd
 from urllib.request import urlopen
 import json
 import numpy as np
+from traceHelpers import *
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-px.set_mapbox_access_token('pk.eyJ1Ijoic3dlYmVyNjEzIiwiYSI6ImNsNDMwaGQ5NzE0N3AzZG9menk4cWljMWQifQ.jkgByHIsA8MOWgULENoDJA')
+mapboxToken = 'pk.eyJ1Ijoic3dlYmVyNjEzIiwiYSI6ImNsNDMwaGQ5NzE0N3AzZG9menk4cWljMWQifQ.jkgByHIsA8MOWgULENoDJA'
+
+px.set_mapbox_access_token(mapboxToken)
 
 app = dash.Dash(
     __name__, external_stylesheets=external_stylesheets
@@ -37,6 +40,75 @@ with urlopen('https://raw.githubusercontent.com/sweber613/meridian/main/census_s
 
 mean_age = pd.read_csv('https://raw.githubusercontent.com/sweber613/meridian/main/2016%20Censsus%20-%20Mean%20Age%20by%20CSD.csv', encoding = "ISO-8859-1")
 
+airport_great_circles = pd.read_csv('https://raw.githubusercontent.com/sweber613/meridian/main/Example%20Data%20-%20Airports%20for%20Great%20Circles.csv', encoding = "ISO-8859-1")
+
+
+from geohexviz.builder import PlotBuilder
+
+myBuilder = PlotBuilder()
+
+# set hexbin layer
+myBuilder.set_hexbin(
+    data="Fish Sampling Locations for Hexagonal Binning.csv",
+    hexbin_info=dict(
+        hex_resolution=4,
+    ),
+    manager=dict(
+        marker=dict(
+            line=dict(
+                width=0.1
+            )
+        ),
+        # colorscale="Dark24"
+    )
+)
+
+myBuilder.set_mapbox(mapboxToken)
+
+# add region layers
+myBuilder.add_region(
+    name="sample_Region_Canada",
+    data="CANADA"
+)
+
+# add grid layers
+myBuilder.add_grid(
+    name="sample_Grid_Canada",
+    data="CANADA"
+)
+
+# alter figure layout
+myBuilder.update_figure(
+    layout=dict(
+        legend=dict(
+            x=0.8043,
+            bordercolor="black",
+            borderwidth=1,
+            font=dict(
+                size=8
+            )
+        )
+    )
+)
+
+# invoke functions
+myBuilder.clip_layers(
+    clip="hexbin+grids",
+    to="regions"
+)
+myBuilder.adjust_focus(
+    on="hexbin+grids",
+    buffer_lat=[0, 15],
+    rot_buffer_lon=-8
+)
+
+# finalize and output
+myBuilder.finalize()
+# myBuilder.output(
+#     filepath="fish.pdf",
+#     # crop_output=True
+# )
+
 class dataLayer:
     def __init__(self, type, graphObjects):
         self.type = type
@@ -49,13 +121,16 @@ layoutDict = {}
 defaultData = 'Canadian population centres'
 defaultLayout = 'Street'
 
+standardDataDict['Fish Observations'] = dataLayer('GeoHexViz',myBuilder._figure['data'])
+
 standardDataDict['Canadian population centres'] = dataLayer('scatter',
                                 [go.Scattermapbox(lon = canada_cities['Longitude'],
                                   lat = canada_cities['Latitude'],
                                   text = canada_cities['Place Name (UTF8) VarChar(200)'],
                                   mode = 'markers',
                                   marker_size = 20,
-                                  marker_opacity = 1.0)]
+                                  marker_opacity = 1.0,
+                                  name='Canadian population centres')]
                               )
 
 standardDataDict['USA cities'] = dataLayer('scatter',
@@ -64,7 +139,8 @@ standardDataDict['USA cities'] = dataLayer('scatter',
                                text = us_cities['City'],
                                mode = 'markers',
                                marker_size = 10,
-                               marker_opacity = 1.0)]
+                               marker_opacity = 1.0,
+                               name='USA cities')]
                            )
 
 standardDataDict['Airports'] = dataLayer('scatter',
@@ -73,8 +149,15 @@ standardDataDict['Airports'] = dataLayer('scatter',
                            text = airports['Name'],
                            mode = 'markers',
                            marker_size = 10,
-                           marker_opacity = 1.0)]
+                           marker_opacity = 1.0,
+                           name='Airports')]
                        )
+
+standardDataDict['Air traffic'] = dataLayer('arcs',
+                                            [get_geo_arcs(airport_great_circles, 3, 'rgba(255,0,0,0.5)')])
+
+
+standardDataDict['Air traffic 2'] = dataLayer('arcs', get_geo_arc_arrows(airport_great_circles))
 
 # standardDataDict['Unemp'] = dataLayer('choropleth',
 #                         go.Choroplethmapbox(geojson=counties,
@@ -92,7 +175,8 @@ standardDataDict['Mean Age'] = dataLayer('choropleth',
                             marker_line_width=.5,
                             geojson=census_subdivisions,
                             text=mean_age['GEO_NAME'],
-                            marker_opacity=0.33)]
+                            marker_opacity=0.33,
+                            name='Mean Age')]
                     )
 
 layoutDict['Street'] = go.Layout(mapbox_style="open-street-map", height=1000, mapbox = {'zoom' : 3, 'center_lat' : 65, 'center_lon' : -105}, margin={"r":0,"t":0,"l":0,"b":0})
@@ -162,11 +246,30 @@ def parseCSV(fileContents, fileName):
     return df
 
 @app.callback(
+    Output('custom-data-checklist', 'options'),
+    Input('upload-data', 'contents'),
+    State('upload-data', 'filename'),
+)
+def importCustomData(content, filename):
+    if content is not None:
+        userDF = parseCSV(content, filename)
+        customDataDict['User Data'] = dataLayer('scatter',
+                                    [go.Scattermapbox(lon = userDF['Longitude'],
+                                       lat = userDF['Latitude'],
+                                       text = userDF['Name'],
+                                       mode = 'markers',
+                                       marker_size = 10,
+                                       marker_opacity = 1.0,
+                                       name='User Data')]
+                               )
+    return list(customDataDict.keys())
+
+@app.callback(
     Output('basemap-container', 'figure'),
     Input('basemap-dropdown', 'value'),
     Input('standard-data-checklist', 'value'),
-    Input('upload-data', 'contents'),
-    State('upload-data', 'filename'),
+    Input('custom-data-checklist', 'value'),
+    State('basemap-container', 'figure'),
     Input({'type' : 'marker-size', 'id' : ALL}, 'value'),
     State({'type' : 'marker-size', 'id' : ALL}, 'id'),
     Input({'type' : 'marker-opacity', 'id' : ALL}, 'value'),
@@ -174,10 +277,27 @@ def parseCSV(fileContents, fileName):
     Input({'type' : 'colour-picker', 'id' : ALL}, 'value'),
     State({'type' : 'colour-picker', 'id' : ALL}, 'id'),
 )
-def updateMapFigure(basemap, datasets, content, filename, sizeValues, sizeIds, opacityValues, opacityIds, colourValues, colourIds):
+def updateMapFigure(basemap, standardDatasets, customDatasets, figureState, sizeValues, sizeIds, opacityValues, opacityIds, colourValues, colourIds):
+
+    # get current map position
+    zoom = figureState['layout']['mapbox']['zoom']
+    center_lat = figureState['layout']['mapbox']['center']['lat']
+    center_lon = figureState['layout']['mapbox']['center']['lon']
+
+    figureData = figureState['data']
+
+    # print(ctx.triggered_id == 'standard-data-checklist')
+    # print(ctx.triggered_id)
+    #
+    # if ctx.triggered_id == 'standard-data-checklist':
+    #     for data in standardDatasets:
+    #         if data == figData['name'] for figdata in figureData:
+    #             continue
+    #         figureData += standardDataDict[data].graphObjects
+
     mapData = []
     standardData = []
-    for data in datasets:
+    for data in standardDatasets:
         for i, id in enumerate(sizeIds):
             if(id['id'] == data):
                 standardDataDict[data].graphObjects[0].marker.size = sizeValues[i]
@@ -190,56 +310,100 @@ def updateMapFigure(basemap, datasets, content, filename, sizeValues, sizeIds, o
         standardData += standardDataDict[data].graphObjects
 
     customData = []
-    if content is not None:
-        userDF = parseCSV(content, filename)
-        customDataDict['userData'] = dataLayer('scatter',
-                                    [go.Scattermapbox(lon = userDF['Longitude'],
-                                       lat = userDF['Latitude'],
-                                       text = userDF['Name'],
-                                       mode = 'markers',
-                                       marker_size = 10,
-                                       marker_opacity = 1.0)]
-                               )
-        customData += customDataDict['userData'].graphObjects
+    if customDatasets:
+        for data in customDatasets:
+            for i, id in enumerate(sizeIds):
+                if(id['id'] == data):
+                    customDataDict[data].graphObjects[0].marker.size = sizeValues[i]
+            for i, id in enumerate(opacityIds):
+                if(id['id'] == data):
+                    customDataDict[data].graphObjects[0].marker.opacity = opacityValues[i]
+            for i, id in enumerate(colourIds):
+                if(id['id'] == data):
+                    customDataDict[data].graphObjects[0].marker.color = colourValues[i]['hex']
+            customData += customDataDict[data].graphObjects
 
     mapData = standardData + customData
-    return go.Figure(data = mapData, layout = layoutDict[basemap])
+    layout = layoutDict[basemap]
+    layout.mapbox.zoom = zoom
+    layout.mapbox.center.lat = center_lat
+    layout.mapbox.center.lon = center_lon
+    return go.Figure(data = mapData, layout = layout)
 
 @app.callback(
     Output('standard-overlay-configuration-tabs', 'children'),
     Input('standard-data-checklist', 'value'),
 )
-def defineDataTabs(datasets):
+def defineStandardDataTabs(datasets):
     tabs = []
-    for data in datasets:
-        children = []
-        if standardDataDict[data].type == 'scatter':
-            children.append(html.H3('Size'))
-            children.append(
-                dcc.Input(type='number', debounce=True, value=10, min=0, max=100, step=1, id={
-                    'type' : 'marker-size',
-                    'id' : data
-                }))
-            children.append(html.H3('Opacity'))
-            children.append(
-                dcc.Input(type='number', debounce=True, value=1, min=0, max=1, step=0.01,id={
-                    'type' : 'marker-opacity',
-                    'id' : data
-                }))
-            children.append(html.H3('Colour'))
-            children.append(
-                daq.ColorPicker(value=dict(hex='#119DFF'),id={
-                    'type' : 'colour-picker',
-                    'id' : data
-                }))
-        if standardDataDict[data].type == 'choropleth':
-            children.append(html.H3('Opacity'))
-            children.append(
-                dcc.Input(type='number', debounce=True, value=1, min=0, max=1, step=0.01,id={
-                    'type' : 'marker-opacity',
-                    'id' : data
-                }))
-        tabs.append(dcc.Tab(value=data, label=data, children=children))
+    if datasets:
+        for data in datasets:
+            children = []
+            if standardDataDict[data].type == 'scatter':
+                children.append(html.H3('Size'))
+                children.append(
+                    dcc.Input(type='number', debounce=True, value=10, min=0, max=100, step=1, id={
+                        'type' : 'marker-size',
+                        'id' : data
+                    }))
+                children.append(html.H3('Opacity'))
+                children.append(
+                    dcc.Input(type='number', debounce=True, value=1, min=0, max=1, step=0.01,id={
+                        'type' : 'marker-opacity',
+                        'id' : data
+                    }))
+                children.append(html.H3('Colour'))
+                children.append(
+                    daq.ColorPicker(value=dict(hex='#119DFF'),id={
+                        'type' : 'colour-picker',
+                        'id' : data
+                    }))
+            if standardDataDict[data].type == 'choropleth':
+                children.append(html.H3('Opacity'))
+                children.append(
+                    dcc.Input(type='number', debounce=True, value=1, min=0, max=1, step=0.01,id={
+                        'type' : 'marker-opacity',
+                        'id' : data
+                    }))
+            tabs.append(dcc.Tab(value=data, label=data, children=children))
+    return tabs
+
+@app.callback(
+    Output('custom-overlay-configuration-tabs', 'children'),
+    Input('custom-data-checklist', 'value'),
+)
+def defineCustomDataTabs(datasets):
+    tabs = []
+    if datasets:
+        for data in datasets:
+            children = []
+            if customDataDict[data].type == 'scatter':
+                children.append(html.H3('Size'))
+                children.append(
+                    dcc.Input(type='number', debounce=True, value=10, min=0, max=100, step=1, id={
+                        'type' : 'marker-size',
+                        'id' : data
+                    }))
+                children.append(html.H3('Opacity'))
+                children.append(
+                    dcc.Input(type='number', debounce=True, value=1, min=0, max=1, step=0.01,id={
+                        'type' : 'marker-opacity',
+                        'id' : data
+                    }))
+                children.append(html.H3('Colour'))
+                children.append(
+                    daq.ColorPicker(value=dict(hex='#119DFF'),id={
+                        'type' : 'colour-picker',
+                        'id' : data
+                    }))
+            if customDataDict[data].type == 'choropleth':
+                children.append(html.H3('Opacity'))
+                children.append(
+                    dcc.Input(type='number', debounce=True, value=1, min=0, max=1, step=0.01,id={
+                        'type' : 'marker-opacity',
+                        'id' : data
+                    }))
+            tabs.append(dcc.Tab(value=data, label=data, children=children))
     return tabs
 
 if __name__ == "__main__":
