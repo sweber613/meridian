@@ -1,0 +1,4586 @@
+GEO_CODE,GEO_NAME,MEAN_AGE
+1001105,"Portugal Cove South, T",52.1
+1001113,"Trepassey, T",54.4
+1001120,"St. Shott's, T",62
+1001124,"Division No. 1, Subd. U, SNO",46
+1001126,"Cape Broyle, T",44.8
+1001131,"Renews-Cappahayden, T",53.2
+1001136,"Fermeuse, T",52.8
+1001140,"Port Kirwan, T",60
+1001144,"Aquaforte, T",56.7
+1001149,"Ferryland, T",51.4
+1001155,"Division No. 1, Subd. W, SNO",52.7
+1001169,"St. Vincent's-St. Stephen's-Peter's River, T",53.3
+1001174,"Gaskiers-Point La Haye, T",52.9
+1001178,"St. Mary's, T",55
+1001181,"Riverhead, T",53.5
+1001186,"Admirals Beach, T",54.3
+1001192,"St. Joseph's, T",54.7
+1001197,"Mount Carmel-Mitchells Brook-St. Catherine's, T",55.2
+1001203,"Division No. 1, Subd. X, SNO",50.9
+1001207,"Colinet, T",53.9
+1001214,"Division No. 1, Subd. C, SNO",57.4
+1001219,"Branch, T",50
+1001225,"Point Lance, T",47
+1001228,"St. Bride's, T",52.7
+1001234,"Division No. 1, Subd. B, SNO",48.8
+1001240,"Placentia, T",48.3
+1001254,"Fox Harbour, T",47
+1001259,"Division No. 1, Subd. A, SNO",55.1
+1001263,"Long Harbour-Mount Arlington Heights, T",49.3
+1001267,"Southern Harbour, T",49.1
+1001270,"Arnold's Cove, T",47.6
+1001274,"Come By Chance, T",46.5
+1001277,"Sunnyside, T",47.1
+1001281,"Chance Cove, T",55.7
+1001285,"Norman's Cove-Long Cove, T",49.8
+1001289,"Chapel Arm, T",46.2
+1001293,"Division No. 1, Subd. Y, SNO",45.5
+1001298,"Whitbourne, T",44.7
+1001304,"Division No. 1, Subd. E, SNO",46.6
+1001308,"Whiteway, T",49.8
+1001312,"Heart's Delight-Islington, T",49.8
+1001316,"Heart's Desire, T",48.6
+1001321,"Division No. 1, Subd. F, SNO",49.4
+1001325,"Heart's Content, T",54.6
+1001328,"New Perlican, T",52.9
+1001332,"Winterton, T",54.4
+1001335,"Hant's Harbour, T",52.8
+1001339,"Division No. 1, Subd. G, SNO",50.3
+1001343,"Old Perlican, T",45.7
+1001347,"Bay de Verde, T",50
+1001352,"Small Point-Adam's Cove-Blackhead-Broad Cove, T",49.3
+1001357,"Division No. 1, Subd. H, SNO",47.8
+1001361,"Salmon Cove, T",46.3
+1001365,"Victoria, T",44.2
+1001370,"Carbonear, T",45.8
+1001374,"Division No. 1, Subd. I, SNO",43.3
+1001375,"Bryant's Cove, T",42.5
+1001379,"Harbour Grace, T",47
+1001385,"Upper Island Cove, T",45.5
+1001394,"Bishop's Cove, T",51.4
+1001396,"Spaniard's Bay, T",42.9
+1001409,"Bay Roberts, T",42.2
+1001415,"Division No. 1, Subd. L, SNO",44.3
+1001421,"Division No. 1, Subd. M, SNO",44.6
+1001426,"North River, T",45.7
+1001429,"Clarke's Beach, T",50.3
+1001434,"South River, T",46.8
+1001437,"Cupids, T",46
+1001441,"Division No. 1, Subd. N, SNO",44.7
+1001446,"Brigus, T",47.8
+1001452,"Division No. 1, Subd. O, SNO",49.4
+1001456,"Colliers, T",46.4
+1001461,"Conception Harbour, T",45
+1001464,"Avondale, T",44
+1001469,"Harbour Main-Chapel's Cove-Lakeview, T",45.6
+1001472,"Holyrood, T",44.1
+1001485,"Conception Bay South, T",39.8
+1001490,"Division No. 1, Subd. R, SNO",54.4
+1001494,"Wabana, T",46.4
+1001504,"Portugal Cove-St. Philip's, T",39.2
+1001505,"Pouch Cove, T",39.8
+1001507,"Flatrock, T",36.8
+1001509,"Torbay, T",37.6
+1001511,"Logy Bay-Middle Cove-Outer Cove, T",41.7
+1001512,"Bauline, T",40.7
+1001517,"Paradise, T",35.4
+1001519,"St. John's, CY",41.2
+1001542,"Mount Pearl, CY",42.7
+1001551,"Petty Harbour-Maddox Cove, T",41.4
+1001557,"Bay Bulls, T",39.1
+1001559,"Witless Bay, T",39
+1001565,"Division No. 1, Subd. D, SNO",47.7
+1002001,"Division No. 2, Subd. E, SNO",48.3
+1002002,"Lewin's Cove, T",44.1
+1002005,"Burin, T",44.4
+1002006,"Division No. 2, Subd. F, SNO",45.7
+1002008,"St. Lawrence, T",46.4
+1002011,"Lawn, T",44.5
+1002012,"Lamaline, T",47.7
+1002013,"Lord's Cove, T",49.5
+1002014,"Point May, T",49.8
+1002015,"Point au Gaul, T",48.7
+1002016,"Division No. 2, Subd. H, SNO",57.3
+1002017,"Frenchman's Cove, T",53
+1002018,"Fortune, T",47.6
+1002019,"Grand Bank, T",50.9
+1002021,"Garnish, T",48
+1002022,"Division No. 2, Subd. D, SNO",49.8
+1002023,"Winterland, T",43.1
+1002024,"Marystown, T",44
+1002025,"Fox Cove-Mortier, T",45.3
+1002026,"Division No. 2, Subd. I, SNO",51
+1002027,"Bay L'Argent, T",49.6
+1002030,"Grand le Pierre, T",47.6
+1002031,"Division No. 2, Subd. C, SNO",49.3
+1002033,"Rushoon, T",48.9
+1002034,"Parkers Cove, T",46.3
+1002036,"Terrenceville, T",44.8
+1002037,"Red Harbour, T",44.6
+1002039,"English Harbour East, T",48.8
+1002040,"Baine Harbour, T",46
+1002041,"St. Bernard's-Jacques Fontaine, T",49.1
+1002048,"Division No. 2, Subd. K, SNO",54.1
+1002055,"Little Bay East, T",49.9
+1003002,"Rencontre East, T",39.1
+1003003,"St. Jacques-Coomb's Cove, T",45.4
+1003004,"Belleoram, T",39.6
+1003005,"Pool's Cove, T",47.8
+1003008,"Harbour Breton, T",44.7
+1003010,"Seal Cove (Fortune Bay), T",55.8
+1003011,"Hermitage-Sandyville, T",51.5
+1003012,"Gaultois, T",47.9
+1003014,"Division No. 3, Subd. D, SNO",53.2
+1003018,"Milltown-Head of Bay d'Espoir, T",51.5
+1003019,"St. Alban's, T",47.6
+1003020,"Morrisville, T",54.1
+1003021,"Division No. 3, Subd. E, SNO",48.3
+1003024,"Division No. 3, Subd. F, SNO",47.3
+1003026,"Ramea, T",53.5
+1003028,"Burgeo, T",52.2
+1003031,"Division No. 3, Subd. H, SNO",46.5
+1003032,"Isle aux Morts, T",50
+1003033,"Burnt Islands, T",46.1
+1003034,"Channel-Port aux Basques, T",47.9
+1003038,"Division No. 3, Subd. I, SNO",51.1
+1003042,"Division No. 3, Subd. J, SNO",61.6
+1003045,"Rose Blanche-Harbour le Cou, T",54.1
+1003801,"Samiajij Miawpukek, IRI",35.9
+1004001,"Division No. 4, Subd. A, SNO",51.1
+1004006,"Division No. 4, Subd. B, SNO",51.8
+1004011,"Division No. 4, Subd. C, SNO",46.1
+1004013,"St. George's, T",45.7
+1004016,"Division No. 4, Subd. D, SNO",49.2
+1004017,"Gallants, T",60.2
+1004018,"Stephenville Crossing, T",48.5
+1004019,"Stephenville, T",45.1
+1004020,"Kippens, T",46
+1004021,"Port au Port East, T",48.2
+1004022,"Division No. 4, Subd. E, SNO",44.6
+1004033,"Cape St. George, T",44.7
+1004037,"Lourdes, T",46.7
+1004042,"Port au Port West-Aguathuna-Felix Cove, T",50.5
+1005001,"Division No. 5, Subd. A, SNO",50.7
+1005003,"Division No. 5, Subd. G, SNO",52.8
+1005004,"Deer Lake, T",44.8
+1005005,"Jackson's Arm, T",50.4
+1005006,"Howley, T",55.4
+1005007,"Division No. 5, Subd. E, SNO",59.2
+1005008,"Hampden, T",48.1
+1005009,"Reidville, T",44.2
+1005010,"Division No. 5, Subd. F, SNO",43
+1005011,"Steady Brook, T",44.4
+1005012,"Pasadena, T",44.3
+1005014,"Cormack, T",45.7
+1005015,"Gillams, T",43
+1005016,"Division No. 5, Subd. C, SNO",44
+1005017,"Massey Drive, T",35.3
+1005018,"Corner Brook, CY",45.3
+1005020,"Humber Arm South, T",44.7
+1005022,"McIvers, T",45.5
+1005023,"Cox's Cove, T",45.6
+1005024,"Lark Harbour, T",47.4
+1005025,"Meadows, T",48
+1005028,"Hughes Brook, T",38.1
+1005030,"Irishtown-Summerside, T",45.8
+1005033,"Mount Moriah, T",43.3
+1005035,"York Harbour, T",45.5
+1006001,"Division No. 6, Subd. D, SNO",51.5
+1006003,"Norris Arm, T",48.9
+1006008,"Division No. 6, Subd. E, SNO",49.4
+1006009,"Gander, T",41.9
+1006011,"Appleton, T",43.9
+1006012,"Glenwood, T",44.1
+1006014,"Division No. 6, Subd. C, SNO",51
+1006015,"Northern Arm, T",49.9
+1006017,"Grand Falls-Windsor, T",44.5
+1006019,"Bishop's Falls, T",46.7
+1006021,"Peterview, T",43.9
+1006022,"Botwood, T",47.9
+1006026,"Badger, T",47.7
+1006028,"Millertown, T",52.5
+1006029,"Division No. 6, Subd. A, SNO",52.8
+1006031,"Buchans, T",53.4
+1007001,"Division No. 7, Subd. M, SNO",50
+1007006,"Division No. 7, Subd. L, SNO",47.5
+1007009,"Division No. 7, Subd. K, SNO",45.3
+1007013,"Clarenville, T",41
+1007014,"Division No. 7, Subd. J, SNO",50.9
+1007015,"Trinity (Trinity Bay), T",51.4
+1007016,"Port Rexton, T",46.7
+1007018,"Division No. 7, Subd. I, SNO",55.5
+1007020,"Elliston, T",48.6
+1007022,"Trinity Bay North, T",49.8
+1007023,"Bonavista, T",47.9
+1007024,"Division No. 7, Subd. G, SNO",49.7
+1007025,"Keels, T",52.9
+1007027,"King's Cove, T",56.2
+1007028,"Division No. 7, Subd. F, SNO",53.2
+1007031,"Division No. 7, Subd. E, SNO",47.4
+1007032,"Musgravetown, T",47.5
+1007036,"Port Blandford, T",49.8
+1007037,"Traytown, T",47.7
+1007038,"Division No. 7, Subd. D, SNO",53.1
+1007039,"Sandy Cove, T",57
+1007040,"Terra Nova, T",58.8
+1007041,"Happy Adventure, T",52.2
+1007042,"Eastport, T",51.3
+1007043,"Sandringham, T",49.7
+1007044,"Glovertown, T",47.6
+1007045,"Division No. 7, Subd. N, SNO",59.3
+1007046,"Salvage, T",53.9
+1007047,"Gambo, T",46.4
+1007048,"St. Brendan's, T",51.6
+1007049,"Hare Bay, T",46.6
+1007050,"Centreville-Wareham-Trinity, T",50.2
+1007054,"Greenspond, T",46.7
+1007056,"Division No. 7, Subd. A, SNO",46.5
+1007057,"Dover, T",44.5
+1007060,"New-Wes-Valley, T",50
+1007067,"Indian Bay, T",46.3
+1008001,"Division No. 8, Subd. M, SNO",49.7
+1008004,"Lumsden, T",48.2
+1008006,"Musgrave Harbour, T",47
+1008008,"Division No. 8, Subd. L, SNO",46.7
+1008011,"Carmanville, T",45.8
+1008024,"Change Islands, T",56.9
+1008026,"Division No. 8, Subd. I, SNO",50
+1008029,"Crow Head, T",51.8
+1008031,"Division No. 8, Subd. H, SNO",48.8
+1008032,"Cottlesville, T",47.3
+1008033,"Summerford, T",47.3
+1008035,"Twillingate, T",51.2
+1008036,"Division No. 8, Subd. G, SNO",53.1
+1008037,"Campbellton, T",50.3
+1008038,"Birchy Bay, T",48.3
+1008039,"Comfort Cove-Newstead, T",50.5
+1008040,"Baytona, T",48.9
+1008042,"Division No. 8, Subd. F, SNO",47.9
+1008043,"Embree, T",46.5
+1008044,"Lewisporte, T",49.4
+1008045,"Little Burnt Bay, T",47.7
+1008046,"Division No. 8, Subd. E, SNO",51.2
+1008047,"Point of Bay, T",52.7
+1008048,"Leading Tickles, T",51.4
+1008049,"Point Leamington, T",52
+1008053,"Pilley's Island, T",49.5
+1008054,"Triton, T",43.8
+1008055,"Brighton, T",44.1
+1008056,"Lushes Bight-Beaumont-Beaumont North, T",59.4
+1008058,"Division No. 8, Subd. C, SNO",55.2
+1008059,"South Brook, T",49.5
+1008060,"Robert's Arm, T",46.8
+1008061,"Springdale, T",48.1
+1008062,"Port Anson, T",52.8
+1008063,"Little Bay, T",54.5
+1008064,"Little Bay Islands, T",62
+1008065,"Division No. 8, Subd. P, SNO",54.3
+1008066,"Beachside, T",54.9
+1008067,"Division No. 8, Subd. O, SNO",45.8
+1008069,"King's Point, T",45.3
+1008070,"Nippers Harbour, T",46.5
+1008071,"Burlington, T",43.2
+1008072,"Middle Arm, T",42.8
+1008074,"Division No. 8, Subd. A, SNO",48.4
+1008075,"Fleur de Lys, T",51.5
+1008076,"LaScie, T",45.3
+1008077,"Brent's Cove, T",47.8
+1008078,"Pacquet, T",55.8
+1008079,"Baie Verte, T",45.2
+1008091,"Seal Cove (White Bay), T",52
+1008092,"Coachman's Cove, T",52.3
+1008093,"Westport, T",48
+1008095,"Ming's Bight, T",44.5
+1008096,"Woodstock, T",52.9
+1008098,"Miles Cove, T",57.4
+1008099,"Fogo Island, T",48.3
+1009001,"Division No. 9, Subd. F, SNO",55.7
+1009004,"Englee, T",49.7
+1009007,"Roddickton-Bide Arm, T",45.9
+1009008,"Conche, T",54
+1009009,"Division No. 9, Subd. A, SNO",62.3
+1009010,"Trout River, T",44.2
+1009011,"Woody Point, Bonne Bay, T",55.7
+1009012,"Norris Point, T",50.1
+1009013,"Rocky Harbour, T",47.2
+1009015,"Daniel's Harbour, T",50.9
+1009016,"Cow Head, T",49.9
+1009017,"Parson's Pond, T",50.1
+1009018,"Hawke's Bay, T",48.5
+1009019,"Port Saunders, T",47.9
+1009020,"St. Pauls, T",48.5
+1009021,"Division No. 9, Subd. C, SNO",48
+1009022,"Port au Choix, T",47.6
+1009023,"Anchor Point, T",42.8
+1009024,"Flower's Cove, T",55.6
+1009026,"Bird Cove, T",49.5
+1009028,"Main Brook, T",52.8
+1009029,"St. Anthony, T",46.2
+1009030,"Glenburnie-Birchy Head-Shoal Brook, T",51.7
+1009031,"Division No. 9, Subd. D, SNO",51.7
+1009032,"St. Lunaire-Griquet, T",47.1
+1009034,"Cook's Harbour, T",55.2
+1009035,"Raleigh, T",54.4
+1009039,"Goose Cove East, T",47.8
+1009041,"Division No. 9, Subd. H, SNO",49.4
+1009042,"Bellburns, T",59.5
+1009047,"Division No. 9, Subd. G, SNO",45.8
+1009048,"River of Ponds, T",50.4
+1010001,"Division No. 10, Subd. A, SNO",50.3
+1010002,"L'Anse au Loup, T",44.8
+1010003,"Red Bay, T",52.5
+1010004,"L'Anse-au-Clair, T",47
+1010005,"Forteau, T",50
+1010006,"West St. Modeste, T",49
+1010007,"Pinware, T",44.9
+1010008,"Division No. 10, Subd. B, SNO",42.5
+1010009,"Port Hope Simpson, T",41.8
+1010010,"St. Lewis, T",44.9
+1010011,"Mary's Harbour, T",45.6
+1010012,"Cartwright, Labrador, T",43.4
+1010013,"Charlottetown (Labrador), T",40.5
+1010020,"Division No. 10, Subd. C, SNO",28.5
+1010022,"North West River, T",44.4
+1010025,"Happy Valley-Goose Bay, T",38.2
+1010029,"Division No. 10, Subd. D, SNO",32.4
+1010032,"Labrador City, T",36.7
+1010034,"Wabush, T",35.5
+1010801,"Natuashish 2, IRI",24.2
+1010802,"Sheshatshiu 3, IRI",25.6
+1011010,"Rigolet, T",37
+1011015,"Postville, T",39.5
+1011020,"Makkovik, T",36.7
+1011030,"Hopedale, T",34
+1011035,"Nain, T",33.3
+1101001,"Lot 64, LOT",44.7
+1101002,"Murray Harbour, COM",51.8
+1101004,"Murray River, COM",46.3
+1101006,"Lot 63, LOT",43.8
+1101008,"Lot 61, LOT",45.4
+1101009,"Lot 59, LOT",44.6
+1101011,"Lot 66, LOT",34.5
+1101014,"Lot 51, LOT",41.5
+1101016,"Lot 52, LOT",43
+1101018,"Montague, T",47.9
+1101019,"Lot 53, LOT",41.9
+1101021,"Cardigan, COM",42.2
+1101022,"Kings, Royalty, LOT",44.2
+1101024,"Georgetown, T",42.6
+1101026,"Lot 54, LOT",45.2
+1101028,"Lot 55, LOT",45.4
+1101029,"Lot 56, LOT",42.6
+1101031,"Lot 43, LOT",44.5
+1101032,"Lot 44, LOT",42.4
+1101034,"Lot 45, LOT",39.4
+1101036,"Souris, T",47.8
+1101038,"Lot 46, LOT",43.2
+1101039,"Lot 47, LOT",46.9
+1101041,"Lot 42, LOT",45.8
+1101042,"Lot 41, LOT",45.4
+1101044,"St. Peters Bay, COM",45.1
+1101046,"Lot 40, LOT",44.1
+1101048,"Morell, COM",42.8
+1101049,"Lot 39, LOT",44.8
+1101051,"Lot 38, LOT",41.3
+1102001,"Lot 62, LOT",41.6
+1102004,"Lot 60, LOT",46.1
+1102006,"Lot 58, LOT",43.8
+1102008,"Lot 57, LOT",45.5
+1102009,"Lot 50, LOT",39.4
+1102012,"Lot 49, LOT",41
+1102014,"Lot 48, LOT",38.3
+1102026,"Lot 31, LOT",38.6
+1102028,"Lot 65, LOT",40.6
+1102029,"Lot 30, LOT",41
+1102030,"Rocky Point 3, IRI",30.8
+1102031,"Lot 29, LOT",44.5
+1102032,"Victoria, COM",50.9
+1102033,"Meadowbank, COM",46
+1102034,"Crapaud, COM",51.5
+1102036,"Lot 67, LOT",39.9
+1102037,"Clyde River, COM",40.7
+1102038,"Lot 20, LOT",47.5
+1102039,"Lot 21, LOT",48.5
+1102040,"Miltonvale Park, COM",42.4
+1102041,"Lot 22, LOT",42.6
+1102042,"Lot 23, LOT",41.1
+1102043,"Hunter River, COM",44.7
+1102044,"Lot 24, LOT",42.6
+1102045,"Resort Mun. Stan.B.-Hope R.-Bayv.-Cavend.-N.Rust., COM",49.5
+1102046,"North Rustico, COM",51.4
+1102048,"Brackley, COM",42.7
+1102049,"Lot 33, LOT",41
+1102050,"Union Road, COM",40.6
+1102051,"Breadalbane, COM",39.4
+1102052,"Lot 34, LOT",40.2
+1102054,"Lot 35, LOT",40.5
+1102056,"Lot 36, LOT",39.2
+1102057,"Scotchfort 4, IRI",28.4
+1102058,"Lot 37, LOT",38.8
+1102059,"Mount Stewart, COM",43.6
+1102065,"Winsloe South, COM",39.6
+1102070,"Warren Grove, COM",39.6
+1102075,"Charlottetown, CY",42.7
+1102080,"Stratford, T",39.8
+1102085,"Cornwall, T",38.9
+1103001,"Lot 28, LOT",42.2
+1103005,"Borden-Carleton, T",42.9
+1103006,"Lot 27, LOT",44.4
+1103008,"Kinkora, COM",40
+1103009,"Lot 26, LOT",43.2
+1103011,"Lot 25, LOT",42.8
+1103012,"Lot 19, LOT",43.4
+1103014,"Kensington, T",46.2
+1103015,"Bedeque and Area, COM",41
+1103016,"Lot 18, LOT",45.7
+1103018,"Sherbrooke, COM",46.9
+1103019,"Lot 17, LOT",38.4
+1103023,"Linkletter, COM",43.4
+1103024,"Miscouche, COM",40.8
+1103025,"Summerside, CY",44.4
+1103026,"Lot 15, LOT",45.5
+1103027,"Abrams Village, COM",42
+1103028,"Lot 16, LOT",40.8
+1103029,"Wellington, COM",51.1
+1103031,"Lot 14, LOT",40.2
+1103032,"Lot 13, LOT",41
+1103033,"Tyne Valley, COM",45
+1103034,"Lot 12, LOT",40
+1103035,"Lennox Island 1, IRI",31.6
+1103036,"Lot 11, LOT",41.9
+1103038,"Lot 10, LOT",42.6
+1103041,"Lot 6, LOT",42.2
+1103042,"O'Leary, COM",49.1
+1103044,"Lot 9, LOT",43.3
+1103046,"Lot 8, LOT",42.8
+1103048,"Lot 7, LOT",45.4
+1103049,"Lot 5, LOT",42.7
+1103051,"Lot 4, LOT",42.5
+1103052,"Alberton, T",49.1
+1103054,"Lot 3, LOT",40.8
+1103056,"Lot 2, LOT",41.6
+1103057,"St. Louis, COM",48.2
+1103058,"Lot 1, LOT",42.4
+1103059,"Tignish, COM",49.3
+1103062,"Miminegash, COM",49.8
+1201001,"Barrington, MD",45.1
+1201004,"Clark's Harbour, T",45
+1201006,"Shelburne, MD",48.3
+1201008,"Shelburne, T",46
+1201009,"Lockeport, T",53.5
+1202001,"Argyle, MD",46
+1202004,"Yarmouth, MD",45.2
+1202006,"Yarmouth, T",46
+1202040,"Yarmouth 33, IRI",36.2
+1203001,"Clare, MD",49.3
+1203004,"Digby, MD",46.7
+1203006,"Digby, T",50.2
+1203009,"Bear River (Part) 6, IRI",30.9
+1204010,"Queens, RGM",49
+1205001,"Annapolis, Subd. D, SC",45.7
+1205004,"Annapolis, Subd. A, SC",50
+1205008,"Annapolis Royal, T",57
+1205009,"Annapolis, Subd. B, SC",48.8
+1205014,"Annapolis, Subd. C, SC",45.2
+1205016,"Middleton, T",48.6
+1206001,"Lunenburg, MD",47.2
+1206004,"Bridgewater, T",46.8
+1206006,"Lunenburg, T",51.9
+1206008,"Mahone Bay, T",53.4
+1206009,"Chester, MD",48.5
+1206011,"Gold River 21, IRI",31.9
+1207001,"Kings, Subd. A, SC",42.4
+1207002,"Cambridge 32, IRI",32.6
+1207004,"Berwick, T",50.6
+1207011,"Kings, Subd. C, SC",44.5
+1207012,"Kentville, T",44.2
+1207016,"Kings, Subd. B, SC",42.9
+1207021,"Kings, Subd. D, SC",46.8
+1207024,"Wolfville, T",46
+1207027,"Glooscap 35, IRI",32.2
+1208001,"West Hants, MD",43.5
+1208002,"Windsor, T",47.6
+1208008,"East Hants, MD",41.1
+1208014,"Indian Brook 14, IRI",31.3
+1209019,"Cole Harbour 30, IRI",53.1
+1209034,"Halifax, RGM",40.8
+1210001,"Colchester, Subd. C, SC",43.1
+1210002,"Stewiacke, T",44.6
+1210003,"Millbrook 27, IRI",34.7
+1210006,"Truro, T",45.6
+1210008,"Colchester, Subd. B, SC",43.9
+1210012,"Colchester, Subd. A, SC",45.6
+1211001,"Cumberland, Subd. A, SC",50.8
+1211002,"Parrsboro, T",49.3
+1211006,"Cumberland, Subd. B, SC",46.2
+1211009,"Cumberland, Subd. C, SC",47.4
+1211011,"Amherst, T",45.3
+1211012,"Oxford, T",44
+1211014,"Cumberland, Subd. D, SC",50.4
+1212001,"Pictou, Subd. A, SC",47.6
+1212004,"Pictou, T",47.7
+1212006,"Pictou, Subd. B, SC",45.9
+1212008,"Westville, T",42.4
+1212009,"Stellarton, T",42
+1212011,"Pictou, Subd. C, SC",45.5
+1212014,"New Glasgow, T",45.4
+1212016,"Trenton, T",43.5
+1212019,"Fisher's Grant 24, IRI",30.5
+1213001,"St. Mary's, MD",50.3
+1213004,"Guysborough, MD",51.4
+1213008,"Mulgrave, T",46.6
+1214001,"Antigonish, Subd. A, SC",42.6
+1214002,"Antigonish, T",45.7
+1214006,"Antigonish, Subd. B, SC",42.7
+1214010,"Pomquet And Afton 23, IRI",27.8
+1215001,"Inverness, Subd. C, SC",46.7
+1215002,"Port Hawkesbury, T",44.6
+1215006,"Inverness, Subd. B, SC",46.7
+1215008,"Whycocomagh 2, IRI",27
+1215011,"Inverness, Subd. A, SC",49.6
+1216001,"Richmond, Subd. C, SC",48.1
+1216006,"Richmond, Subd. A, SC",49.1
+1216011,"Richmond, Subd. B, SC",52.4
+1216014,"Chapel Island 5, IRI",29.3
+1217008,"Membertou 28B, IRI",29.8
+1217020,"Eskasoni 3, IRI",27.9
+1217030,"Cape Breton, RGM",46.1
+1218001,"Victoria, Subd. B, SC",49.4
+1218003,"Wagmatcook 1, IRI",29.5
+1218006,"Victoria, Subd. A, SC",46.2
+1301001,"Saint Martins, P",44.7
+1301002,"St. Martins, VL",49.9
+1301004,"Simonds, P",40.4
+1301006,"Saint John, C",42.9
+1301016,"Musquash, P",43.2
+1302001,"Grand Manan, P",48.7
+1302004,"Campobello Island, RCR",45.1
+1302006,"West Isles, P",45.6
+1302008,"Lepreau, P",48.6
+1302011,"Pennfield, P",43.4
+1302012,"Blacks Harbour, VL",43.5
+1302014,"Clarendon, P",52.8
+1302016,"Saint George, P",43.8
+1302018,"St. George, TV",43.3
+1302021,"Saint Patrick, P",47.9
+1302024,"Saint Andrews, P",47.4
+1302026,"Saint Andrews, TV",48.5
+1302028,"Saint Croix, P",44.2
+1302031,"Dufferin, P",45.7
+1302034,"Saint Stephen, P",44.3
+1302037,"St. Stephen, TV",43.9
+1302039,"Saint James, P",43.6
+1302042,"Saint David, P",45.9
+1302044,"Dumbarton, P",46.4
+1302052,"Grand Manan, VL",43.2
+1303001,"Blissville, P",44.4
+1303004,"Gladstone, P",42.1
+1303005,"Tracy, VL",43.7
+1303006,"Fredericton Junction, VL",45.1
+1303008,"Lincoln, P",38.5
+1303011,"Burton, P",39.7
+1303012,"Oromocto, TV",33.2
+1303013,"Oromocto 26, IRI",33.3
+1303014,"Sheffield, P",46.3
+1303016,"Maugerville, P",41.1
+1303018,"Northfield, P",46.1
+1304001,"Petersville, P",44.5
+1304004,"Gagetown, P",44
+1304005,"Gagetown, VL",51.2
+1304006,"Hampstead, P",46.7
+1304008,"Wickham, P",50.9
+1304011,"Cambridge, P",50.3
+1304013,"Cambridge-Narrows, VL",54.6
+1304014,"Johnston, P",49.9
+1304016,"Brunswick, P",49.7
+1304018,"Waterborough, P",51.4
+1304021,"Canning, P",50.1
+1304022,"Minto, VL",48.3
+1304024,"Chipman, P",50.2
+1304025,"Chipman, VL",51.1
+1305001,"Hammond, P",46.2
+1305004,"Upham, P",41.9
+1305006,"Hampton, P",41.5
+1305007,"Hampton, TV",42.3
+1305008,"Rothesay, P",39.1
+1305011,"Westfield, P",43.7
+1305014,"Kingston, P",44.2
+1305015,"Grand Bay-Westfield, TV",42.1
+1305016,"Norton, P",41.6
+1305018,"Norton, VL",40.5
+1305021,"Sussex, P",41.8
+1305022,"Sussex, TV",44.5
+1305023,"Sussex Corner, VL",45.9
+1305024,"Waterford, P",43.7
+1305026,"Cardwell, P",43.4
+1305028,"Havelock, P",42.5
+1305031,"Studholm, P",43
+1305034,"Springfield, P",43.4
+1305036,"Kars, P",48.5
+1305038,"Greenwich, P",45.9
+1305045,"Rothesay, TV",41.7
+1305057,"Quispamsis, TV",39.6
+1306001,"Hopewell, P",46.2
+1306003,"Riverside-Albert, VL",49.8
+1306004,"Harvey, P",51.8
+1306006,"Alma, VL",47.2
+1306008,"Elgin, P",48.2
+1306011,"Hillsborough, P",45.2
+1306014,"Coverdale, P",42.5
+1306020,"Riverview, TV",42.5
+1306025,"Hillsborough, VL",44.4
+1307001,"Westmorland, P",47.2
+1307002,"Port Elgin, VL",45.9
+1307004,"Botsford, P",51
+1307005,"Beaubassin East / Beaubassin-est, RCR",45.3
+1307007,"Cap-Pelé, VL",46.4
+1307008,"Sackville, P",44
+1307009,"Sackville, TV",45.5
+1307011,"Dorchester, P",45.4
+1307012,"Dorchester, VL",45.8
+1307013,"Memramcook, VL",43.9
+1307014,"Fort Folly 1, IRI",45.2
+1307016,"Shediac, P",46.2
+1307019,"Moncton, P",42
+1307022,"Moncton, C",41.7
+1307024,"Salisbury, P",42.8
+1307028,"Salisbury, VL",42
+1307029,"Petitcodiac, VL",42.8
+1307045,"Dieppe, C",39.2
+1307052,"Shediac, TV",48.5
+1308001,"Dundas, P",46.8
+1308002,"Cocagne, RCR",47.7
+1308003,"Buctouche 16, IRI",31.5
+1308004,"Wellington, P",47.9
+1308005,"Bouctouche, TV",48.1
+1308006,"Saint Mary, P",46.3
+1308007,"Saint-Antoine, VL",45.7
+1308008,"Saint-Paul, P",44.4
+1308010,"Harcourt, P",52.5
+1308014,"Weldford, P",46.5
+1308015,"Richibucto 15, IRI",31.6
+1308016,"Richibucto, P",47.9
+1308017,"Rexton, VL",48.4
+1308018,"Richibucto, TV",50.2
+1308019,"Saint-Charles, P",47.3
+1308020,"Indian Island 28, IRI",30.5
+1308021,"Saint-Louis, P",50.4
+1308022,"Saint-Louis de Kent, VL",50
+1308024,"Acadieville, P",48.2
+1308026,"Carleton, P",49.9
+1309001,"Hardwicke, P",48.2
+1309004,"Glenelg, P",44.4
+1309006,"Chatham, P",44.3
+1309011,"Derby, P",48.4
+1309014,"Nelson, P",44
+1309016,"Rogersville, P",47.5
+1309017,"Rogersville, VL",53.2
+1309018,"Blackville, P",45.9
+1309019,"Blackville, VL",41.9
+1309021,"Blissfield, P",49.4
+1309022,"Doaktown, VL",48.4
+1309023,"Red Bank 4, IRI",36.4
+1309026,"Southesk, P",45.9
+1309027,"Upper Miramichi, RCR",48.2
+1309028,"Northesk, P",46.3
+1309031,"Newcastle, P",44
+1309034,"Big Hole Tract 8 (South Half), IRI",35.6
+1309035,"Eel Ground 2, IRI",33.2
+1309036,"Alnwick, P",47.4
+1309038,"Neguac, VL",47.2
+1309044,"Esgenoôpetitj 14, IRI",31.5
+1309050,"Miramichi, C",45.6
+1310001,"New Maryland, P",39.2
+1310002,"New Maryland, VL",40.4
+1310004,"Manners Sutton, P",46.2
+1310005,"Harvey, VL",44.4
+1310006,"McAdam, VL",47.4
+1310007,"McAdam, P",44
+1310008,"North Lake, P",55.9
+1310011,"Canterbury, P",46.6
+1310012,"Canterbury, VL",39.8
+1310013,"Meductic, VL",42.2
+1310014,"Dumfries, P",49.1
+1310016,"Prince William, P",46.8
+1310017,"Hanwell, RCR",39.3
+1310018,"Kingsclear, P",41.4
+1310019,"Kingsclear 6, IRI",32.3
+1310021,"Queensbury, P",45.7
+1310024,"Southampton, P",43.7
+1310025,"Millville, VL",44.2
+1310026,"Bright, P",41.8
+1310028,"Douglas, P",40.7
+1310031,"Saint Marys, P",38.9
+1310032,"Fredericton, C",41.1
+1310034,"Devon 30, IRI",30.3
+1310036,"Stanley, P",44.9
+1310037,"Stanley, VL",47
+1310054,"Nackawic, TV",45.6
+1311001,"Richmond, P",41.9
+1311004,"Woodstock, P",41.1
+1311005,"Woodstock 23, IRI",37
+1311006,"Woodstock, TV",44
+1311008,"Northampton, P",41.4
+1311011,"Brighton, P",42.9
+1311012,"Hartland, TV",45.3
+1311014,"Wakefield, P",42.2
+1311018,"Wilmot, P",43.9
+1311019,"Centreville, VL",43
+1311021,"Simonds, P",45.3
+1311024,"Peel, P",40.8
+1311026,"Aberdeen, P",46.5
+1311027,"Florenceville-Bristol, TV",42.1
+1311028,"Kent, P",43.3
+1311030,"Bath, VL",47.3
+1311031,"Wicklow, P",41.3
+1312001,"Andover, P",44.5
+1312002,"Aroostook, VL",46.5
+1312004,"Perth, P",47.5
+1312006,"Perth-Andover, VL",47.7
+1312007,"Tobique 20, IRI",33.2
+1312008,"Gordon, P",46.7
+1312009,"Plaster Rock, VL",48.4
+1312011,"Lorne, P",52.3
+1312014,"Denmark, P",44
+1312016,"Grand Falls, P",42
+1312019,"Grand Falls / Grand-Sault, TV",46.5
+1312021,"Drummond, P",40.9
+1312023,"Drummond, VL",44.8
+1313001,"Saint-André, P",43
+1313002,"Saint-André, RCR",42.2
+1313004,"Saint-Léonard, P",43.4
+1313006,"Saint-Léonard, TV",44.5
+1313008,"Notre-Dame-de-Lourdes, P",48.1
+1313011,"Sainte-Anne, P",45.6
+1313012,"Sainte-Anne-de-Madawaska, VL",45.6
+1313014,"Rivière-Verte, VL",46.1
+1313015,"Rivière-Verte, P",43.2
+1313018,"Saint-Basile, P",43.1
+1313020,"St. Basile 10, IRI",42.6
+1313022,"Saint-Joseph, P",44.3
+1313024,"Saint-Jacques, P",45.9
+1313027,"Edmundston, C",47.3
+1313032,"Saint-Hilaire, P",42.5
+1313033,"St. Hilaire, VL",38.2
+1313034,"Baker Brook, P",44.7
+1313035,"Baker-Brook, VL",46.7
+1313037,"Lac Baker, VL",52
+1313038,"Clair, P",47.2
+1313039,"Clair, VL",44.9
+1313041,"Saint-François, P",44.5
+1313042,"Saint-François de Madawaska, VL",47.6
+1314001,"Durham, P",51.4
+1314003,"Colborne, P",53
+1314004,"Charlo, VL",48.7
+1314005,"Balmoral, P",42.5
+1314006,"Balmoral, VL",45.2
+1314008,"Dalhousie, P",47.8
+1314010,"Eel River 3, IRI",34.8
+1314011,"Eel River Crossing, VL",45
+1314012,"Addington, P",48.6
+1314013,"Atholville, VL",46.2
+1314014,"Campbellton, C",47.7
+1314015,"Tide Head, VL",45.7
+1314016,"Eldon, P",49.3
+1314017,"Dalhousie, TV",54.1
+1314020,"Kedgwick, RCR",44.3
+1314021,"Saint-Quentin, P",42.6
+1314022,"Saint-Quentin, TV",45.4
+1314025,"Belledune, VL",51.4
+1314026,"Indian Ranch, IRI",33
+1315002,"Tracadie, RGM",46.1
+1315006,"Allardville, P",46.7
+1315008,"Bathurst, P",46
+1315010,"Pabineau 11, IRI",34.6
+1315011,"Bathurst, C",48.9
+1315012,"Beresford, P",45.2
+1315013,"Pointe-Verte, VL",50.2
+1315014,"Petit-Rocher, VL",49.3
+1315015,"Beresford, TV",46.2
+1315016,"New Bandon, P",51.8
+1315017,"Saint-Léolin, VL",49.6
+1315019,"Paquetville, P",47.1
+1315020,"Paquetville, VL",46.7
+1315021,"Saint-Isidore, P",44.7
+1315022,"Saint-Isidore, VL",46.5
+1315024,"Inkerman, P",48.4
+1315026,"Caraquet, P",47.8
+1315027,"Bas-Caraquet, VL",49.6
+1315028,"Caraquet, TV",47.5
+1315029,"Shippagan, P",47.6
+1315030,"Le Goulet, VL",50.4
+1315031,"Shippagan, TV",46.6
+1315032,"Lamèque, TV",50.4
+1315033,"Sainte-Marie-Saint-Raphaël, VL",48.2
+1315036,"Bertrand, VL",49.9
+1315037,"Nigadoo, VL",45.9
+1315038,"Grande-Anse, VL",52.5
+1315040,"Maisonnette, VL",54.6
+2401023,"Les Îles-de-la-Madeleine, MÉ",48
+2401042,"Grosse-Île, MÉ",45.2
+2402005,"Percé, V",50.1
+2402010,"Sainte-Thérèse-de-Gaspé, MÉ",48.8
+2402015,"Grande-Rivière, V",47.9
+2402028,"Chandler, V",49.4
+2402047,"Port-Daniel--Gascons, MÉ",50.4
+2403005,"Gaspé, V",45.6
+2403010,"Cloridorme, CT",53.9
+2403015,"Petite-Vallée, MÉ",53.8
+2403020,"Grande-Vallée, MÉ",50.6
+2403025,"Murdochville, V",46.8
+2404005,"Sainte-Madeleine-de-la-Rivière-Madeleine, MÉ",58
+2404010,"Saint-Maxime-du-Mont-Louis, MÉ",48.2
+2404015,"Mont-Saint-Pierre, VL",57.5
+2404020,"Rivière-à-Claude, MÉ",59.5
+2404025,"Marsoui, VL",50.3
+2404030,"La Martre, MÉ",47.1
+2404037,"Sainte-Anne-des-Monts, V",47.1
+2404047,"Cap-Chat, V",51.2
+2404902,"Mont-Albert, NO",46.6
+2405010,"Shigawake, MÉ",49.2
+2405015,"Saint-Godefroi, CT",51.5
+2405020,"Hope Town, MÉ",46
+2405025,"Hope, CT",53.9
+2405032,"Paspébiac, V",49.8
+2405040,"New Carlisle, MÉ",49.9
+2405045,"Bonaventure, V",47
+2405050,"Saint-Elzéar, MÉ",47.6
+2405055,"Saint-Siméon, PE",46.3
+2405060,"Caplan, MÉ",48
+2405065,"Saint-Alphonse, MÉ",44.8
+2405070,"New Richmond, V",46.5
+2405077,"Cascapédia--Saint-Jules, MÉ",43.8
+2406005,"Maria, MÉ",46.9
+2406013,"Carleton-sur-Mer, V",46.3
+2406020,"Nouvelle, MÉ",47.2
+2406025,"Escuminac, MÉ",44.1
+2406030,"Pointe-à-la-Croix, MÉ",45.1
+2406035,"Ristigouche-Partie-Sud-Est, CT",49.1
+2406040,"Saint-André-de-Restigouche, MÉ",49.3
+2406045,"Matapédia, MÉ",50
+2406050,"Saint-Alexis-de-Matapédia, MÉ",52.1
+2406055,"Saint-François-d'Assise, MÉ",50.8
+2406060,"L'Ascension-de-Patapédia, MÉ",53.8
+2406802,"Gesgapegiag, IRI",31.5
+2406804,"Listuguj, IRI",36.3
+2407005,"Sainte-Marguerite-Marie, MÉ",49.2
+2407010,"Sainte-Florence, MÉ",49
+2407018,"Causapscal, V",47.9
+2407025,"Albertville, MÉ",47.6
+2407030,"Saint-Léon-le-Grand, PE",45.6
+2407035,"Saint-Zénon-du-Lac-Humqui, PE",46.3
+2407040,"Sainte-Irène, PE",43.4
+2407047,"Amqui, V",45
+2407057,"Lac-au-Saumon, MÉ",47.3
+2407065,"Saint-Alexandre-des-Lacs, PE",46.7
+2407070,"Saint-Tharcisius, PE",43.8
+2407075,"Saint-Vianney, MÉ",45.6
+2407080,"Val-Brillant, MÉ",45.4
+2407085,"Sayabec, MÉ",45.3
+2407090,"Saint-Cléophas, PE",44.8
+2407095,"Saint-Moïse, PE",46.6
+2407100,"Saint-Noël, VL",45
+2407105,"Saint-Damase, PE",44.4
+2407908,"Lac-Casault, NO",41.5
+2407914,"Lac-Matapédia, NO",47.4
+2408005,"Les Méchins, MÉ",50.4
+2408010,"Saint-Jean-de-Cherbourg, PE",49.8
+2408015,"Grosses-Roches, MÉ",53.1
+2408023,"Sainte-Félicité, MÉ",49.4
+2408030,"Saint-Adelme, PE",45.3
+2408035,"Saint-René-de-Matane, MÉ",46.3
+2408040,"Sainte-Paule, MÉ",52
+2408053,"Matane, V",47.6
+2408065,"Saint-Léandre, PE",44.3
+2408073,"Saint-Ulric, MÉ",46.6
+2408080,"Baie-des-Sables, MÉ",46.6
+2408902,"Rivière-Bonjour, NO",51
+2409005,"La Rédemption, PE",44.8
+2409010,"Saint-Charles-Garnier, PE",48.8
+2409015,"Les Hauteurs, MÉ",42.8
+2409020,"Sainte-Jeanne-d'Arc, PE",44.7
+2409025,"Saint-Gabriel-de-Rimouski, MÉ",41.4
+2409030,"Saint-Donat, PE",42.4
+2409035,"Sainte-Angèle-de-Mérici, MÉ",42.2
+2409040,"Padoue, MÉ",47.4
+2409048,"Métis-sur-Mer, V",48.8
+2409055,"Saint-Octave-de-Métis, PE",43.4
+2409060,"Grand-Métis, MÉ",53.6
+2409065,"Price, VL",42.7
+2409070,"Saint-Joseph-de-Lepage, PE",47
+2409077,"Mont-Joli, V",46.8
+2409085,"Sainte-Flavie, PE",47.2
+2409092,"Sainte-Luce, MÉ",44.7
+2410005,"Esprit-Saint, MÉ",49.5
+2410010,"La Trinité-des-Monts, PE",51.2
+2410015,"Saint-Narcisse-de-Rimouski, PE",42.9
+2410025,"Saint-Marcellin, PE",47.6
+2410030,"Saint-Anaclet-de-Lessard, PE",40.3
+2410043,"Rimouski, V",44.9
+2410060,"Saint-Valérien, PE",41.1
+2410070,"Saint-Fabien, PE",45.6
+2410075,"Saint-Eugène-de-Ladrière, PE",44.6
+2411005,"Saint-Clément, PE",43.2
+2411010,"Saint-Jean-de-Dieu, MÉ",46.6
+2411015,"Sainte-Rita, MÉ",46.4
+2411020,"Saint-Guy, MÉ",62.2
+2411025,"Saint-Médard, MÉ",51.8
+2411030,"Sainte-Françoise, PE",48.5
+2411035,"Saint-Éloi, PE",49.1
+2411040,"Trois-Pistoles, V",53
+2411045,"Notre-Dame-des-Neiges, MÉ",50.3
+2411050,"Saint-Mathieu-de-Rioux, PE",50.4
+2411055,"Saint-Simon, PE",51
+2412005,"Saint-Cyprien, MÉ",44.6
+2412010,"Saint-Hubert-de-Rivière-du-Loup, MÉ",46.5
+2412015,"Saint-Antonin, MÉ",39.4
+2412020,"Saint-Modeste, MÉ",37.1
+2412025,"Saint-François-Xavier-de-Viger, MÉ",43.5
+2412030,"Saint-Épiphane, MÉ",41.7
+2412035,"Saint-Paul-de-la-Croix, PE",47.8
+2412043,"L'Isle-Verte, MÉ",46.8
+2412057,"Cacouna, MÉ",43.4
+2412065,"Saint-Arsène, PE",39.3
+2412072,"Rivière-du-Loup, V",45.7
+2412080,"Notre-Dame-du-Portage, MÉ",47.5
+2413005,"Dégelis, V",47.9
+2413010,"Saint-Jean-de-la-Lande, MÉ",48.7
+2413015,"Packington, PE",44.8
+2413020,"Saint-Marc-du-Lac-Long, PE",48.9
+2413025,"Rivière-Bleue, MÉ",49.9
+2413030,"Saint-Eusèbe, PE",43.4
+2413040,"Saint-Juste-du-Lac, MÉ",46.8
+2413045,"Auclair, MÉ",44.7
+2413050,"Lejeune, MÉ",46.1
+2413055,"Biencourt, MÉ",51.6
+2413060,"Lac-des-Aigles, MÉ",45.6
+2413065,"Saint-Michel-du-Squatec, MÉ",52.8
+2413073,"Témiscouata-sur-le-Lac, V",46.8
+2413075,"Saint-Pierre-de-Lamy, MÉ",44.5
+2413080,"Saint-Louis-du-Ha! Ha!, PE",47.4
+2413085,"Saint-Elzéar-de-Témiscouata, MÉ",41.1
+2413090,"Saint-Honoré-de-Témiscouata, MÉ",44.9
+2413095,"Pohénégamook, V",47.4
+2413100,"Saint-Athanase, MÉ",43.6
+2414005,"Mont-Carmel, MÉ",49.8
+2414010,"Saint-Bruno-de-Kamouraska, MÉ",46.9
+2414018,"Saint-Pascal, V",47.7
+2414025,"Sainte-Hélène-de-Kamouraska, MÉ",42.9
+2414030,"Saint-Joseph-de-Kamouraska, PE",37.9
+2414035,"Saint-Alexandre-de-Kamouraska, MÉ",42.7
+2414040,"Saint-André, MÉ",47.3
+2414045,"Saint-Germain, PE",45
+2414050,"Kamouraska, MÉ",48.5
+2414055,"Saint-Denis-De La Bouteillerie, MÉ",48.2
+2414060,"Saint-Philippe-de-Néri, PE",45.5
+2414065,"Rivière-Ouelle, MÉ",47.2
+2414070,"Saint-Pacôme, MÉ",47.7
+2414075,"Saint-Gabriel-Lalemant, MÉ",47.2
+2414080,"Saint-Onésime-d'Ixworth, MÉ",44.4
+2414085,"La Pocatière, V",47.3
+2414090,"Sainte-Anne-de-la-Pocatière, PE",43.1
+2415005,"Saint-Irénée, PE",50.9
+2415013,"La Malbaie, V",47
+2415025,"Notre-Dame-des-Monts, MÉ",42.2
+2415030,"Saint-Aimé-des-Lacs, MÉ",45.4
+2415035,"Clermont, V",45.8
+2415058,"Saint-Siméon, MÉ",50.3
+2415065,"Baie-Sainte-Catherine, MÉ",55.5
+2415902,"Mont-Élie, NO",56.1
+2415904,"Sagard, NO",49.1
+2416005,"Petite-Rivière-Saint-François, MÉ",47.6
+2416013,"Baie-Saint-Paul, V",48.2
+2416023,"L'Isle-aux-Coudres, MÉ",54.4
+2416048,"Les Éboulements, MÉ",47.7
+2416050,"Saint-Hilarion, PE",43
+2416055,"Saint-Urbain, PE",45.3
+2417005,"Saint-Omer, MÉ",50.4
+2417010,"Saint-Pamphile, V",48.1
+2417015,"Saint-Adalbert, MÉ",47.9
+2417020,"Saint-Marcel, MÉ",46.7
+2417025,"Sainte-Félicité, MÉ",49.7
+2417030,"Sainte-Perpétue, MÉ",47.6
+2417035,"Tourville, MÉ",46.4
+2417040,"Saint-Damase-de-L'Islet, MÉ",48.9
+2417045,"Saint-Cyrille-de-Lessard, PE",48.3
+2417055,"Saint-Aubert, MÉ",45.8
+2417060,"Sainte-Louise, PE",44.2
+2417065,"Saint-Roch-des-Aulnaies, PE",47
+2417070,"Saint-Jean-Port-Joli, MÉ",47.5
+2417078,"L'Islet, MÉ",45.9
+2418005,"Saint-Just-de-Bretenières, MÉ",49.1
+2418010,"Lac-Frontière, MÉ",51.2
+2418015,"Saint-Fabien-de-Panet, PE",50.3
+2418020,"Sainte-Lucie-de-Beauregard, MÉ",48.9
+2418025,"Sainte-Apolline-de-Patton, PE",48.6
+2418030,"Saint-Paul-de-Montminy, MÉ",49.9
+2418035,"Sainte-Euphémie-sur-Rivière-du-Sud, MÉ",49.4
+2418040,"Notre-Dame-du-Rosaire, MÉ",47.7
+2418045,"Cap-Saint-Ignace, MÉ",45.4
+2418050,"Montmagny, V",47.6
+2418055,"Saint-Pierre-de-la-Rivière-du-Sud, PE",42.5
+2418060,"Saint-François-de-la-Rivière-du-Sud, MÉ",42.1
+2418065,"Berthier-sur-Mer, MÉ",46.2
+2418070,"Saint-Antoine-de-l'Isle-aux-Grues, PE",54
+2419005,"Saint-Philémon, PE",50.6
+2419010,"Notre-Dame-Auxiliatrice-de-Buckland, PE",49.9
+2419015,"Saint-Nazaire-de-Dorchester, PE",44.4
+2419020,"Saint-Léon-de-Standon, PE",48.2
+2419025,"Saint-Malachie, PE",45.5
+2419030,"Saint-Damien-de-Buckland, PE",49.4
+2419037,"Armagh, MÉ",47.1
+2419045,"Saint-Nérée-de-Bellechasse, MÉ",46.9
+2419050,"Saint-Lazare-de-Bellechasse, MÉ",41.8
+2419055,"Sainte-Claire, MÉ",43.6
+2419062,"Saint-Anselme, MÉ",40.4
+2419068,"Saint-Henri, MÉ",38.1
+2419070,"Honfleur, MÉ",42.1
+2419075,"Saint-Gervais, MÉ",40.1
+2419082,"Saint-Raphaël, MÉ",44
+2419090,"La Durantaye, PE",42.6
+2419097,"Saint-Charles-de-Bellechasse, MÉ",40.2
+2419105,"Beaumont, MÉ",44
+2419110,"Saint-Michel-de-Bellechasse, MÉ",45.2
+2419117,"Saint-Vallier, MÉ",44.5
+2420005,"Saint-François-de-l'Île-d'Orléans, MÉ",49
+2420010,"Sainte-Famille, PE",48.8
+2420015,"Saint-Jean-de-l'Île-d'Orléans, MÉ",48.6
+2420020,"Saint-Laurent-de-l'Île-d'Orléans, MÉ",46
+2420025,"Saint-Pierre-de-l'Île-d'Orléans, MÉ",45.6
+2420030,"Sainte-Pétronille, VL",47.7
+2421005,"Saint-Tite-des-Caps, MÉ",45.7
+2421010,"Saint-Ferréol-les-Neiges, MÉ",44.3
+2421020,"Saint-Joachim, PE",45
+2421025,"Beaupré, V",48.3
+2421030,"Sainte-Anne-de-Beaupré, V",47.3
+2421035,"Château-Richer, V",42.9
+2421040,"L'Ange-Gardien, MÉ",41
+2421045,"Boischatel, MÉ",38.4
+2422005,"Sainte-Catherine-de-la-Jacques-Cartier, V",35.5
+2422010,"Fossambault-sur-le-Lac, V",40.8
+2422015,"Lac-Saint-Joseph, V",55.2
+2422020,"Shannon, MÉ",30.9
+2422025,"Saint-Gabriel-de-Valcartier, MÉ",33.5
+2422030,"Lac-Delage, V",36.3
+2422035,"Stoneham-et-Tewkesbury, CU",37.1
+2422040,"Lac-Beauport, MÉ",37.8
+2422045,"Sainte-Brigitte-de-Laval, V",33.5
+2423015,"Notre-Dame-des-Anges, PE",85.1
+2423027,"Québec, V",43.2
+2423057,"L'Ancienne-Lorette, V",43.6
+2423072,"Saint-Augustin-de-Desmaures, V",42.1
+2423802,"Wendake, IRI",41.2
+2425213,"Lévis, V",41.5
+2426005,"Frampton, MÉ",44.9
+2426010,"Saints-Anges, PE",39.4
+2426015,"Vallée-Jonction, MÉ",43.7
+2426022,"Saint-Elzéar, MÉ",36.2
+2426030,"Sainte-Marie, V",41.8
+2426035,"Sainte-Marguerite, PE",40
+2426040,"Sainte-Hénédine, PE",41.8
+2426048,"Scott, MÉ",37.6
+2426055,"Saint-Bernard, MÉ",37.8
+2426063,"Saint-Isidore, MÉ",40.5
+2426070,"Saint-Lambert-de-Lauzon, MÉ",37.5
+2427008,"Saint-Victor, MÉ",43.9
+2427015,"Saint-Alfred, MÉ",39.7
+2427028,"Beauceville, V",43.6
+2427035,"Saint-Odilon-de-Cranbourne, PE",42.4
+2427043,"Saint-Joseph-de-Beauce, V",42.2
+2427050,"Saint-Joseph-des-Érables, MÉ",39.5
+2427055,"Saint-Jules, PE",42.3
+2427060,"Tring-Jonction, VL",42.3
+2427065,"Saint-Frédéric, PE",41
+2427070,"Saint-Séverin, PE",47.5
+2428005,"Saint-Zacharie, MÉ",44.7
+2428015,"Sainte-Aurélie, MÉ",45.1
+2428020,"Saint-Prosper, MÉ",43.4
+2428025,"Saint-Benjamin, MÉ",40.5
+2428030,"Sainte-Rose-de-Watford, MÉ",45.1
+2428035,"Saint-Louis-de-Gonzague, MÉ",47.3
+2428040,"Saint-Cyprien, PE",48.9
+2428045,"Sainte-Justine, MÉ",44
+2428053,"Lac-Etchemin, MÉ",49.1
+2428060,"Saint-Luc-de-Bellechasse, MÉ",51.4
+2428065,"Sainte-Sabine, PE",56
+2428070,"Saint-Camille-de-Lellis, PE",49.7
+2428075,"Saint-Magloire, MÉ",52.1
+2429005,"Saint-Théophile, MÉ",42.4
+2429013,"Saint-Gédéon-de-Beauce, MÉ",41.7
+2429020,"Saint-Hilaire-de-Dorset, PE",46.2
+2429025,"Saint-Évariste-de-Forsyth, MÉ",43.3
+2429030,"La Guadeloupe, VL",43.5
+2429038,"Saint-Honoré-de-Shenley, MÉ",40.6
+2429045,"Saint-Martin, PE",41.5
+2429050,"Saint-René, PE",36.3
+2429057,"Saint-Côme--Linière, MÉ",40.3
+2429065,"Saint-Philibert, MÉ",40.1
+2429073,"Saint-Georges, V",42.6
+2429095,"Lac-Poulin, VL",46.6
+2429100,"Saint-Benoît-Labre, MÉ",40
+2429112,"Saint-Éphrem-de-Beauce, MÉ",41.4
+2429120,"Notre-Dame-des-Pins, PE",43.3
+2429125,"Saint-Simon-les-Mines, MÉ",39.2
+2430005,"Saint-Augustin-de-Woburn, PE",42.7
+2430010,"Notre-Dame-des-Bois, MÉ",44.2
+2430015,"Val-Racine, MÉ",43.3
+2430020,"Piopolis, MÉ",54.6
+2430025,"Frontenac, MÉ",42.2
+2430030,"Lac-Mégantic, V",46.8
+2430035,"Marston, CT",42.1
+2430040,"Milan, MÉ",45.2
+2430045,"Nantes, MÉ",42.2
+2430050,"Sainte-Cécile-de-Whitton, MÉ",41.9
+2430055,"Audet, MÉ",42.3
+2430070,"Saint-Robert-Bellarmin, MÉ",40.8
+2430072,"Saint-Ludger, MÉ",45.3
+2430080,"Lac-Drolet, MÉ",46.8
+2430085,"Saint-Sébastien, MÉ",45.3
+2430090,"Courcelles, MÉ",46.9
+2430095,"Lambton, MÉ",47
+2430100,"Saint-Romain, MÉ",44.4
+2430105,"Stornoway, MÉ",44.8
+2430110,"Stratford, CT",52.3
+2431008,"Beaulac-Garthby, MÉ",54.1
+2431015,"Disraeli, V",49.1
+2431020,"Disraeli, PE",47.8
+2431025,"Saint-Jacques-le-Majeur-de-Wolfestown, PE",46.7
+2431030,"Saint-Fortunat, MÉ",46.8
+2431035,"Saint-Julien, MÉ",46.1
+2431040,"Irlande, MÉ",45.1
+2431045,"Saint-Joseph-de-Coleraine, MÉ",47.7
+2431050,"Sainte-Praxède, PE",48.5
+2431056,"Adstock, MÉ",44.6
+2431060,"Sainte-Clotilde-de-Beauce, MÉ",44.1
+2431084,"Thetford Mines, V",47.9
+2431095,"Saint-Adrien-d'Irlande, MÉ",44.3
+2431100,"Saint-Jean-de-Brébeuf, MÉ",42.9
+2431105,"Kinnear's Mills, MÉ",43.5
+2431122,"East Broughton, MÉ",46
+2431130,"Sacré-Coeur-de-Jésus, PE",41.7
+2431135,"Saint-Pierre-de-Broughton, MÉ",43.7
+2431140,"Saint-Jacques-de-Leeds, MÉ",42.1
+2432013,"Saint-Ferdinand, MÉ",48.4
+2432023,"Sainte-Sophie-d'Halifax, MÉ",41.4
+2432033,"Princeville, V",40.6
+2432040,"Plessisville, V",46.7
+2432045,"Plessisville, PE",41
+2432050,"Saint-Pierre-Baptiste, PE",41.6
+2432058,"Inverness, MÉ",43.3
+2432065,"Lyster, MÉ",44.7
+2432072,"Laurierville, MÉ",42.9
+2432080,"Notre-Dame-de-Lourdes, PE",43.1
+2432085,"Villeroy, MÉ",46.1
+2433007,"Saint-Sylvestre, MÉ",43.8
+2433017,"Sainte-Agathe-de-Lotbinière, MÉ",44.7
+2433025,"Saint-Patrice-de-Beaurivage, MÉ",41.2
+2433030,"Saint-Narcisse-de-Beaurivage, PE",37.7
+2433035,"Saint-Gilles, PE",39.4
+2433040,"Dosquet, MÉ",41.6
+2433045,"Saint-Agapit, MÉ",38.4
+2433052,"Saint-Flavien, MÉ",42.2
+2433060,"Laurier-Station, VL",42.3
+2433065,"Saint-Janvier-de-Joly, MÉ",42.9
+2433070,"Val-Alain, MÉ",42.4
+2433080,"Saint-Édouard-de-Lotbinière, PE",41.8
+2433085,"Notre-Dame-du-Sacré-Coeur-d'Issoudun, PE",38.6
+2433090,"Saint-Apollinaire, MÉ",38.8
+2433095,"Saint-Antoine-de-Tilly, MÉ",44.9
+2433102,"Sainte-Croix, MÉ",46.7
+2433115,"Lotbinière, MÉ",51.9
+2433123,"Leclercville, MÉ",46.8
+2434007,"Neuville, V",41.1
+2434017,"Pont-Rouge, V",39.5
+2434025,"Donnacona, V",44.3
+2434030,"Cap-Santé, V",42.2
+2434038,"Saint-Basile, V",44.2
+2434048,"Portneuf, V",46.3
+2434058,"Deschambault-Grondines, MÉ",44.1
+2434060,"Saint-Gilbert, PE",44.2
+2434065,"Saint-Marc-des-Carrières, V",47.9
+2434078,"Saint-Casimir, MÉ",49.5
+2434085,"Saint-Thuribe, PE",43.6
+2434090,"Saint-Ubalde, MÉ",48.3
+2434097,"Saint-Alban, MÉ",46.9
+2434105,"Sainte-Christine-d'Auvergne, MÉ",46.9
+2434115,"Saint-Léonard-de-Portneuf, MÉ",43.1
+2434120,"Lac-Sergent, V",45.3
+2434128,"Saint-Raymond, V",44.7
+2434135,"Rivière-à-Pierre, MÉ",50
+2435005,"Notre-Dame-de-Montauban, MÉ",54.6
+2435010,"Lac-aux-Sables, PE",53.3
+2435015,"Saint-Adelphe, PE",50.4
+2435020,"Saint-Séverin, PE",44.6
+2435027,"Saint-Tite, V",50.4
+2435035,"Hérouxville, PE",44.8
+2435040,"Grandes-Piles, VL",50.9
+2435045,"Saint-Roch-de-Mékinac, PE",52.5
+2435050,"Sainte-Thècle, MÉ",49.9
+2435055,"Trois-Rives, MÉ",56.2
+2436033,"Shawinigan, V",48.4
+2437067,"Trois-Rivières, V",44.8
+2437205,"Sainte-Anne-de-la-Pérade, MÉ",48.1
+2437210,"Batiscan, MÉ",49.5
+2437215,"Sainte-Geneviève-de-Batiscan, PE",49.4
+2437220,"Champlain, MÉ",46.5
+2437225,"Saint-Luc-de-Vincennes, MÉ",46
+2437230,"Saint-Maurice, PE",38.2
+2437235,"Notre-Dame-du-Mont-Carmel, PE",40.9
+2437240,"Saint-Narcisse, PE",46.2
+2437245,"Saint-Stanislas, MÉ",49.5
+2437250,"Saint-Prosper-de-Champlain, MÉ",47.5
+2438005,"Saint-Sylvère, MÉ",43.8
+2438010,"Bécancour, V",42.9
+2438015,"Sainte-Marie-de-Blandford, MÉ",46
+2438020,"Lemieux, MÉ",44.9
+2438028,"Manseau, MÉ",46.2
+2438035,"Sainte-Françoise, MÉ",47.2
+2438040,"Sainte-Sophie-de-Lévrard, PE",48.2
+2438047,"Fortierville, MÉ",47.4
+2438055,"Parisville, PE",44.6
+2438060,"Sainte-Cécile-de-Lévrard, PE",41.2
+2438065,"Saint-Pierre-les-Becquets, MÉ",51
+2438070,"Deschaillons-sur-Saint-Laurent, MÉ",50.8
+2438802,"Wôlinak, IRI",35.8
+2439005,"Saints-Martyrs-Canadiens, PE",54.3
+2439010,"Ham-Nord, CT",46.6
+2439015,"Notre-Dame-de-Ham, MÉ",44.3
+2439020,"Saint-Rémi-de-Tingwick, MÉ",45.9
+2439025,"Tingwick, MÉ",42.3
+2439030,"Chesterville, MÉ",39.8
+2439035,"Sainte-Hélène-de-Chester, MÉ",40
+2439043,"Saint-Norbert-d'Arthabaska, MÉ",41.1
+2439060,"Saint-Christophe-d'Arthabaska, PE",37.9
+2439062,"Victoriaville, V",44.4
+2439077,"Warwick, V",43.1
+2439085,"Saint-Albert, MÉ",38.8
+2439090,"Sainte-Élizabeth-de-Warwick, MÉ",38.9
+2439097,"Kingsey Falls, V",38.7
+2439105,"Sainte-Séraphine, PE",39.9
+2439117,"Sainte-Clotilde-de-Horton, MÉ",41.9
+2439130,"Saint-Samuel, MÉ",40.8
+2439135,"Saint-Valère, MÉ",39.9
+2439145,"Saint-Rosaire, PE",39.3
+2439150,"Sainte-Anne-du-Sault, MÉ",42.5
+2439155,"Daveluyville, V",44.6
+2439165,"Maddington Falls, MÉ",47
+2439170,"Saint-Louis-de-Blandford, MÉ",41.5
+2440005,"Ham-Sud, MÉ",46.5
+2440010,"Saint-Adrien, MÉ",43.5
+2440017,"Wotton, MÉ",43.7
+2440025,"Saint-Camille, CT",39.1
+2440032,"Saint-Georges-de-Windsor, MÉ",40.9
+2440043,"Asbestos, V",48.9
+2440047,"Danville, V",46
+2441012,"Saint-Isidore-de-Clifton, MÉ",45.5
+2441020,"Chartierville, MÉ",55.1
+2441027,"La Patrie, MÉ",45.4
+2441037,"Newport, MÉ",45.1
+2441038,"Cookshire-Eaton, V",41.5
+2441055,"Ascot Corner, MÉ",37.5
+2441060,"East Angus, V",43.1
+2441065,"Westbury, CT",41.7
+2441070,"Bury, MÉ",43.1
+2441075,"Hampden, CT",45.3
+2441080,"Scotstown, V",47.7
+2441085,"Lingwick, CT",47.3
+2441098,"Weedon, MÉ",49.2
+2441117,"Dudswell, MÉ",45.4
+2442005,"Stoke, MÉ",40.8
+2442020,"Saint-François-Xavier-de-Brompton, MÉ",40.8
+2442025,"Saint-Denis-de-Brompton, MÉ",39
+2442032,"Racine, MÉ",44.8
+2442040,"Bonsecours, MÉ",44.8
+2442045,"Lawrenceville, VL",40.5
+2442050,"Sainte-Anne-de-la-Rochelle, MÉ",42.2
+2442055,"Valcourt, V",44.8
+2442060,"Valcourt, CT",43.6
+2442065,"Maricourt, MÉ",44.6
+2442070,"Kingsbury, VL",40.9
+2442075,"Melbourne, CT",43.8
+2442078,"Ulverton, MÉ",44
+2442088,"Windsor, V",42.8
+2442095,"Val-Joli, MÉ",40.3
+2442098,"Richmond, V",45.6
+2442100,"Saint-Claude, MÉ",40.5
+2442110,"Cleveland, CT",48.8
+2443027,"Sherbrooke, V",41.3
+2444003,"Saint-Malo, MÉ",40.9
+2444005,"Saint-Venant-de-Paquette, MÉ",48.4
+2444010,"East Hereford, MÉ",41.2
+2444015,"Saint-Herménégilde, MÉ",45.6
+2444023,"Dixville, MÉ",38.4
+2444037,"Coaticook, V",44.2
+2444045,"Barnston-Ouest, MÉ",43.2
+2444050,"Stanstead-Est, MÉ",47.1
+2444055,"Sainte-Edwidge-de-Clifton, CT",35.6
+2444060,"Martinville, MÉ",41.8
+2444071,"Compton, MÉ",40.3
+2444080,"Waterville, V",40
+2445008,"Stanstead, V",44
+2445020,"Ogden, MÉ",47.8
+2445025,"Stanstead, CT",52.4
+2445030,"Potton, CT",51.2
+2445035,"Ayer's Cliff, VL",45.3
+2445043,"Hatley, MÉ",45.2
+2445050,"North Hatley, VL",50.7
+2445055,"Hatley, CT",43.1
+2445060,"Sainte-Catherine-de-Hatley, MÉ",45.5
+2445072,"Magog, V",46.8
+2445085,"Austin, MÉ",51.1
+2445093,"Eastman, MÉ",50.2
+2445095,"Bolton-Est, MÉ",49.6
+2445100,"Saint-Étienne-de-Bolton, MÉ",52.8
+2445105,"Stukely-Sud, VL",45.1
+2445115,"Orford, CT",44.4
+2446005,"Abercorn, VL",52
+2446010,"Frelighsburg, MÉ",49.2
+2446017,"Saint-Armand, MÉ",48.1
+2446025,"Pike River, MÉ",43.3
+2446030,"Stanbridge Station, MÉ",44.2
+2446035,"Bedford, V",46.8
+2446040,"Bedford, CT",46.6
+2446045,"Stanbridge East, MÉ",44.1
+2446050,"Dunham, V",44
+2446058,"Sutton, V",52.4
+2446065,"Bolton-Ouest, MÉ",52.9
+2446070,"Brome, VL",46.9
+2446075,"Lac-Brome, V",50
+2446078,"Bromont, V",42.2
+2446080,"Cowansville, V",44.2
+2446085,"East Farnham, MÉ",42.5
+2446090,"Brigham, MÉ",42.6
+2446095,"Saint-Ignace-de-Stanbridge, MÉ",41.5
+2446100,"Notre-Dame-de-Stanbridge, MÉ",43.2
+2446105,"Sainte-Sabine, MÉ",38.7
+2446112,"Farnham, V",41.8
+2447010,"Saint-Alphonse-de-Granby, MÉ",36.7
+2447017,"Granby, V",43.8
+2447025,"Waterloo, V",43
+2447030,"Warden, VL",42.6
+2447035,"Shefford, CT",41.2
+2447040,"Saint-Joachim-de-Shefford, MÉ",39.9
+2447047,"Roxton Pond, MÉ",40.5
+2447055,"Sainte-Cécile-de-Milton, MÉ",37.4
+2448005,"Béthanie, MÉ",43
+2448010,"Roxton Falls, VL",41.3
+2448015,"Roxton, CT",43.6
+2448020,"Sainte-Christine, PE",42.7
+2448028,"Acton Vale, V",44.6
+2448038,"Upton, MÉ",41.2
+2448045,"Saint-Théodore-d'Acton, MÉ",39.6
+2448050,"Saint-Nazaire-d'Acton, PE",40.3
+2449005,"Saint-Félix-de-Kingsey, MÉ",43.7
+2449015,"Durham-Sud, MÉ",40.9
+2449020,"Lefebvre, MÉ",38.1
+2449025,"L'Avenir, MÉ",44.3
+2449030,"Saint-Lucien, MÉ",43
+2449040,"Wickham, MÉ",38.6
+2449048,"Saint-Germain-de-Grantham, MÉ",37.1
+2449058,"Drummondville, V",43
+2449070,"Saint-Cyrille-de-Wendover, MÉ",37.2
+2449075,"Notre-Dame-du-Bon-Conseil, VL",43.8
+2449080,"Notre-Dame-du-Bon-Conseil, PE",43.7
+2449085,"Sainte-Brigitte-des-Saults, PE",41.2
+2449095,"Saint-Majorique-de-Grantham, PE",36.6
+2449100,"Saint-Edmond-de-Grantham, PE",37.7
+2449105,"Saint-Eugène, MÉ",42.4
+2449113,"Saint-Guillaume, MÉ",41.6
+2449125,"Saint-Bonaventure, MÉ",39.6
+2449130,"Saint-Pie-de-Guire, PE",41.3
+2450005,"Sainte-Eulalie, MÉ",40.9
+2450013,"Aston-Jonction, MÉ",36.8
+2450023,"Saint-Wenceslas, MÉ",41.3
+2450030,"Saint-Célestin, VL",45
+2450035,"Saint-Célestin, MÉ",40.6
+2450042,"Saint-Léonard-d'Aston, MÉ",41.9
+2450050,"Sainte-Perpétue, PE",42.4
+2450057,"Sainte-Monique, MÉ",41.3
+2450065,"Grand-Saint-Esprit, MÉ",41.4
+2450072,"Nicolet, V",47
+2450085,"La Visitation-de-Yamaska, MÉ",40.6
+2450090,"Saint-Zéphirin-de-Courval, PE",40.6
+2450095,"Saint-Elphège, PE",39.5
+2450100,"Baie-du-Febvre, MÉ",43.9
+2450113,"Pierreville, MÉ",47
+2450128,"Saint-François-du-Lac, MÉ",47.8
+2450802,"Odanak, IRI",41
+2451008,"Maskinongé, MÉ",45.3
+2451015,"Louiseville, V",51.1
+2451020,"Yamachiche, MÉ",42.2
+2451025,"Saint-Barnabé, PE",43.3
+2451030,"Saint-Sévère, PE",42.4
+2451035,"Saint-Léon-le-Grand, PE",44.2
+2451040,"Sainte-Ursule, PE",47.1
+2451045,"Saint-Justin, MÉ",49.4
+2451050,"Saint-Édouard-de-Maskinongé, MÉ",46.8
+2451055,"Sainte-Angèle-de-Prémont, MÉ",50.7
+2451060,"Saint-Paulin, MÉ",45.5
+2451065,"Saint-Alexis-des-Monts, PE",51
+2451070,"Saint-Mathieu-du-Parc, MÉ",49.5
+2451075,"Saint-Élie-de-Caxton, MÉ",46.6
+2451080,"Charette, MÉ",45.5
+2451085,"Saint-Boniface, MÉ",40.4
+2451090,"Saint-Étienne-des-Grès, PE",39.8
+2452007,"Lavaltrie, V",38.9
+2452017,"Lanoraie, MÉ",42.9
+2452030,"Sainte-Élisabeth, MÉ",43.1
+2452035,"Berthierville, V",47.4
+2452040,"Sainte-Geneviève-de-Berthier, MÉ",43.2
+2452045,"Saint-Ignace-de-Loyola, MÉ",46.7
+2452050,"La Visitation-de-l'Île-Dupas, MÉ",48.2
+2452055,"Saint-Barthélemy, PE",46.2
+2452062,"Saint-Cuthbert, MÉ",45
+2452070,"Saint-Norbert, PE",43
+2452075,"Saint-Cléophas-de-Brandon, MÉ",43.4
+2452080,"Saint-Gabriel, V",49.5
+2452085,"Saint-Gabriel-de-Brandon, MÉ",47.5
+2452090,"Saint-Didace, PE",49.8
+2452095,"Mandeville, MÉ",50.3
+2453005,"Saint-David, MÉ",43.2
+2453010,"Massueville, VL",42.1
+2453015,"Saint-Aimé, MÉ",41.5
+2453020,"Saint-Robert, MÉ",43.5
+2453025,"Sainte-Victoire-de-Sorel, MÉ",43.6
+2453032,"Saint-Ours, V",46.7
+2453040,"Saint-Roch-de-Richelieu, MÉ",41.5
+2453050,"Saint-Joseph-de-Sorel, V",44.7
+2453052,"Sorel-Tracy, V",48.1
+2453065,"Sainte-Anne-de-Sorel, MÉ",46.8
+2453072,"Yamaska, MÉ",44.9
+2453085,"Saint-Gérard-Majella, PE",43.6
+2454008,"Saint-Pie, V",38.8
+2454017,"Saint-Damase, MÉ",41.5
+2454025,"Sainte-Madeleine, VL",39
+2454030,"Sainte-Marie-Madeleine, PE",39.7
+2454035,"La Présentation, MÉ",37.5
+2454048,"Saint-Hyacinthe, V",45
+2454060,"Saint-Dominique, MÉ",36.7
+2454065,"Saint-Valérien-de-Milton, MÉ",38.9
+2454072,"Saint-Liboire, MÉ",36.5
+2454090,"Saint-Simon, MÉ",37.1
+2454095,"Sainte-Hélène-de-Bagot, MÉ",37.3
+2454100,"Saint-Hugues, MÉ",38.3
+2454105,"Saint-Barnabé-Sud, MÉ",39.1
+2454110,"Saint-Jude, MÉ",37.6
+2454115,"Saint-Bernard-de-Michaudville, MÉ",39.5
+2454120,"Saint-Louis, MÉ",42
+2454125,"Saint-Marcel-de-Richelieu, MÉ",40.4
+2455008,"Ange-Gardien, MÉ",36.7
+2455015,"Saint-Paul-d'Abbotsford, MÉ",41.1
+2455023,"Saint-Césaire, V",40.3
+2455030,"Sainte-Angèle-de-Monnoir, MÉ",38.8
+2455037,"Rougemont, MÉ",42.2
+2455048,"Marieville, V",39.2
+2455057,"Richelieu, V",45.2
+2455065,"Saint-Mathias-sur-Richelieu, MÉ",41.9
+2456005,"Venise-en-Québec, MÉ",51.9
+2456010,"Saint-Georges-de-Clarenceville, MÉ",48
+2456015,"Noyan, MÉ",45.3
+2456023,"Lacolle, MÉ",42.9
+2456030,"Saint-Valentin, MÉ",43.1
+2456035,"Saint-Paul-de-l'Île-aux-Noix, MÉ",44.3
+2456042,"Henryville, MÉ",43.2
+2456050,"Saint-Sébastien, MÉ",39.2
+2456055,"Saint-Alexandre, MÉ",36.6
+2456060,"Sainte-Anne-de-Sabrevois, PE",40.8
+2456065,"Saint-Blaise-sur-Richelieu, MÉ",41.3
+2456083,"Saint-Jean-sur-Richelieu, V",41.8
+2456097,"Mont-Saint-Grégoire, MÉ",40.5
+2456105,"Sainte-Brigide-d'Iberville, MÉ",38.1
+2457005,"Chambly, V",37.2
+2457010,"Carignan, V",37.7
+2457020,"Saint-Basile-le-Grand, V",37.9
+2457025,"McMasterville, MÉ",40.4
+2457030,"Otterburn Park, V",38.9
+2457033,"Saint-Jean-Baptiste, MÉ",42.4
+2457035,"Mont-Saint-Hilaire, V",43.2
+2457040,"Beloeil, V",41.1
+2457045,"Saint-Mathieu-de-Beloeil, MÉ",40.6
+2457050,"Saint-Marc-sur-Richelieu, MÉ",41.6
+2457057,"Saint-Charles-sur-Richelieu, MÉ",44.8
+2457068,"Saint-Denis-sur-Richelieu, MÉ",43
+2457075,"Saint-Antoine-sur-Richelieu, MÉ",43.8
+2458007,"Brossard, V",42.2
+2458012,"Saint-Lambert, V",47.1
+2458033,"Boucherville, V",44.3
+2458037,"Saint-Bruno-de-Montarville, V",43.1
+2458227,"Longueuil, V",41.6
+2459010,"Sainte-Julie, V",39.7
+2459015,"Saint-Amable, MÉ",34.7
+2459020,"Varennes, V",39.6
+2459025,"Verchères, MÉ",40.4
+2459030,"Calixa-Lavallée, MÉ",43.5
+2459035,"Contrecoeur, V",41.2
+2460005,"Charlemagne, V",45.4
+2460013,"Repentigny, V",41.9
+2460020,"Saint-Sulpice, PE",41.2
+2460028,"L'Assomption, V",38.8
+2460035,"L'Épiphanie, V",38
+2460040,"L'Épiphanie, PE",39.3
+2461005,"Saint-Paul, MÉ",37.7
+2461013,"Crabtree, MÉ",40.5
+2461020,"Saint-Pierre, VL",46.6
+2461025,"Joliette, V",44.9
+2461027,"Saint-Thomas, MÉ",41.3
+2461030,"Notre-Dame-des-Prairies, V",45.4
+2461035,"Saint-Charles-Borromée, MÉ",49.4
+2461040,"Saint-Ambroise-de-Kildare, MÉ",41.3
+2461045,"Notre-Dame-de-Lourdes, MÉ",40.4
+2461050,"Sainte-Mélanie, MÉ",41.9
+2462007,"Saint-Félix-de-Valois, MÉ",43.4
+2462015,"Saint-Jean-de-Matha, MÉ",48.5
+2462020,"Sainte-Béatrix, MÉ",47
+2462025,"Saint-Alphonse-Rodriguez, MÉ",50
+2462030,"Sainte-Marcelline-de-Kildare, MÉ",44.3
+2462037,"Rawdon, MÉ",46
+2462047,"Chertsey, MÉ",49.4
+2462053,"Entrelacs, MÉ",53
+2462055,"Notre-Dame-de-la-Merci, MÉ",54.1
+2462060,"Saint-Donat, MÉ",53.4
+2462065,"Saint-Côme, PE",49.9
+2462070,"Sainte-Émélie-de-l'Énergie, MÉ",48.4
+2462075,"Saint-Damien, PE",50.3
+2462080,"Saint-Zénon, MÉ",53.8
+2462085,"Saint-Michel-des-Saints, MÉ",50.5
+2462802,"Manawan, IRI",27
+2462912,"Saint-Guillaume-Nord, NO",53.8
+2463005,"Sainte-Marie-Salomé, PE",42
+2463013,"Saint-Jacques, MÉ",44
+2463023,"Saint-Alexis, MÉ",40.2
+2463030,"Saint-Esprit, MÉ",42.6
+2463035,"Saint-Roch-de-l'Achigan, MÉ",39
+2463040,"Saint-Roch-Ouest, MÉ",39.6
+2463048,"Saint-Lin--Laurentides, V",36.3
+2463055,"Saint-Calixte, MÉ",44.3
+2463060,"Sainte-Julienne, MÉ",41.1
+2463065,"Saint-Liguori, PE",42.8
+2464008,"Terrebonne, V",38
+2464015,"Mascouche, V",38.5
+2465005,"Laval, V",41.1
+2466007,"Montréal-Est, V",39.6
+2466023,"Montréal, V",40.3
+2466032,"Westmount, V",45.1
+2466047,"Montréal-Ouest, V",40.9
+2466058,"Côte-Saint-Luc, V",45.8
+2466062,"Hampstead, V",40.1
+2466072,"Mont-Royal, V",41
+2466087,"Dorval, V",43.5
+2466097,"Pointe-Claire, V",45.3
+2466102,"Kirkland, V",41.9
+2466107,"Beaconsfield, V",41.7
+2466112,"Baie-D'Urfé, V",45.3
+2466117,"Sainte-Anne-de-Bellevue, V",43.5
+2466127,"Senneville, VL",44.6
+2466142,"Dollard-Des Ormeaux, V",41.9
+2467005,"Saint-Mathieu, MÉ",40.2
+2467010,"Saint-Philippe, MÉ",38
+2467015,"La Prairie, V",39.8
+2467020,"Candiac, V",37.4
+2467025,"Delson, V",38.9
+2467030,"Sainte-Catherine, V",40.5
+2467035,"Saint-Constant, V",37.9
+2467040,"Saint-Isidore, PE",41.1
+2467045,"Mercier, V",38.1
+2467050,"Châteauguay, V",41.3
+2467055,"Léry, V",43.9
+2468005,"Saint-Bernard-de-Lacolle, PE",43
+2468010,"Hemmingford, VL",42.7
+2468015,"Hemmingford, CT",45.5
+2468020,"Sainte-Clotilde, MÉ",40
+2468025,"Saint-Patrice-de-Sherrington, MÉ",41.2
+2468030,"Napierville, MÉ",40.3
+2468035,"Saint-Cyprien-de-Napierville, MÉ",39.4
+2468040,"Saint-Jacques-le-Mineur, MÉ",41.8
+2468045,"Saint-Édouard, MÉ",40.1
+2468050,"Saint-Michel, MÉ",37.9
+2468055,"Saint-Rémi, V",40.7
+2469005,"Havelock, CT",47.8
+2469010,"Franklin, MÉ",44.3
+2469017,"Saint-Chrysostome, MÉ",41.7
+2469025,"Howick, MÉ",38.6
+2469030,"Très-Saint-Sacrement, PE",40.8
+2469037,"Ormstown, MÉ",44.9
+2469045,"Hinchinbrooke, MÉ",47.9
+2469050,"Elgin, MÉ",45.9
+2469055,"Huntingdon, V",45.4
+2469060,"Godmanchester, CT",44.7
+2469065,"Sainte-Barbe, MÉ",46.9
+2469070,"Saint-Anicet, MÉ",48.3
+2469075,"Dundee, CT",46
+2469802,"Akwesasne, IRI",32.5
+2470005,"Saint-Urbain-Premier, MÉ",39.8
+2470012,"Sainte-Martine, MÉ",39.5
+2470022,"Beauharnois, V",43.8
+2470030,"Saint-Étienne-de-Beauharnois, MÉ",39.2
+2470035,"Saint-Louis-de-Gonzague, PE",39.5
+2470040,"Saint-Stanislas-de-Kostka, MÉ",43.7
+2470052,"Salaberry-de-Valleyfield, V",45.4
+2471005,"Rivière-Beaudette, MÉ",40.7
+2471015,"Saint-Télesphore, MÉ",40.2
+2471020,"Saint-Polycarpe, MÉ",38.9
+2471025,"Saint-Zotique, MÉ",38.7
+2471033,"Les Coteaux, MÉ",36.9
+2471040,"Coteau-du-Lac, V",40.1
+2471045,"Saint-Clet, MÉ",39.3
+2471050,"Les Cèdres, MÉ",38.4
+2471055,"Pointe-des-Cascades, VL",39.3
+2471060,"L'Île-Perrot, V",40.3
+2471065,"Notre-Dame-de-l'Île-Perrot, V",38.9
+2471070,"Pincourt, V",39.2
+2471075,"Terrasse-Vaudreuil, MÉ",41.1
+2471083,"Vaudreuil-Dorion, V",38.3
+2471090,"Vaudreuil-sur-le-Lac, VL",41.1
+2471095,"L'Île-Cadieux, V",53.5
+2471100,"Hudson, V",47.7
+2471105,"Saint-Lazare, V",37.8
+2471110,"Sainte-Marthe, MÉ",43.2
+2471115,"Sainte-Justine-de-Newton, MÉ",43
+2471125,"Très-Saint-Rédempteur, MÉ",40.1
+2471133,"Rigaud, V",43.6
+2471140,"Pointe-Fortune, VL",44.3
+2472005,"Saint-Eustache, V",42.2
+2472010,"Deux-Montagnes, V",39.3
+2472015,"Sainte-Marthe-sur-le-Lac, V",36.8
+2472020,"Pointe-Calumet, MÉ",38.2
+2472025,"Saint-Joseph-du-Lac, MÉ",38.4
+2472032,"Oka, MÉ",43.7
+2472043,"Saint-Placide, MÉ",45.3
+2473005,"Boisbriand, V",37.5
+2473010,"Sainte-Thérèse, V",45.6
+2473015,"Blainville, V",37.7
+2473020,"Rosemère, V",42.3
+2473025,"Lorraine, V",40.3
+2473030,"Bois-des-Filion, V",39.5
+2473035,"Sainte-Anne-des-Plaines, V",38.4
+2474005,"Mirabel, V",35.8
+2475005,"Saint-Colomban, V",35.5
+2475017,"Saint-Jérôme, V",43.5
+2475028,"Sainte-Sophie, MÉ",37.1
+2475040,"Prévost, V",40.9
+2475045,"Saint-Hippolyte, MÉ",41.9
+2476008,"Saint-André-d'Argenteuil, MÉ",44.8
+2476020,"Lachute, V",45.8
+2476025,"Gore, CT",47.2
+2476030,"Mille-Isles, MÉ",42.8
+2476035,"Wentworth, CT",52.4
+2476043,"Brownsburg-Chatham, V",43.5
+2476052,"Grenville-sur-la-Rouge, MÉ",46.9
+2476055,"Grenville, VL",41.6
+2476065,"Harrington, CT",57.2
+2477011,"Estérel, V",55.6
+2477012,"Sainte-Marguerite-du-Lac-Masson, V",47.9
+2477022,"Sainte-Adèle, V",47.4
+2477030,"Piedmont, MÉ",50.6
+2477035,"Sainte-Anne-des-Lacs, PE",45.9
+2477043,"Saint-Sauveur, V",51.8
+2477050,"Morin-Heights, MÉ",47.2
+2477055,"Lac-des-Seize-Îles, MÉ",56.4
+2477060,"Wentworth-Nord, MÉ",54.3
+2477065,"Saint-Adolphe-d'Howard, MÉ",50.8
+2478005,"Val-Morin, MÉ",46.2
+2478010,"Val-David, VL",46
+2478015,"Lantier, MÉ",48.3
+2478020,"Sainte-Lucie-des-Laurentides, MÉ",46.5
+2478032,"Sainte-Agathe-des-Monts, V",47.4
+2478042,"Ivry-sur-le-Lac, MÉ",50.8
+2478047,"Saint-Faustin--Lac-Carré, MÉ",41.8
+2478050,"Barkmere, V",55.5
+2478055,"Montcalm, MÉ",53.1
+2478060,"Arundel, CT",47.3
+2478065,"Huberdeau, MÉ",46.2
+2478070,"Amherst, CT",50.2
+2478075,"Brébeuf, PE",44.9
+2478095,"Lac-Supérieur, MÉ",44.7
+2478100,"Val-des-Lacs, MÉ",49.7
+2478102,"Mont-Tremblant, V",46.8
+2478115,"La Conception, MÉ",44.9
+2478120,"Labelle, MÉ",45.8
+2478127,"Lac-Tremblant-Nord, MÉ",60.2
+2478130,"La Minerve, MÉ",56.2
+2479005,"Notre-Dame-du-Laus, MÉ",55.5
+2479010,"Notre-Dame-de-Pontmain, MÉ",53
+2479015,"Lac-du-Cerf, MÉ",56.8
+2479022,"Saint-Aimé-du-Lac-des-Îles, MÉ",45.4
+2479025,"Kiamika, MÉ",48.5
+2479030,"Nominingue, MÉ",52.5
+2479037,"Rivière-Rouge, V",50
+2479047,"La Macaza, MÉ",51.7
+2479050,"L'Ascension, MÉ",52.5
+2479060,"Lac-Saguay, VL",52.4
+2479065,"Chute-Saint-Philippe, MÉ",49.7
+2479078,"Lac-des-Écorces, MÉ",44.1
+2479088,"Mont-Laurier, V",44.7
+2479097,"Ferme-Neuve, MÉ",46.1
+2479105,"Lac-Saint-Paul, MÉ",53.2
+2479110,"Mont-Saint-Michel, MÉ",47.3
+2479115,"Sainte-Anne-du-Lac, MÉ",50.6
+2480005,"Fassett, MÉ",52.9
+2480010,"Montebello, MÉ",48.5
+2480015,"Notre-Dame-de-Bonsecours, MÉ",50
+2480020,"Notre-Dame-de-la-Paix, MÉ",44.6
+2480027,"Saint-André-Avellin, MÉ",47
+2480037,"Papineauville, MÉ",44.9
+2480045,"Plaisance, MÉ",43.9
+2480050,"Thurso, V",40.8
+2480055,"Lochaber, CT",42
+2480060,"Lochaber-Partie-Ouest, CT",39.3
+2480065,"Mayo, MÉ",43.6
+2480070,"Saint-Sixte, MÉ",42.2
+2480078,"Ripon, MÉ",47.7
+2480085,"Mulgrave-et-Derry, MÉ",49.4
+2480090,"Montpellier, MÉ",52.3
+2480095,"Lac-Simon, MÉ",53.7
+2480103,"Chénéville, MÉ",49.2
+2480110,"Namur, MÉ",49.1
+2480115,"Boileau, MÉ",51.2
+2480125,"Saint-Émile-de-Suffolk, MÉ",49.4
+2480130,"Lac-des-Plages, MÉ",52.6
+2480135,"Duhamel, MÉ",59
+2480140,"Val-des-Bois, MÉ",53.4
+2480145,"Bowman, MÉ",51.2
+2481017,"Gatineau, V",39.2
+2482005,"L'Ange-Gardien, MÉ",39
+2482010,"Notre-Dame-de-la-Salette, MÉ",45.7
+2482015,"Val-des-Monts, MÉ",38.5
+2482020,"Cantley, MÉ",36.3
+2482025,"Chelsea, MÉ",40.5
+2482030,"Pontiac, MÉ",39.9
+2482035,"La Pêche, MÉ",42.9
+2483005,"Denholm, MÉ",47.9
+2483010,"Low, CT",46.2
+2483015,"Kazabazua, MÉ",45.1
+2483020,"Lac-Sainte-Marie, MÉ",52.7
+2483032,"Gracefield, V",47.3
+2483040,"Cayamant, MÉ",49.6
+2483045,"Blue Sea, MÉ",51.1
+2483050,"Bouchette, MÉ",46.8
+2483055,"Sainte-Thérèse-de-la-Gatineau, MÉ",51.8
+2483060,"Messines, MÉ",46.4
+2483065,"Maniwaki, V",47.7
+2483070,"Déléage, MÉ",46.3
+2483075,"Egan-Sud, MÉ",45.2
+2483085,"Bois-Franc, MÉ",43.3
+2483088,"Montcerf-Lytton, MÉ",46.7
+2483090,"Aumond, CT",47.5
+2483095,"Grand-Remous, MÉ",46.9
+2483802,"Kitigan Zibi, IRI",36.3
+2484005,"Bristol, MÉ",44.6
+2484010,"Shawville, MÉ",47.2
+2484015,"Clarendon, MÉ",45.7
+2484020,"Portage-du-Fort, VL",44.2
+2484025,"Bryson, MÉ",45
+2484030,"Campbell's Bay, MÉ",45.7
+2484035,"L'Île-du-Grand-Calumet, MÉ",51.2
+2484040,"Litchfield, MÉ",44.5
+2484045,"Thorne, MÉ",50.8
+2484050,"Alleyn-et-Cawood, MÉ",52.6
+2484055,"Otter Lake, MÉ",47.4
+2484060,"Fort-Coulonge, VL",43.3
+2484065,"Mansfield-et-Pontefract, MÉ",43.3
+2484070,"Waltham, MÉ",44.1
+2484082,"L'Isle-aux-Allumettes, MÉ",45.6
+2484090,"Chichester, CT",48
+2484095,"Sheenboro, MÉ",50.7
+2484100,"Rapides-des-Joachims, MÉ",45.7
+2485005,"Témiscaming, V",42.2
+2485010,"Kipawa, MÉ",44.9
+2485015,"Saint-Édouard-de-Fabre, PE",42.1
+2485020,"Béarn, MÉ",42.8
+2485025,"Ville-Marie, V",47.4
+2485030,"Duhamel-Ouest, MÉ",43.8
+2485037,"Lorrainville, MÉ",42.2
+2485045,"Saint-Bruno-de-Guigues, MÉ",40.6
+2485050,"Laverlochère, MÉ",41.2
+2485055,"Fugèreville, MÉ",42.8
+2485060,"Latulipe-et-Gaboury, CU",48.3
+2485065,"Belleterre, V",43.5
+2485070,"Laforce, MÉ",39.1
+2485075,"Moffet, MÉ",52.2
+2485080,"Angliers, VL",46.7
+2485085,"Saint-Eugène-de-Guigues, MÉ",39.4
+2485090,"Notre-Dame-du-Nord, MÉ",45.8
+2485095,"Guérin, CT",38.8
+2485100,"Nédélec, CT",44.5
+2485105,"Rémigny, MÉ",48
+2485802,"Kebaowek, IRI",42.6
+2485804,"Winneway, S-É",43.5
+2485806,"Timiskaming, IRI",35.2
+2485905,"Laniel, NO",59.9
+2486042,"Rouyn-Noranda, V",41.3
+2487005,"Duparquet, V",46.2
+2487010,"Rapide-Danseur, MÉ",41.5
+2487015,"Roquemaure, MÉ",42.3
+2487020,"Gallichan, MÉ",43.7
+2487025,"Palmarolle, MÉ",42.2
+2487030,"Sainte-Germaine-Boulé, MÉ",40
+2487035,"Poularies, MÉ",38.2
+2487042,"Taschereau, MÉ",42.3
+2487050,"Authier, MÉ",41.8
+2487058,"Macamic, V",43.3
+2487070,"Sainte-Hélène-de-Mancebourg, PE",43.2
+2487075,"Clerval, MÉ",47.1
+2487080,"La Reine, MÉ",44.3
+2487085,"Dupuy, MÉ",40.3
+2487090,"La Sarre, V",45.2
+2487095,"Chazel, MÉ",42.5
+2487100,"Authier-Nord, MÉ",40.7
+2487105,"Val-Saint-Gilles, MÉ",44.9
+2487110,"Clermont, CT",40
+2487115,"Normétal, MÉ",43.4
+2487120,"Saint-Lambert, PE",44.5
+2487904,"Rivière-Ojima, NO",50.2
+2488005,"Champneuf, MÉ",44.1
+2488010,"Rochebaucourt, MÉ",46.4
+2488015,"La Morandière, MÉ",46.7
+2488022,"Barraute, MÉ",42.8
+2488030,"La Corne, MÉ",39
+2488035,"Landrienne, CT",38.8
+2488040,"Saint-Marc-de-Figuery, PE",37.6
+2488045,"La Motte, MÉ",43.2
+2488050,"Saint-Mathieu-d'Harricana, MÉ",39.1
+2488055,"Amos, V",42.7
+2488060,"Saint-Félix-de-Dalquier, MÉ",37.5
+2488065,"Saint-Dominique-du-Rosaire, MÉ",39.8
+2488070,"Berry, MÉ",37.6
+2488075,"Trécesson, CT",41.8
+2488080,"Launay, CT",44.8
+2488085,"Sainte-Gertrude-Manneville, MÉ",39.6
+2488090,"Preissac, MÉ",45.2
+2488802,"Pikogan, IRI",30.8
+2488904,"Lac-Chicobi, NO",43.3
+2489008,"Val-d'Or, V",41.3
+2489010,"Rivière-Héva, MÉ",41.9
+2489015,"Malartic, V",41
+2489040,"Senneterre, V",43.9
+2489045,"Senneterre, PE",46.8
+2489050,"Belcourt, MÉ",45.9
+2489802,"Kitcisakik, S-É",25.1
+2489804,"Lac-Simon, IRI",24
+2490012,"La Tuque, V",46.6
+2490017,"La Bostonnais, MÉ",46.7
+2490027,"Lac-Édouard, MÉ",55.6
+2490802,"Wemotaci, IRI",27.1
+2490804,"Obedjiwan, IRI",26.9
+2491005,"Lac-Bouchette, MÉ",49.8
+2491010,"Saint-André-du-Lac-Saint-Jean, VL",42.7
+2491015,"Saint-François-de-Sales, MÉ",48.3
+2491020,"Chambord, MÉ",44.9
+2491025,"Roberval, V",46.1
+2491030,"Sainte-Hedwidge, MÉ",44.5
+2491035,"Saint-Prime, MÉ",40.4
+2491042,"Saint-Félicien, V",44.1
+2491050,"La Doré, PE",44.6
+2491802,"Mashteuiatsh, IRI",37.7
+2492005,"Saint-Augustin, PE",40.8
+2492010,"Péribonka, MÉ",46.6
+2492015,"Sainte-Jeanne-d'Arc, VL",43.7
+2492022,"Dolbeau-Mistassini, V",45.7
+2492030,"Albanel, MÉ",41.3
+2492040,"Normandin, V",44.2
+2492045,"Saint-Thomas-Didyme, MÉ",49.3
+2492050,"Saint-Edmond-les-Plaines, MÉ",45.2
+2492055,"Girardville, MÉ",43.8
+2492060,"Notre-Dame-de-Lorette, MÉ",50.5
+2492065,"Saint-Eugène-d'Argentenay, MÉ",42.7
+2492070,"Saint-Stanislas, MÉ",43.9
+2492902,"Passes-Dangereuses, NO",45.4
+2493005,"Desbiens, V",44.3
+2493012,"Métabetchouan--Lac-à-la-Croix, V",46.3
+2493020,"Hébertville, MÉ",44.1
+2493025,"Hébertville-Station, VL",39.8
+2493030,"Saint-Bruno, MÉ",39
+2493035,"Saint-Gédéon, MÉ",45.4
+2493042,"Alma, V",44.2
+2493045,"Saint-Nazaire, MÉ",40
+2493055,"Labrecque, MÉ",42.8
+2493060,"Lamarche, MÉ",48
+2493065,"L'Ascension-de-Notre-Seigneur, PE",40.3
+2493070,"Saint-Henri-de-Taillon, MÉ",46.7
+2493075,"Sainte-Monique, MÉ",43.3
+2493080,"Saint-Ludger-de-Milot, MÉ",48.1
+2493908,"Belle-Rivière, NO",36.2
+2494068,"Saguenay, V",44
+2494205,"Petit-Saguenay, MÉ",50.1
+2494210,"L'Anse-Saint-Jean, MÉ",49.3
+2494215,"Rivière-Éternité, MÉ",49.3
+2494220,"Ferland-et-Boilleau, MÉ",43.3
+2494225,"Saint-Félix-d'Otis, MÉ",47
+2494230,"Sainte-Rose-du-Nord, PE",47.2
+2494235,"Saint-Fulgence, MÉ",43.5
+2494240,"Saint-Honoré, MÉ",38
+2494245,"Saint-David-de-Falardeau, MÉ",44.9
+2494250,"Bégin, MÉ",42.6
+2494255,"Saint-Ambroise, MÉ",41.5
+2494260,"Saint-Charles-de-Bourget, MÉ",43.9
+2494265,"Larouche, MÉ",41.7
+2495005,"Tadoussac, VL",45.4
+2495010,"Sacré-Coeur, MÉ",42.8
+2495018,"Les Bergeronnes, MÉ",48.3
+2495025,"Les Escoumins, MÉ",46.9
+2495032,"Longue-Rive, MÉ",51.2
+2495040,"Portneuf-sur-Mer, MÉ",52.8
+2495045,"Forestville, V",46.8
+2495050,"Colombier, MÉ",52.2
+2495802,"Essipit, IRI",40.5
+2496005,"Baie-Trinité, VL",56.1
+2496010,"Godbout, VL",57.8
+2496015,"Franquelin, MÉ",49.1
+2496020,"Baie-Comeau, V",43.6
+2496025,"Pointe-Lebel, VL",43.5
+2496030,"Pointe-aux-Outardes, VL",42.7
+2496035,"Chute-aux-Outardes, VL",45
+2496040,"Ragueneau, PE",46.8
+2496802,"Pessamit, IRI",34.6
+2496902,"Rivière-aux-Outardes, NO",58.7
+2497007,"Sept-Îles, V",41.7
+2497022,"Port-Cartier, V",42.1
+2497035,"Fermont, V",33.5
+2497040,"Schefferville, V",36.1
+2497802,"Uashat, IRI",29.7
+2497804,"Maliotenam, IRI",29.6
+2497806,"Kawawachikamach, TK",30.5
+2497808,"Matimekosh, IRI",32.7
+2497904,"Lac-Walker, NO",42.4
+2498005,"Blanc-Sablon, MÉ",42.3
+2498010,"Bonne-Espérance, MÉ",46.7
+2498012,"Saint-Augustin, MÉ",48.7
+2498014,"Gros-Mécatina, MÉ",50.5
+2498015,"Côte-Nord-du-Golfe-du-Saint-Laurent, MÉ",47.6
+2498020,"L'Île-d'Anticosti, MÉ",48.7
+2498025,"Natashquan, CT",47.2
+2498030,"Aguanish, MÉ",50.9
+2498035,"Baie-Johan-Beetz, MÉ",52.4
+2498040,"Havre-Saint-Pierre, MÉ",42.4
+2498045,"Longue-Pointe-de-Mingan, MÉ",47.8
+2498050,"Rivière-Saint-Jean, MÉ",51.5
+2498055,"Rivière-au-Tonnerre, MÉ",53.5
+2498802,"Pakuashipi, S-É",29.7
+2498804,"La Romaine, IRI",31.1
+2498806,"Natashquan, IRI",30.4
+2498808,"Mingan, IRI",28.5
+2499005,"Lebel-sur-Quévillon, V",42
+2499015,"Matagami, V",38.9
+2499020,"Chapais, V",41.4
+2499025,"Chibougamau, V",39.5
+2499060,"Eeyou Istchee Baie-James, MÉ",42
+2499075,"Kuujjuarapik, VN",27.9
+2499080,"Umiujaq, VN",24.4
+2499085,"Inukjuak, VN",25.8
+2499090,"Kangiqsualujjuaq, VN",26.7
+2499095,"Kuujjuaq, VN",29.8
+2499100,"Tasiujaq, VN",25.5
+2499105,"Aupaluk, VN",25.4
+2499110,"Kangirsuk, VN",27.4
+2499115,"Quaqtaq, VN",25.8
+2499120,"Puvirnituq, VN",25.8
+2499125,"Akulivik, VN",24.6
+2499130,"Kangiqsujuaq, VN",26.5
+2499135,"Salluit, VN",25.6
+2499140,"Ivujivik, VN",26
+2499802,"Waswanipi, TC",27.9
+2499804,"Mistissini, TC",29.8
+2499806,"Waskaganish, TC",29.3
+2499808,"Nemaska, TC",29.9
+2499810,"Eastmain, TC",27.2
+2499812,"Wemindji, TC",31.4
+2499814,"Chisasibi, TC",29.1
+2499816,"Whapmagoostui, TC",27.3
+2499818,"Oujé-Bougoumou, S-É",27.7
+3501005,"South Glengarry, TP",45.3
+3501007,"Akwesasne (Part) 59, IRI",34.8
+3501011,"South Stormont, TP",43.4
+3501012,"Cornwall, CY",44.3
+3501020,"South Dundas, MU",45.7
+3501030,"North Dundas, TP",42.5
+3501042,"North Stormont, TP",40
+3501050,"North Glengarry, TP",46.5
+3502001,"East Hawkesbury, TP",45.1
+3502008,"Hawkesbury, T",48.2
+3502010,"Champlain, TP",46.4
+3502023,"Alfred and Plantagenet, TP",43.4
+3502025,"The Nation / La Nation, M",38.7
+3502036,"Clarence-Rockland, C",40.6
+3502044,"Casselman, VL",42
+3502048,"Russell, TP",39
+3506008,"Ottawa, CV",40.1
+3507004,"Edwardsburgh/Cardinal, TP",43.4
+3507006,"Augusta, TP",44.5
+3507008,"Prescott, T",47.1
+3507014,"Elizabethtown-Kitley, TP",46.1
+3507015,"Brockville, CY",46.5
+3507017,"Front of Yonge, TP",44.9
+3507021,"Leeds and the Thousand Islands, TP",46.1
+3507024,"Gananoque, T",47.2
+3507033,"Westport, VL",51.2
+3507040,"Rideau Lakes, TP",48.4
+3507042,"Athens, TP",44.4
+3507052,"Merrickville-Wolford, VL",46.9
+3507065,"North Grenville, MU",42.6
+3509001,"Montague, TP",41.8
+3509004,"Smiths Falls, T",44.7
+3509010,"Drummond/North Elmsley, TP",45.1
+3509015,"Tay Valley, TP",49.2
+3509021,"Perth, T",50.6
+3509024,"Beckwith, TP",41.3
+3509028,"Carleton Place, T",41.7
+3509030,"Mississippi Mills, T",44.5
+3509039,"Lanark Highlands, TP",46.1
+3510005,"Frontenac Islands, TP",50.4
+3510010,"Kingston, CY",42.3
+3510020,"South Frontenac, TP",43
+3510035,"Central Frontenac, TP",47.9
+3510045,"North Frontenac, TP",54.1
+3511005,"Loyalist, TP",43.3
+3511015,"Greater Napanee, T",45.7
+3511030,"Stone Mills, TP",42.3
+3511035,"Addington Highlands, TP",50.3
+3512001,"Tyendinaga, TP",39.9
+3512002,"Deseronto, T",41.1
+3512004,"Tyendinaga Mohawk Territory, IRI",39.4
+3512005,"Belleville, CY",43.4
+3512015,"Quinte West, CY",42.7
+3512020,"Stirling-Rawdon, TP",43.4
+3512026,"Centre Hastings, MU",43.5
+3512030,"Tweed, MU",46.6
+3512036,"Madoc, TP",44.5
+3512046,"Marmora and Lake, MU",49.2
+3512048,"Tudor and Cashel, TP",48.8
+3512051,"Limerick, TP",48.9
+3512054,"Wollaston, TP",50.9
+3512058,"Faraday, TP",49.2
+3512061,"Bancroft, T",48.8
+3512065,"Carlow/Mayo, TP",47.9
+3512076,"Hastings Highlands, MU",49.2
+3513020,"Prince Edward County, CY",49.4
+3514004,"Brighton, MU",48.2
+3514014,"Cramahe, TP",44.2
+3514019,"Hamilton, TP",44.5
+3514020,"Port Hope, MU",46.6
+3514021,"Cobourg, T",49.1
+3514024,"Alnwick/Haldimand, TP",44.5
+3514027,"Alderville First Nation, IRI",42.8
+3514045,"Trent Hills, MU",48.2
+3515003,"Asphodel-Norwood, TP",44.6
+3515005,"Otonabee-South Monaghan, TP",44.8
+3515008,"Hiawatha First Nation, IRI",44.2
+3515013,"Cavan Monaghan, TP",43.1
+3515014,"Peterborough, CY",43.5
+3515015,"Selwyn, TP",46.4
+3515019,"Curve Lake First Nation 35, IRI",41.8
+3515023,"Douro-Dummer, TP",43.5
+3515030,"Havelock-Belmont-Methuen, TP",48.7
+3515037,"North Kawartha, TP",49.2
+3515044,"Trent Lakes, MU",51.4
+3516010,"Kawartha Lakes, CY",46.7
+3518001,"Pickering, CY",40.4
+3518005,"Ajax, T",37.3
+3518009,"Whitby, T",38.4
+3518013,"Oshawa, CY",40.9
+3518017,"Clarington, MU",38.9
+3518020,"Scugog, TP",44.5
+3518022,"Mississaugas of Scugog Island, IRI",36.7
+3518029,"Uxbridge, TP",42.7
+3518039,"Brock, TP",43.5
+3519028,"Vaughan, CY",39.2
+3519036,"Markham, CY",40.2
+3519038,"Richmond Hill, T",40.4
+3519044,"Whitchurch-Stouffville, T",39.6
+3519046,"Aurora, T",39.6
+3519048,"Newmarket, T",39.7
+3519049,"King, TP",40.4
+3519054,"East Gwillimbury, T",40.6
+3519070,"Georgina, T",40.7
+3519076,"Chippewas of Georgina Island First Nation, IRI",41.3
+3520005,"Toronto, C",40.6
+3521005,"Mississauga, CY",39.6
+3521010,"Brampton, CY",36.5
+3521024,"Caledon, T",39.1
+3522001,"East Garafraxa, TP",41
+3522008,"Amaranth, TP",40.4
+3522010,"Grand Valley, T",39.2
+3522012,"Mono, T",42.7
+3522014,"Orangeville, T",38.7
+3522016,"Mulmur, TP",43.7
+3522019,"Melancthon, TP",38.9
+3522021,"Shelburne, T",37.3
+3523001,"Puslinch, TP",45.1
+3523008,"Guelph, CY",39.3
+3523009,"Guelph/Eramosa, TP",42.3
+3523017,"Erin, T",42.1
+3523025,"Centre Wellington, TP",42.6
+3523033,"Mapleton, TP",33.6
+3523043,"Minto, T",42.1
+3523050,"Wellington North, TP",42
+3524001,"Oakville, T",39.7
+3524002,"Burlington, CY",42.3
+3524009,"Milton, T",34.3
+3524015,"Halton Hills, T",39.3
+3525005,"Hamilton, C",41.3
+3526003,"Fort Erie, T",46
+3526011,"Port Colborne, CY",46.5
+3526014,"Wainfleet, TP",42.9
+3526021,"West Lincoln, TP",39.1
+3526028,"Pelham, T",45.8
+3526032,"Welland, CY",43.7
+3526037,"Thorold, CY",40.7
+3526043,"Niagara Falls, CY",43.4
+3526047,"Niagara-on-the-Lake, T",49.6
+3526053,"St. Catharines, CY",43.7
+3526057,"Lincoln, T",42.9
+3526065,"Grimsby, T",42.3
+3528018,"Haldimand County, CY",42.1
+3528035,"New Credit (Part) 40A, IRI",40
+3528052,"Norfolk County, CY",44.5
+3529005,"Brant, CY",42.3
+3529006,"Brantford, CY",40.8
+3530004,"North Dumfries, TP",39.9
+3530010,"Cambridge, CY",39.5
+3530013,"Kitchener, CY",39
+3530016,"Waterloo, CY",39
+3530020,"Wilmot, TP",40.7
+3530027,"Wellesley, TP",35
+3530035,"Woolwich, TP",39.3
+3531011,"Stratford, CY",43.8
+3531013,"Perth South, TP",41.2
+3531016,"St. Marys, T",44.1
+3531025,"West Perth, MU",40.3
+3531030,"Perth East, TP",37.2
+3531040,"North Perth, MU",39.9
+3532002,"Norwich, TP",37
+3532004,"Tillsonburg, T",46.2
+3532012,"South-West Oxford, TP",38.9
+3532018,"Ingersoll, T",40.3
+3532027,"Zorra, TP",40.7
+3532038,"East Zorra-Tavistock, TP",42.4
+3532042,"Woodstock, CY",41.8
+3532045,"Blandford-Blenheim, TP",41
+3534005,"Bayham, MU",35.8
+3534010,"Malahide, TP",36.3
+3534011,"Aylmer, T",40
+3534020,"Central Elgin, MU",43.6
+3534021,"St. Thomas, CY",42
+3534024,"Southwold, TP",42.4
+3534030,"Dutton/Dunwich, MU",42.8
+3534042,"West Elgin, MU",44.6
+3536020,"Chatham-Kent, MU",43.4
+3536029,"Moravian 47, IRI",35
+3537001,"Pelee, TP",47.6
+3537003,"Leamington, MU",41.3
+3537013,"Kingsville, T",42.7
+3537016,"Essex, T",43.5
+3537028,"Amherstburg, T",42.3
+3537034,"LaSalle, T",40.3
+3537039,"Windsor, CY",41.2
+3537048,"Tecumseh, T",43.3
+3537064,"Lakeshore, T",39.9
+3538003,"St. Clair, TP",42.9
+3538004,"Walpole Island 46, IRI",37.6
+3538007,"Dawn-Euphemia, TP",41.4
+3538015,"Brooke-Alvinston, MU",40.9
+3538016,"Enniskillen, TP",45.2
+3538018,"Oil Springs, VL",42
+3538019,"Petrolia, T",42.8
+3538025,"Sarnia 45, IRI",38
+3538030,"Sarnia, CY",43.9
+3538031,"Point Edward, VL",47.7
+3538035,"Plympton-Wyoming, T",42.5
+3538040,"Lambton Shores, MU",49.1
+3538043,"Warwick, TP",40.7
+3538056,"Kettle Point 44, IRI",42.5
+3539002,"Newbury, VL",41.6
+3539005,"Southwest Middlesex, MU",43
+3539015,"Strathroy-Caradoc, MU",42.3
+3539027,"Thames Centre, MU",41.7
+3539033,"Middlesex Centre, MU",41.1
+3539036,"London, CY",40.5
+3539041,"North Middlesex, MU",41.5
+3539047,"Adelaide-Metcalfe, TP",40.7
+3539060,"Lucan Biddulph, TP",39.4
+3540005,"South Huron, MU",45.9
+3540010,"Bluewater, MU",45.8
+3540025,"Central Huron, MU",44.2
+3540028,"Goderich, T",46.9
+3540040,"Huron East, MU",41.4
+3540046,"Howick, TP",36.7
+3540050,"Morris-Turnberry, MU",40.2
+3540055,"North Huron, TP",42.1
+3540063,"Ashfield-Colborne-Wawanosh, TP",43.5
+3541004,"South Bruce, MU",40.8
+3541015,"Huron-Kinloss, TP",43.4
+3541024,"Kincardine, MU",44
+3541032,"Brockton, MU",43.3
+3541043,"Arran-Elderslie, MU",41.3
+3541045,"Saugeen Shores, T",45.7
+3541055,"South Bruce Peninsula, T",49.3
+3541057,"Saugeen 29, IRI",36.1
+3541060,"Neyaashiinigmiing 27, IRI",37.7
+3541069,"Northern Bruce Peninsula, MU",54.8
+3542004,"West Grey, MU",45
+3542005,"Southgate, TP",39.2
+3542015,"Grey Highlands, MU",43.9
+3542029,"Hanover, T",45.9
+3542037,"Chatsworth, TP",43.1
+3542045,"The Blue Mountains, T",51.8
+3542047,"Meaford, MU",47.9
+3542053,"Georgian Bluffs, TP",45.6
+3542059,"Owen Sound, CY",45.6
+3543003,"Adjala-Tosorontio, TP",41.7
+3543005,"Clearview, TP",42.6
+3543007,"New Tecumseth, T",41.8
+3543009,"Springwater, TP",40.8
+3543014,"Bradford West Gwillimbury, T",37.3
+3543015,"Severn, TP",44.9
+3543017,"Innisfil, T",40.7
+3543019,"Ramara, TP",47.7
+3543021,"Essa, TP",37
+3543023,"Oro-Medonte, TP",43.7
+3543031,"Collingwood, T",46.3
+3543042,"Barrie, CY",38.9
+3543050,"Mnjikaning First Nation 32, IRI",35.8
+3543052,"Orillia, CY",45.1
+3543064,"Wasaga Beach, T",50
+3543068,"Tiny, TP",48
+3543069,"Christian Island 30, IRI",34
+3543070,"Christian Island 30A, IRI",36
+3543071,"Tay, TP",44.9
+3543072,"Penetanguishene, T",46.1
+3543074,"Midland, T",46.4
+3544002,"Gravenhurst, T",48.6
+3544018,"Bracebridge, T",46.3
+3544027,"Lake of Bays, TP",52
+3544042,"Huntsville, T",44.8
+3544053,"Muskoka Lakes, TP",49.6
+3544065,"Georgian Bay, TP",51
+3544073,"Moose Point 79, IRI",36.9
+3546005,"Highlands East, MU",52.6
+3546015,"Minden Hills, TP",51.4
+3546018,"Algonquin Highlands, TP",54.2
+3546024,"Dysart et al, MU",51.4
+3547002,"Arnprior, T",45.4
+3547003,"McNab/Braeside, TP",43.8
+3547008,"Greater Madawaska, TP",51.6
+3547020,"Brudenell, Lyndoch and Raglan, TP",47.6
+3547030,"Madawaska Valley, TP",50.1
+3547033,"Killaloe, Hagarty and Richards, TP",45.6
+3547035,"Bonnechere Valley, TP",47.6
+3547037,"Pikwakanagan (Golden Lake 39), IRI",39.3
+3547043,"Admaston/Bromley, TP",40.5
+3547046,"Horton, TP",43.8
+3547048,"Renfrew, T",48
+3547056,"Whitewater Region, TP",43.5
+3547064,"Pembroke, CY",45.6
+3547070,"North Algona Wilberforce, TP",46.3
+3547075,"Laurentian Valley, TP",42.5
+3547076,"Petawawa, T",33
+3547090,"Laurentian Hills, T",41.1
+3547096,"Deep River, T",45.1
+3547098,"Head, Clara and Maria, TP",54.3
+3548001,"South Algonquin, TP",51.7
+3548013,"Papineau-Cameron, TP",45.4
+3548019,"Mattawan, TP",48.4
+3548021,"Mattawa, T",47.1
+3548022,"Calvin, MU",42.6
+3548027,"Bonfield, TP",44
+3548031,"Chisholm, TP",41.4
+3548034,"East Ferris, MU",44
+3548044,"North Bay, CY",42.7
+3548055,"West Nipissing / Nipissing Ouest, M",45.5
+3548069,"Temagami, MU",51.1
+3548072,"Bear Island 1, IRI",40
+3548073,"Nipissing 10, IRI",40.4
+3548091,"Nipissing, Unorganized, South Part, NO",45.4
+3548094,"Nipissing, Unorganized, North Part, NO",45.9
+3549003,"Seguin, TP",48.1
+3549005,"The Archipelago, TP",53.8
+3549012,"McMurrich/Monteith, TP",48.4
+3549014,"Perry, TP",45.2
+3549018,"Kearney, T",50.8
+3549019,"Armour, TP",49.2
+3549022,"Burk's Falls, VL",43
+3549024,"Ryerson, TP",50.6
+3549028,"McKellar, TP",53.4
+3549031,"McDougall, MU",45.8
+3549032,"Parry Sound, T",47.2
+3549036,"Carling, TP",50.6
+3549039,"Whitestone, MU",54.8
+3549043,"Magnetawan, MU",52
+3549046,"Strong, TP",47.2
+3549048,"Sundridge, VL",48.4
+3549051,"Joly, TP",48.9
+3549054,"Machar, TP",51.6
+3549056,"South River, VL",43.6
+3549060,"Powassan, MU",46.3
+3549066,"Callander, MU",44.3
+3549071,"Nipissing, TP",46.8
+3549072,"Shawanaga 17, IRI",37.8
+3549073,"Parry Island First Nation, IRI",38
+3549076,"French River 13, IRI",35.3
+3549077,"Dokis 9, IRI",43.4
+3549078,"Magnetewan 1, IRI",31.6
+3549095,"Parry Sound, Unorganized, North East Part, NO",48.7
+3549096,"Parry Sound, Unorganized, Centre Part, NO",56.2
+3551001,"Tehkummah, TP",53.8
+3551006,"Central Manitoulin, MU",51.3
+3551011,"Assiginack, TP",45.6
+3551017,"Northeastern Manitoulin and the Islands, MU",48.8
+3551021,"Billings, TP",51.4
+3551026,"Gore Bay, T",51.4
+3551027,"Gordon/Barrie Island, MU",51.4
+3551028,"Burpee and Mills, TP",50.4
+3551040,"Whitefish River (Part) 4, IRI",37
+3551041,"Sucker Creek 23, IRI",34.7
+3551042,"Sheguiandah 24, IRI",35.1
+3551043,"Wikwemikong Unceded, IRI",35.1
+3551044,"Sheshegwaning 20, IRI",34.8
+3551045,"M'Chigeeng 22 (West Bay 22), IRI",36.6
+3551094,"Manitoulin, Unorganized, West Part, NO",62.4
+3551100,"Zhiibaahaasing 19A (Cockburn Island 19A), IRI",33.2
+3552001,"French River / Rivière des Français, M",49.2
+3552004,"St.-Charles, MU",48.5
+3552013,"Markstay-Warren, MU",42.9
+3552023,"Sables-Spanish Rivers, TP",43.8
+3552026,"Espanola, T",44.7
+3552028,"Baldwin, TP",45.9
+3552031,"Nairn and Hyman, TP",44.9
+3552036,"Killarney, MU",52.2
+3552051,"Whitefish Lake 6, IRI",36.8
+3552052,"Mattagami 71, IRI",34
+3552054,"Duck Lake 76B, IRI",31.7
+3552092,"Chapleau, TP",44
+3552093,"Sudbury, Unorganized, North Part, NO",50.1
+3553005,"Greater Sudbury / Grand Sudbury, CV",42.2
+3553040,"Wahnapitei 11, IRI",38.6
+3554001,"Coleman, TP",47.2
+3554006,"Latchford, T",51.5
+3554008,"Cobalt, T",44.4
+3554014,"Harris, TP",44
+3554020,"Temiskaming Shores, CY",44.5
+3554021,"Hudson, TP",44.5
+3554024,"Kerns, TP",38.4
+3554026,"Harley, TP",40
+3554029,"Casey, TP",38
+3554032,"Brethour, TP",42.8
+3554034,"Hilliard, TP",44.8
+3554036,"Armstrong, TP",40.5
+3554038,"Thornloe, VL",37
+3554042,"James, TP",47.1
+3554044,"Charlton and Dack, MU",37.4
+3554049,"Evanturel, TP",42.5
+3554052,"Englehart, T",45.8
+3554054,"Chamberlain, TP",45.7
+3554056,"Matachewan, TP",49.6
+3554057,"Matachewan 72, IRI",35.5
+3554058,"McGarry, TP",48.3
+3554062,"Larder Lake, TP",46.1
+3554066,"Gauthier, TP",45.8
+3554068,"Kirkland Lake, T",43.8
+3554094,"Timiskaming, Unorganized, West Part, NO",45.5
+3556014,"Black River-Matheson, TP",44.2
+3556027,"Timmins, CY",40.5
+3556031,"Iroquois Falls, T",45.8
+3556033,"Abitibi 70, IRI",31.5
+3556042,"Cochrane, T",41.8
+3556048,"Smooth Rock Falls, T",49.5
+3556052,"Fauquier-Strickland, TP",51.7
+3556056,"Moonbeam, TP",47.5
+3556066,"Kapuskasing, T",44.2
+3556070,"Val Rita-Harty, TP",42.4
+3556073,"Opasatika, TP",47.8
+3556076,"Hearst, T",45
+3556077,"Mattice-Val Côté, TP",45.5
+3556092,"Cochrane, Unorganized, North Part, NO",42.4
+3556093,"Fort Albany (Part) 67, IRI",28.3
+3556094,"Factory Island 1, IRI",31.3
+3556095,"Constance Lake 92, IRI",32.2
+3556102,"New Post 69A, IRI",29
+3556106,"Moosonee, TV",30.2
+3557001,"Jocelyn, TP",56.2
+3557004,"Hilton, TP",51.5
+3557006,"Hilton Beach, VL",48.1
+3557008,"St. Joseph, TP",50.3
+3557011,"Laird, TP",43.7
+3557014,"Tarbutt and Tarbutt Additional, TP",43.1
+3557016,"Johnson, TP",41.5
+3557019,"Plummer Additional, TP",44.8
+3557021,"Bruce Mines, T",50.7
+3557026,"Thessalon 12, IRI",43.2
+3557028,"Thessalon, T",51.4
+3557035,"Huron Shores, MU",48.7
+3557038,"Blind River, T",46.4
+3557039,"Spanish, T",46.6
+3557040,"The North Shore, TP",54.8
+3557041,"Elliot Lake, CY",52.7
+3557051,"Macdonald, Meredith and Aberdeen Additional, TP",42.1
+3557061,"Sault Ste. Marie, CY",44.6
+3557066,"Prince, TP",44.7
+3557071,"Sagamok, IRI",33.5
+3557072,"Serpent River 7, IRI",38.7
+3557073,"Mississagi River 8, IRI",36.2
+3557074,"Garden River 14, IRI",35.7
+3557076,"Wawa, MU",43.6
+3557078,"Gros Cap 49, IRI",39.1
+3557079,"Dubreuilville, TP",40.4
+3557091,"White River, TP",43.8
+3557095,"Algoma, Unorganized, North Part, NO",47
+3557096,"Hornepayne, TP",40.5
+3558001,"Neebing, MU",43.6
+3558003,"Fort William 52, IRI",35.3
+3558004,"Thunder Bay, CY",43.3
+3558011,"Oliver Paipoonge, MU",42.2
+3558012,"Gillies, TP",42
+3558016,"O'Connor, TP",42.8
+3558019,"Conmee, TP",37.8
+3558028,"Shuniah, MU",47.6
+3558034,"Dorion, TP",46.3
+3558041,"Red Rock, TP",44
+3558044,"Nipigon, TP",45
+3558051,"Schreiber, TP",45.5
+3558054,"Terrace Bay, TP",45.2
+3558059,"Marathon, T",42.2
+3558060,"Pic Mobert North, IRI",29.1
+3558062,"Pic River 50, IRI",35
+3558063,"Pays Plat 51, IRI",33
+3558064,"Lake Helen 53A, IRI",34.4
+3558066,"Manitouwadge, TP",45.3
+3558067,"Ginoogaming First Nation, IRI",30.9
+3558068,"Long Lake 58, IRI",27.5
+3558069,"Rocky Bay 1, IRI",33.9
+3558075,"Greenstone, MU",42.5
+3558076,"Aroland 83, IRI",27.8
+3558080,"Ojibway Nation of Saugeen (Savant Lake), IRI",28.6
+3558085,"Osnaburgh 63A, IRI",24.2
+3558090,"Thunder Bay, Unorganized, NO",45.9
+3559001,"Atikokan, T",46.2
+3559011,"Alberton, TP",39.6
+3559012,"Fort Frances, T",43.3
+3559016,"La Vallee, TP",41
+3559019,"Emo, TP",40.3
+3559024,"Chapple, TP",39.4
+3559026,"Manitou Rapids 11, IRI",32.9
+3559031,"Morley, TP",40.5
+3559040,"Dawson, TP",48.1
+3559042,"Rainy River, T",48.2
+3559047,"Lake of the Woods, TP",53
+3559051,"Big Grassy River 35G, IRI",30.1
+3559053,"Saug-a-Gaw-Sing 1, IRI",33.6
+3559060,"Neguaguon Lake 25D, IRI",31.3
+3559061,"Rainy Lake 18C, IRI",27.4
+3559063,"Couchiching 16A, IRI",32.6
+3559064,"Rainy Lake 26A, IRI",29.6
+3559066,"Seine River 23A, IRI",32.8
+3559068,"Rainy Lake 17A, IRI",27.1
+3559090,"Rainy River, Unorganized, NO",49.4
+3560001,"Ignace, TP",46.8
+3560004,"Whitefish Bay 32A, IRI",29.9
+3560005,"Whitefish Bay 33A, IRI",28.2
+3560008,"Sioux Narrows-Nestor Falls, TP",52.3
+3560010,"Kenora, CY",43
+3560021,"Machin, MU",45.8
+3560024,"Eagle Lake 27, IRI",36.9
+3560027,"Dryden, CY",43.7
+3560032,"Ear Falls, TP",40.2
+3560034,"Sioux Lookout, MU",37.1
+3560042,"Red Lake, MU",38.9
+3560046,"Slate Falls, S-É",27.7
+3560049,"Pickle Lake, TP",34.8
+3560050,"Fort Albany (Part) 67, IRI",24.7
+3560051,"Attawapiskat 91A, IRI",27.5
+3560052,"Marten Falls 65, IRI",25.4
+3560053,"Fort Hope 64, IRI",25.3
+3560054,"Cat Lake 63C, IRI",26.1
+3560055,"Osnaburgh 63B, IRI",25
+3560056,"Lac Seul 28, IRI",29.2
+3560057,"Wabigoon Lake 27, IRI",37.1
+3560058,"English River 21, IRI",29.7
+3560059,"Weagamow Lake 87, IRI",28.6
+3560061,"Wabaseemoong, IRI",29.1
+3560063,"Sabaskong Bay 35D, IRI",30.6
+3560064,"Shoal Lake 34B2, IRI",30.8
+3560065,"Lake Of The Woods 37, IRI",27.8
+3560066,"Kenora 38B, IRI",30
+3560067,"Poplar Hill, IRI",23.9
+3560068,"Shoal Lake (Part) 39A, IRI",31.3
+3560069,"Rat Portage 38A, IRI",32.4
+3560070,"Deer Lake, IRI",25.8
+3560071,"Sandy Lake 88, IRI",26.5
+3560075,"Kitchenuhmaykoosib Aaki 84 (Big Trout Lake), IRI",27.5
+3560076,"Sachigo Lake 1, IRI",24.8
+3560078,"Fort Severn 89, IRI",29.2
+3560079,"Webequie, IRI",28.4
+3560080,"North Spirit Lake, IRI",27.8
+3560082,"Shoal Lake (Part) 40, IRI",30.4
+3560083,"Whitefish Bay 34A, IRI",25.7
+3560084,"Wabauskang 21, IRI",34.8
+3560085,"Wunnumin 1, IRI",26.9
+3560086,"Summer Beaver, S-É",28.1
+3560088,"Wapekeka 2, IRI",24
+3560089,"The Dalles 38C, IRI",30
+3560090,"Kenora, Unorganized, NO",46.8
+3560091,"Peawanuck, S-É",35.3
+3560093,"Neskantaga, IRI",30.9
+3560095,"Bearskin Lake, IRI",29.8
+3560096,"Kasabonika Lake, IRI",27.4
+3560097,"Muskrat Dam Lake, IRI",28.5
+3560098,"Kingfisher Lake 1, IRI",29.1
+3560104,"Kee-Way-Win, IRI",25.1
+4601035,"Stuartburn, RM",42
+4601039,"Piney, RM",46.1
+4601043,"Reynolds, RM",43.1
+4601046,"Whitemouth, RM",43.8
+4601051,"Pinawa, LGD",53.3
+4601057,"Lac du Bonnet, RM",48.6
+4601060,"Lac du Bonnet, T",49.5
+4601071,"Alexander, RM",50.5
+4601075,"Powerview-Pine Falls, T",40
+4601078,"Victoria Beach, RM",61.7
+4601094,"Division No. 1, Unorganized, NO",55.8
+4602024,"Emerson-Franklin, MU",40.5
+4602026,"Roseau Rapids 2A, IRI",26.9
+4602027,"Roseau River 2, IRI",26.1
+4602032,"De Salaberry, RM",37.2
+4602037,"St-Pierre-Jolys, VL",38.9
+4602041,"Hanover, RM",31
+4602044,"Steinbach, CY",37.5
+4602046,"Niverville, T",32.1
+4602053,"La Broquerie, RM",31
+4602057,"Ste. Anne, RM",38.9
+4602061,"Ste. Anne, T",38.5
+4602069,"Taché, RM",34.4
+4602075,"Ritchot, RM",36.9
+4603030,"Montcalm, RM",40.3
+4603040,"Altona, T",41.6
+4603041,"Rhineland, MU",30.1
+4603047,"Stanley, RM",28.4
+4603050,"Winkler, CY",36.1
+4603053,"Morden, CY",39.8
+4603058,"Thompson, RM",36.8
+4603062,"Roland, RM",34.8
+4603065,"Morris, RM",35.5
+4603067,"Morris, T",40.4
+4603072,"Dufferin, RM",35
+4603074,"Carman, T",46.4
+4604034,"Pembina, MU",41.4
+4604040,"Louise, MU",44.4
+4604052,"Cartwright-Roblin, MU",38.3
+4604057,"Argyle, RM",45.2
+4604064,"Lorne, MU",41.3
+4604068,"Swan Lake 7, IRI",31.4
+4605025,"Killarney - Turtle Mountain, RM",44.3
+4605032,"Boissevain-Morton, MU",43.8
+4605038,"Deloraine-Winchester, MU",46.6
+4605044,"Brenda-Waskada, MU",41.8
+4605052,"Melita, T",43.7
+4605056,"Two Borders, MU",42.4
+4605062,"Grassland, MU",39.8
+4605071,"Prairie Lakes, RM",46.7
+4606016,"Sifton, RM",41.7
+4606023,"Pipestone, RM",43.6
+4606029,"Canupawakpa Dakota First Nation (Oak Lake 59), IRI",31.8
+4606031,"Wallace-Woodworth, RM",39
+4606034,"Virden, T",42.6
+4606040,"Sioux Valley Dakota Nation, IRI",30
+4607039,"Glenboro-South Cypress, MU",40.2
+4607046,"Oakland-Wawanesa, MU",39.5
+4607052,"Souris-Glenwood, MU",42.6
+4607057,"Whitehead, RM",38.5
+4607060,"Cornwallis, RM",34.8
+4607062,"Brandon, CY",38.6
+4607066,"North Cypress-Langford, MU",39.6
+4607068,"Carberry, T",43.4
+4607071,"Elton, RM",38.5
+4607076,"Riverdale, MU",39.9
+4608032,"Norfolk-Treherne, MU",42
+4608042,"Victoria, RM",45.3
+4608046,"North Norfolk, MU",38.1
+4608055,"Glenella-Lansdowne, MU",41.2
+4608060,"WestLake-Gladstone, MU",41.7
+4608069,"Sandy Bay 5, IRI",26
+4609018,"Grey, RM",39.8
+4609024,"Portage la Prairie, RM",38.1
+4609025,"Long Plain (Part) 6, IRI",26.4
+4609026,"Dakota Plains 6A, IRI",33.6
+4609027,"Dakota Tipi 1, IRI",29.1
+4609029,"Portage la Prairie, CY",40.6
+4610035,"Macdonald, RM",37.3
+4610043,"Cartier, RM",35.4
+4610052,"St. François Xavier, RM",38.6
+4611040,"Winnipeg, CY",39.9
+4611042,"Headingley, RM",39.3
+4612047,"Springfield, RM",39.9
+4612054,"Brokenhead, RM",39.6
+4612056,"Beausejour, T",45.6
+4613032,"East St. Paul, RM",42.2
+4613037,"West St. Paul, RM",42.3
+4613043,"St. Andrews, RM",42
+4613047,"Selkirk, CY",43.8
+4613049,"Dunnottar, VL",52.8
+4613056,"St. Clements, RM",42.4
+4613062,"Brokenhead 4, IRI",32.6
+4614015,"Rosser, RM",40.1
+4614031,"Woodlands, RM",38.7
+4614036,"Rockwood, RM",39.6
+4614039,"Stonewall, T",40.5
+4614042,"Teulon, T",46.3
+4615020,"Neepawa, T",41.2
+4615032,"Oakview, RM",40.6
+4615037,"Hamiota, MU",45.5
+4615042,"Birdtail Creek 57, IRI",24.6
+4615047,"Ellice-Archie, RM",40.7
+4615056,"Prairie View, MU",43.4
+4615063,"Yellowhead, RM",49
+4615067,"Keeseekoowenin 61, IRI",32.9
+4615070,"Harrison Park, MU",52.8
+4615071,"Rolling River 67, IRI",32
+4615072,"Rolling River 67B, IRI",19.8
+4615074,"Minto-Odanah, MU",39.9
+4615075,"Minnedosa, T",45.4
+4615078,"Rosedale, RM",38.6
+4615092,"Clanwilliam-Erickson, MU",49.1
+4616005,"Rossburn, MU",47.8
+4616017,"Waywayseecappo First Nation, IRI",26.4
+4616020,"Riding Mountain West, RM",44.4
+4616025,"Gambler 63 (Part), IRI",31.7
+4616030,"Russell-Binscarth, MU",44.9
+4616046,"Valley River 63A, IRI",28.3
+4616048,"Hillsburg-Roblin-Shell River, MU",45.8
+4617026,"Alonsa, RM",41.9
+4617029,"Ebb and Flow 52, IRI",26.6
+4617035,"McCreary, MU",48.2
+4617041,"Ste. Rose, MU",47.8
+4617048,"Dauphin, RM",43.2
+4617050,"Dauphin, CY",44.3
+4617054,"Gilbert Plains, MU",45.2
+4617058,"Grandview, MU",48.4
+4617064,"Ethelbert, MU",48.2
+4617072,"Mossey River, RM",46.2
+4617075,"Lakeshore, RM",46.7
+4617092,"Division No. 17, Unorganized, NO",52.7
+4618031,"Gimli, RM",51.4
+4618034,"Winnipeg Beach, T",53.8
+4618037,"Armstrong, RM",43.4
+4618040,"St. Laurent, RM",44.7
+4618044,"Coldwell, RM",44
+4618055,"Dog Creek 46, IRI",27.7
+4618056,"West Interlake, MU",44.8
+4618060,"Grahamdale, RM",45.9
+4618063,"Little Saskatchewan 48, IRI",28.6
+4618067,"Fairford (Part) 50, IRI",27.9
+4618068,"Fisher, RM",42.3
+4618074,"Arborg, T",43
+4618076,"Bifrost-Riverton, MU",38.5
+4618091,"Division No. 18, Unorganized, East Part, NO",55.8
+4619045,"Division No. 19, Unorganized, NO",39.2
+4619050,"Fort Alexander 3, IRI",30.6
+4619051,"Little Grand Rapids 14, IRI",27.6
+4619052,"Bloodvein 12, IRI",25.9
+4619053,"Hole or Hollow Water 10, IRI",29.6
+4619054,"Black River 9, IRI",24.3
+4619056,"Fisher River 44, IRI",32
+4619058,"Fisher River 44A, IRI",23.6
+4619059,"Peguis 1B, IRI",32.5
+4619061,"Jackhead 43, IRI",32.8
+4619068,"Crane River 51, IRI",27.7
+4619069,"Waterhen 45, IRI",32.3
+4619070,"Pine Creek 66A, IRI",29.5
+4619072,"Shoal River Indian Reserve 65A, IRI",25.1
+4619075,"Poplar River 16, IRI",26.5
+4619077,"Berens River 13, IRI",26.5
+4619079,"Pauingassi First Nation, IRI",29.1
+4620032,"Mountain (South), RM",45.3
+4620042,"Swan Valley West, MU",42.7
+4620048,"Swan River, T",44.8
+4620051,"Minitonas-Bowsman, MU",43.2
+4620055,"Mountain (North), RM",43.8
+4620066,"Division No. 20, Unorganized, South Part, NO",56.9
+4620069,"Division No. 20, Unorganized, North Part, NO",42.9
+4621025,"Grand Rapids, T",32.2
+4621027,"Grand Rapids 33, IRI",28.1
+4621029,"Chemawawin 2, IRI",24.1
+4621033,"Opaskwayak Cree Nation 21A, IRI",34.2
+4621040,"Opaskwayak Cree Nation 21I, IRI",36.3
+4621043,"Opaskwayak Cree Nation 21E, IRI",28.5
+4621045,"The Pas, T",37.3
+4621052,"Kelsey, RM",38.1
+4621058,"Moose Lake 31A, IRI",24.8
+4621064,"Flin Flon (Part), CY",41.5
+4621071,"Snow Lake, T",42.5
+4621078,"Division No. 21, Unorganized, NO",44.8
+4622026,"Thompson, CY",32.1
+4622046,"Division No. 22, Unorganized, NO",33.8
+4622048,"Garden Hill First Nation, IRI",24.9
+4622049,"God's Lake 23, IRI",27.8
+4622050,"Oxford House 24, IRI",26.8
+4622051,"Cross Lake 19, IRI",29.1
+4622052,"Cross Lake 19A, IRI",25.1
+4622055,"God's River 86A, IRI",23.4
+4622056,"Red Sucker Lake 1976, IRI",25.6
+4622058,"Norway House 17, IRI",27.6
+4622059,"Nelson House 170, IRI",26.8
+4622063,"Split Lake (Part) 171, IRI",25.4
+4622064,"Ilford, S-É",31.8
+4622065,"York Landing, IRI",27.8
+4622067,"Cross Lake 19E, IRI",26.1
+4622800,"Wasagamack, IRI",24.4
+4622801,"St. Theresa Point, IRI",24.5
+4623022,"Gillam, T",30.4
+4623027,"Fox Lake 2, IRI",31
+4623034,"Leaf Rapids, T",30.5
+4623037,"South Indian Lake, S-É",26.7
+4623047,"Lynn Lake, T",35.8
+4623056,"Churchill, T",36.3
+4623058,"Churchill 1, IRI",31.8
+4623062,"Division No. 23, Unorganized, NO",28
+4623064,"Pukatawagan 198, IRI",24.4
+4623065,"Brochet 197, IRI",27.1
+4623067,"Lac Brochet 197A, IRI",28.7
+4623071,"Shamattawa 1, IRI",24.2
+4701001,"Argyle No. 1, RM",36.8
+4701002,"Gainsborough, VL",44
+4701004,"Carievale, VL",36.4
+4701006,"Mount Pleasant No. 2, RM",37.2
+4701008,"Carnduff, T",41.9
+4701011,"Enniskillen No. 3, RM",42.2
+4701012,"Glen Ewen, VL",38.9
+4701014,"Oxbow, T",37.6
+4701016,"Coalfields No. 4, RM",40.5
+4701017,"Frobisher, VL",36.5
+4701018,"North Portal, VL",41.9
+4701019,"Roche Percée, VL",37.6
+4701021,"Bienfait, T",36.3
+4701022,"Estevan No. 5, RM",38
+4701024,"Estevan, CY",38.3
+4701027,"Benson No. 35, RM",38.3
+4701031,"Browning No. 34, RM",38.8
+4701032,"Lampman, T",39.2
+4701036,"Moose Creek No. 33, RM",39.9
+4701037,"Alameda, T",40.2
+4701039,"Reciprocity No. 32, RM",40
+4701041,"Alida, VL",45
+4701043,"Storthoaks No. 31, RM",38.8
+4701044,"Storthoaks, VL",32.6
+4701047,"Antler No. 61, RM",41.4
+4701049,"Redvers, T",40.9
+4701053,"Moose Mountain No. 63, RM",40.2
+4701054,"Manor, VL",37.9
+4701056,"Carlyle, T",38
+4701058,"Brock No. 64, RM",41
+4701059,"Arcola, T",36.2
+4701061,"Kisbey, VL",46.8
+4701063,"Tecumseh No. 65, RM",43.2
+4701064,"Forget, VL",38.6
+4701066,"Stoughton, T",46.5
+4701067,"Heward, VL",34.2
+4701069,"Golden West No. 95, RM",43.6
+4701072,"Hazelwood No. 94, RM",44.6
+4701076,"Wawken No. 93, RM",47.8
+4701077,"Kennedy, VL",43.5
+4701078,"Wawota, T",46.8
+4701079,"Kenosee Lake, VL",44.2
+4701091,"Walpole No. 92, RM",39.5
+4701094,"Maryfield No. 91, RM",40.8
+4701096,"Maryfield, VL",41.3
+4701098,"Fairlight, VL",46.2
+4701808,"White Bear 70, IRI",34.6
+4701809,"Ocean Man 69, IRI",26
+4701819,"Pheasant Rump Nakota 68, IRI",31.4
+4702001,"Cambria No. 6, RM",38.3
+4702002,"Torquay, VL",33.4
+4702006,"Souris Valley No. 7, RM",43.4
+4702008,"Tribune, VL",42.4
+4702011,"Lake Alma No. 8, RM",41.4
+4702014,"Surprise Valley No. 9, RM",40.2
+4702016,"Minton, VL",43.5
+4702018,"Happy Valley No. 10, RM",41.8
+4702023,"Bengough, T",52.9
+4702024,"Bengough No. 40, RM",47.9
+4702026,"The Gap No. 39, RM",44.7
+4702028,"Ceylon, VL",41.9
+4702029,"Laurier No. 38, RM",37.4
+4702031,"Radville, T",42.7
+4702033,"Lomond No. 37, RM",39.6
+4702037,"Cymri No. 36, RM",39.2
+4702038,"Halbrite, VL",37.9
+4702039,"Midale, T",36.8
+4702041,"Macoun, VL",34.7
+4702042,"Griffin No. 66, RM",36.1
+4702044,"Weyburn No. 67, RM",36.5
+4702047,"Weyburn, CY",40.7
+4702048,"McTaggart, VL",38.3
+4702051,"Brokenshell No. 68, RM",40.9
+4702052,"Norton No. 69, RM",46
+4702054,"Pangman, VL",45.5
+4702057,"Key West No. 70, RM",46.7
+4702058,"Ogema, T",41.8
+4702061,"Elmsthorpe No. 100, RM",46.1
+4702062,"Avonlea, VL",45.8
+4702066,"Caledonia No. 99, RM",42
+4702067,"Milestone, T",37.9
+4702069,"Scott No. 98, RM",39
+4702071,"Lang, VL",39.4
+4702072,"Yellow Grass, T",33.1
+4702073,"Wellington No. 97, RM",40.1
+4702076,"Fillmore No. 96, RM",47.2
+4702078,"Fillmore, VL",43.8
+4702079,"Creelman, VL",42.7
+4703001,"Hart Butte No. 11, RM",38
+4703004,"Coronach, T",43
+4703006,"Poplar Valley No. 12, RM",42.6
+4703009,"Rockglen, T",47.8
+4703011,"Old Post No. 43, RM",41.6
+4703016,"Glen McPherson No. 46, RM",47.9
+4703018,"Mankota No. 45, RM",48.6
+4703019,"Mankota, VL",54.9
+4703022,"Waverley No. 44, RM",43.4
+4703026,"Willow Bunch No. 42, RM",49.2
+4703028,"Willow Bunch, T",50.5
+4703029,"Excel No. 71, RM",41.1
+4703034,"Lake of the Rivers No. 72, RM",44.4
+4703036,"Assiniboia, T",48.5
+4703038,"Stonehenge No. 73, RM",46.2
+4703041,"Limerick, VL",49.1
+4703042,"Wood River No. 74, RM",44.2
+4703044,"Lafleche, T",47.5
+4703048,"Pinto Creek No. 75, RM",35.3
+4703051,"Kincaid, VL",43.4
+4703052,"Hazenmore, VL",37.7
+4703054,"Auvergne No. 76, RM",38.2
+4703058,"Ponteix, T",47.1
+4703059,"Whiska Creek No. 106, RM",33.2
+4703061,"Neville, VL",36.9
+4703062,"Vanguard, VL",46.1
+4703064,"Glen Bain No. 105, RM",47.8
+4703068,"Gravelbourg No. 104, RM",42.3
+4703071,"Gravelbourg, T",45.7
+4703074,"Sutton No. 103, RM",41.7
+4703092,"Mossbank, T",45.2
+4703093,"Lake Johnston No. 102, RM",40.8
+4703096,"Terrell No. 101, RM",42.3
+4704002,"Val Marie, VL",44.2
+4704003,"Val Marie No. 17, RM",37.8
+4704006,"Lone Tree No. 18, RM",40.2
+4704009,"Climax, VL",41.4
+4704011,"Frontier No. 19, RM",37.3
+4704012,"Frontier, VL",38.6
+4704019,"Reno No. 51, RM",43.1
+4704021,"Consul, VL",45.6
+4704024,"White Valley No. 49, RM",39.7
+4704026,"Eastend, T",50.6
+4704028,"Wise Creek No. 77, RM",46.6
+4704029,"Cadillac, VL",46.3
+4704034,"Grassy Creek No. 78, RM",40.7
+4704036,"Shaunavon, T",43
+4704038,"Arlington No. 79, RM",37.3
+4704045,"Maple Creek No. 111, RM",39.8
+4704048,"Maple Creek, T",44.7
+4704050,"Piapot No. 110, RM",45.4
+4704054,"Carmichael No. 109, RM",37.2
+4704056,"Carmichael, VL",41.2
+4704058,"Bone Creek No. 108, RM",38
+4704061,"Lac Pelletier No. 107, RM",41.5
+4704802,"Nekaneet Cree Nation, IRI",30
+4705001,"Moosomin No. 121, RM",40.7
+4705002,"Fleming, T",37.5
+4705004,"Moosomin, T",42.2
+4705006,"Welwyn, VL",45.6
+4705007,"Martin No. 122, RM",43.6
+4705009,"Wapella, T",37.7
+4705011,"Silverwood No. 123, RM",42.3
+4705014,"Kingsley No. 124, RM",42.9
+4705016,"Kipling, T",43.9
+4705018,"Chester No. 125, RM",40.6
+4705019,"Windthorst, VL",50.2
+4705021,"Glenavon, VL",48.1
+4705024,"Wolseley, T",48.7
+4705027,"Wolseley No. 155, RM",42.1
+4705028,"Elcapo No. 154, RM",42.7
+4705029,"Grenfell, T",46.8
+4705031,"Broadview, T",51.7
+4705033,"Willowdale No. 153, RM",44.8
+4705034,"Whitewood, T",45.5
+4705037,"Rocanville No. 151, RM",39.1
+4705038,"Rocanville, T",38
+4705041,"Spy Hill No. 152, RM",40.4
+4705042,"Tantallon, VL",51.2
+4705043,"Spy Hill, VL",50.5
+4705044,"Gerald, VL",37.4
+4705047,"Langenburg No. 181, RM",40.6
+4705048,"Langenburg, T",42.2
+4705049,"Yarbo, VL",41
+4705051,"Fertile Belt No. 183, RM",43.6
+4705052,"Esterhazy, T",43.3
+4705055,"Bird's Point, RV",50.3
+4705056,"Stockholm, VL",44.9
+4705057,"Grayson No. 184, RM",46.7
+4705058,"Dubuc, VL",52.7
+4705059,"Grayson, VL",47.1
+4705062,"Killaly, VL",36
+4705063,"McLeod No. 185, RM",44.7
+4705064,"Neudorf, VL",49.7
+4705066,"Lemberg, T",46
+4705067,"Stanley No. 215, RM",44.5
+4705069,"Goodeve, VL",58.2
+4705073,"Cana No. 214, RM",41.1
+4705074,"Melville, CY",45.2
+4705077,"Saltcoats No. 213, RM",38.9
+4705078,"Saltcoats, T",44.2
+4705079,"Bredenbury, T",38.9
+4705093,"Churchbridge No. 211, RM",42.3
+4705094,"Churchbridge, T",40.3
+4705096,"MacNutt, VL",43.7
+4705803,"Cowessess 73, IRI",33.3
+4705804,"Kahkewistahaw 72, IRI",28.4
+4705805,"Sakimay 74, IRI",28.4
+4705806,"Ochapowace 71, IRI",28.5
+4705807,"Shesheep 74A, IRI",63.3
+4706001,"Montmartre No. 126, RM",38.9
+4706002,"Montmartre, VL",46.4
+4706003,"Kendal, VL",37.5
+4706004,"Francis No. 127, RM",38.6
+4706006,"Odessa, VL",40.4
+4706007,"Vibank, VL",39.1
+4706008,"Sedley, VL",34.1
+4706009,"Francis, T",38.5
+4706011,"Lajord No. 128, RM",38.9
+4706013,"Bratt's Lake No. 129, RM",43
+4706014,"Wilcox, VL",34.2
+4706016,"Redburn No. 130, RM",40.7
+4706017,"Rouleau, T",37.6
+4706018,"Briercrest, VL",39
+4706019,"Drinkwater, VL",39.2
+4706021,"Pense No. 160, RM",38.7
+4706022,"Belle Plaine, VL",38.3
+4706023,"Pense, T",33.9
+4706026,"Sherwood No. 159, RM",41.3
+4706027,"Regina, CY",38.4
+4706028,"Grand Coulee, VL",32
+4706029,"Edenwold No. 158, RM",37.6
+4706030,"White City, T",33
+4706031,"Pilot Butte, T",36.6
+4706032,"Balgonie, T",34.2
+4706033,"Edenwold, VL",34.1
+4706034,"South Qu'Appelle No. 157, RM",40.8
+4706036,"Qu'Appelle, T",40.4
+4706037,"McLean, VL",31.1
+4706038,"Indian Head No. 156, RM",42.8
+4706039,"Indian Head, T",43.5
+4706041,"Sintaluta, T",41.6
+4706042,"Abernethy No. 186, RM",44.1
+4706045,"Fort San, RV",47
+4706046,"Abernethy, VL",39.6
+4706047,"Balcarres, T",48.1
+4706048,"North Qu'Appelle No. 187, RM",46.9
+4706049,"Lebret, VL",40
+4706050,"Katepwa, RV",58.8
+4706051,"Fort Qu'Appelle, T",46.3
+4706052,"B-Say-Tah, RV",56.1
+4706053,"Lumsden No. 189, RM",41.8
+4706054,"Disley, VL",39
+4706055,"Buena Vista, VL",44.2
+4706056,"Lumsden, T",40.8
+4706058,"Regina Beach, T",46
+4706059,"Dufferin No. 190, RM",41
+4706060,"Wee Too Beach, RV",52.4
+4706061,"Bethune, VL",39.4
+4706062,"Findlater, VL",48.1
+4706063,"Sarnia No. 221, RM",41.8
+4706064,"Chamberlain, VL",41.9
+4706065,"Alice Beach, RV",59.4
+4706067,"Holdfast, VL",41.7
+4706068,"Dilke, VL",54.3
+4706070,"Longlaketon No. 219, RM",40.2
+4706071,"McKillop No. 220, RM",49.6
+4706072,"Saskatchewan Beach, RV",46.7
+4706073,"Bulyea, VL",43.9
+4706074,"Strasbourg, T",48.5
+4706075,"Kannata Valley, RV",58.9
+4706077,"Silton, VL",49.4
+4706078,"Craven, VL",41
+4706079,"Earl Grey, VL",47.3
+4706080,"Glen Harbour, RV",54.7
+4706081,"North Grove, RV",51
+4706085,"Island View, RV",55
+4706091,"Cupar No. 218, RM",41.7
+4706092,"Southey, T",38.2
+4706093,"Markinch, VL",43
+4706094,"Cupar, T",46.5
+4706096,"Lipton No. 217, RM",43.8
+4706097,"Dysart, VL",50.9
+4706098,"Lipton, VL",42.8
+4706099,"Tullymet No. 216, RM",47.5
+4706809,"Piapot 75, IRI",29.6
+4706810,"Assiniboine 76, IRI",36.4
+4706811,"Standing Buffalo 78, IRI",31.3
+4706812,"Pasqua 79, IRI",30
+4706813,"Muscowpetung 80, IRI",30.7
+4706814,"Little Black Bear 84, IRI",29.1
+4706815,"Okanese 82, IRI",29.1
+4706816,"Peepeekisis 81, IRI",30.3
+4706818,"Star Blanket 83, IRI",32.1
+4706820,"Wa-Pii Moos-Toosis (White Calf) 83A, IRI",33
+4707001,"Baildon No. 131, RM",39.5
+4707004,"Hillsborough No. 132, RM",45.8
+4707006,"Rodgers No. 133, RM",44.8
+4707011,"Shamrock No. 134, RM",46.8
+4707014,"Lawtonia No. 135, RM",40.4
+4707016,"Hodgeville, VL",44
+4707018,"Coulee No. 136, RM",37.1
+4707020,"Beaver Flat, RV",54.6
+4707021,"Excelsior No. 166, RM",38.7
+4707022,"Waldeck, VL",39
+4707023,"Rush Lake, VL",40.1
+4707024,"Morse No. 165, RM",41.1
+4707026,"Herbert, T",46.8
+4707027,"Morse, T",50.8
+4707029,"Chaplin No. 164, RM",42.6
+4707031,"Chaplin, VL",44.5
+4707032,"Wheatlands No. 163, RM",47.3
+4707034,"Mortlach, VL",42.7
+4707036,"Caron No. 162, RM",40.6
+4707037,"Caronport, VL",32
+4707038,"Moose Jaw No. 161, RM",38.8
+4707039,"Moose Jaw, CY",41.8
+4707042,"Marquis No. 191, RM",44.5
+4707043,"Tuxford, VL",40.3
+4707044,"Marquis, VL",40.3
+4707045,"Sun Valley, RV",50.2
+4707047,"Eyebrow No. 193, RM",44.3
+4707048,"Brownlee, VL",51.5
+4707049,"Eyebrow, VL",52
+4707051,"South Lake, RV",52.1
+4707053,"Enfield No. 194, RM",43.2
+4707054,"Central Butte, T",55
+4707058,"Canaan No. 225, RM",43
+4707059,"Lucky Lake, VL",46.8
+4707062,"Beechy, VL",48.1
+4707063,"Victory No. 226, RM",42.5
+4707066,"King George No. 256, RM",43.4
+4707067,"Coteau No. 255, RM",43.6
+4707068,"Coteau Beach, RV",58
+4707071,"Maple Bush No. 224, RM",45.8
+4707072,"Riverhurst, VL",53.7
+4707074,"Mistusinne, RV",59
+4707076,"Huron No. 223, RM",43.7
+4707077,"Tugaske, VL",52
+4707091,"Craik No. 222, RM",47.3
+4707092,"Craik, T",49
+4707093,"Aylesbury, VL",49.9
+4708001,"Swift Current No. 137, RM",39.3
+4708004,"Swift Current, CY",42.3
+4708006,"Webb No. 138, RM",41.7
+4708008,"Webb, VL",47.2
+4708009,"Gull Lake No. 139, RM",43.1
+4708011,"Gull Lake, T",44.9
+4708012,"Tompkins, VL",54.1
+4708016,"Big Stick No. 141, RM",43.1
+4708021,"Enterprise No. 142, RM",43.7
+4708022,"Richmound, VL",42.5
+4708024,"Fox Valley No. 171, RM",36.3
+4708026,"Fox Valley, VL",39.8
+4708028,"Pittville No. 169, RM",41.9
+4708029,"Hazlet, VL",38.4
+4708031,"Riverside No. 168, RM",44.2
+4708032,"Cabri, T",50.5
+4708034,"Pennant, VL",41.2
+4708036,"Success, VL",38.4
+4708038,"Saskatchewan Landing No. 167, RM",42.2
+4708039,"Stewart Valley, VL",43.8
+4708042,"Lacadena No. 228, RM",48.2
+4708044,"Kyle, T",50.5
+4708046,"Miry Creek No. 229, RM",42.3
+4708048,"Abbey, VL",47.3
+4708049,"Lancer, VL",43.7
+4708053,"Clinworth No. 230, RM",45.9
+4708054,"Sceptre, VL",47.7
+4708056,"Happyland No. 231, RM",44.6
+4708057,"Prelate, VL",37.7
+4708058,"Leader, T",43.9
+4708061,"Deer Forks No. 232, RM",44.7
+4708062,"Burstall, T",40.7
+4708065,"Chesterfield No. 261, RM",40.4
+4708068,"Eatonia, T",42.9
+4708071,"Newcombe No. 260, RM",37.7
+4708074,"Snipe Lake No. 259, RM",45.2
+4708076,"Eston, T",43
+4708092,"Monet No. 257, RM",39.5
+4708094,"Elrose, T",47.9
+4709001,"Calder No. 241, RM",46.8
+4709002,"Calder, VL",50.5
+4709006,"Wallace No. 243, RM",41.8
+4709009,"Rhein, VL",36.4
+4709011,"Orkney No. 244, RM",40.8
+4709012,"Yorkton, CY",42
+4709014,"Ebenezer, VL",37.5
+4709016,"Springside, T",39.9
+4709019,"Garry No. 245, RM",41.7
+4709023,"Insinger No. 275, RM",49.2
+4709024,"Sheho, VL",50.2
+4709028,"Theodore, VL",53.5
+4709029,"Good Lake No. 274, RM",50.4
+4709032,"Canora, T",49
+4709033,"Sliding Hills No. 273, RM",48.5
+4709037,"Cote No. 271, RM",49.5
+4709038,"Togo, VL",49.6
+4709039,"Kamsack, T",45
+4709042,"St. Philips No. 301, RM",50.2
+4709044,"Pelly, VL",45.7
+4709046,"Keys No. 303, RM",44.9
+4709049,"Buchanan No. 304, RM",50.7
+4709053,"Buchanan, VL",48.7
+4709054,"Invermay No. 305, RM",45
+4709056,"Rama, VL",47.7
+4709058,"Invermay, VL",46.6
+4709060,"Hazel Dell No. 335, RM",47
+4709061,"Lintlaw, VL",42.7
+4709062,"Preeceville No. 334, RM",43.2
+4709064,"Preeceville, T",49.5
+4709065,"Endeavour, VL",49.6
+4709066,"Sturgis, T",43.4
+4709067,"Clayton No. 333, RM",44.7
+4709069,"Stenen, VL",45.1
+4709071,"Hyas, VL",54.2
+4709072,"Norquay, T",51.2
+4709075,"Livingston No. 331, RM",45.4
+4709819,"Cote 64, IRI",28
+4709820,"Keeseekoose 66, IRI",27
+4709821,"The Key 65, IRI",27.8
+4710003,"Ituna Bon Accord No. 246, RM",45.1
+4710004,"Ituna, T",48.3
+4710008,"Kellross No. 247, RM",48.5
+4710009,"Kelliher, VL",50.6
+4710011,"Leross, VL",46.5
+4710012,"Lestock, VL",50.4
+4710014,"Touchwood No. 248, RM",39.4
+4710022,"Semans, VL",49.8
+4710024,"Mount Hope No. 279, RM",44
+4710027,"Raymore, T",46.5
+4710028,"Quinton, VL",36.3
+4710029,"Punnichy, VL",37.9
+4710031,"Emerald No. 277, RM",52
+4710036,"Foam Lake No. 276, RM",48.5
+4710038,"Foam Lake, T",47.9
+4710041,"Elfros No. 307, RM",45.5
+4710043,"Elfros, VL",49.2
+4710046,"Big Quill No. 308, RM",46.2
+4710047,"Wynyard, T",45.2
+4710052,"Prairie Rose No. 309, RM",43.1
+4710054,"Jansen, VL",55.8
+4710056,"Leroy No. 339, RM",41.1
+4710058,"Leroy, T",41.2
+4710061,"Lakeside No. 338, RM",40.8
+4710062,"Watson, T",47.4
+4710064,"Quill Lake, VL",49.1
+4710066,"Lakeview No. 337, RM",42.3
+4710068,"Wadena, T",49.1
+4710071,"Sasman No. 336, RM",45.8
+4710072,"Margo, VL",45.6
+4710822,"Muskowekwan 85, IRI",28.6
+4710823,"Gordon 86, IRI",27.3
+4710824,"Day Star 87, IRI",30
+4710825,"Poorman 88, IRI",26.4
+4710826,"Fishing Lake 89, IRI",28.7
+4711002,"Duval, VL",47.1
+4711003,"Last Mountain Valley No. 250, RM",48.3
+4711004,"Govan, T",48.9
+4711006,"Big Arm No. 251, RM",46.4
+4711008,"Imperial, T",49
+4711009,"Liberty, VL",45.5
+4711011,"Arm River No. 252, RM",40.7
+4711014,"Davidson, T",43.8
+4711016,"Willner No. 253, RM",42.4
+4711018,"Loreburn No. 254, RM",44.5
+4711019,"Elbow, VL",50.4
+4711021,"Loreburn, VL",47.8
+4711022,"Strongfield, VL",44.8
+4711024,"Hawarden, VL",51.6
+4711026,"Rudy No. 284, RM",37.3
+4711027,"Outlook, T",44.5
+4711028,"Broderick, VL",37.7
+4711029,"Glenside, VL",31
+4711031,"Rosedale No. 283, RM",37.5
+4711032,"Hanley, T",42.4
+4711034,"McCraney No. 282, RM",43.2
+4711036,"Kenaston, VL",41.4
+4711038,"Bladworth, VL",42.9
+4711039,"Wood Creek No. 281, RM",48.2
+4711041,"Simpson, VL",46.6
+4711042,"Wreford No. 280, RM",45.9
+4711044,"Nokomis, T",47.1
+4711046,"Usborne No. 310, RM",40.8
+4711048,"Drake, VL",42.7
+4711049,"Lanigan, T",42.5
+4711052,"Morris No. 312, RM",42.5
+4711053,"Watrous, T",44.9
+4711054,"Manitou Beach, RV",52.1
+4711056,"Young, VL",42.5
+4711059,"Lost River No. 313, RM",37.9
+4711060,"Thode, RV",39
+4711061,"Dundurn No. 314, RM",30.1
+4711063,"Dundurn, T",35.7
+4711064,"Shields, RV",41.3
+4711065,"Corman Park No. 344, RM",40.6
+4711066,"Saskatoon, CY",38.2
+4711067,"Langham, T",36.7
+4711068,"Warman, CY",32.4
+4711069,"Blucher No. 343, RM",40.2
+4711070,"Martensville, CY",30.8
+4711071,"Bradwell, VL",32.6
+4711072,"Allan, T",37.7
+4711073,"Dalmeny, T",35.7
+4711075,"Osler, T",33.2
+4711076,"Colonsay No. 342, RM",45.9
+4711077,"Clavet, VL",32.7
+4711078,"Meacham, VL",43.2
+4711079,"Colonsay, T",38.6
+4711091,"Viscount No. 341, RM",44.4
+4711092,"Viscount, VL",39.3
+4711094,"Plunkett, VL",55.1
+4711096,"Wolverine No. 340, RM",39.8
+4711828,"Whitecap, IRI",29.2
+4712001,"Pleasant Valley No. 288, RM",38.5
+4712004,"St. Andrews No. 287, RM",38.6
+4712006,"Rosetown, T",45.9
+4712008,"Zealandia, T",43.9
+4712011,"Milden No. 286, RM",40.8
+4712012,"Milden, VL",53
+4712014,"Wiseton, VL",47
+4712016,"Dinsmore, VL",48.6
+4712019,"Macrorie, VL",46.7
+4712020,"Fertile Valley No. 285, RM",37.8
+4712022,"Conquest, VL",41.6
+4712026,"Montrose No. 315, RM",39.1
+4712029,"Harris No. 316, RM",48.5
+4712032,"Harris, VL",47.1
+4712034,"Marriott No. 317, RM",42.9
+4712038,"Mountain View No. 318, RM",39.8
+4712042,"Biggar No. 347, RM",40.6
+4712046,"Biggar, T",44.4
+4712050,"Perdue No. 346, RM",37.1
+4712051,"Perdue, VL",44.5
+4712052,"Kinley, VL",41.6
+4712054,"Vanscoy No. 345, RM",42.2
+4712056,"Delisle, T",37.7
+4712058,"Vanscoy, VL",37.2
+4712059,"Asquith, T",35.1
+4712064,"Eagle Creek No. 376, RM",39.1
+4712069,"Glenside No. 377, RM",43.7
+4712072,"Rosemount No. 378, RM",43.1
+4712078,"Battle River No. 438, RM",41.5
+4712079,"Battleford, T",40.6
+4712829,"Red Pheasant 108, IRI",28.2
+4712830,"Mosquito 109, IRI",25.6
+4712832,"Grizzly Bear's Head 110 and Lean Man 111, IRI",24.5
+4712833,"Sweet Grass 113, IRI",30.7
+4713002,"Brock, VL",37.1
+4713006,"Kindersley No. 290, RM",38.3
+4713008,"Kindersley, T",40.5
+4713009,"Flaxcombe, VL",34.4
+4713011,"Milton No. 292, RM",42.8
+4713014,"Marengo, VL",36.1
+4713016,"Antelope Park No. 322, RM",46.8
+4713019,"Prairiedale No. 321, RM",36.9
+4713022,"Smiley, VL",42.3
+4713024,"Oakdale No. 320, RM",42
+4713026,"Coleville, VL",38.5
+4713028,"Winslow No. 319, RM",37.4
+4713029,"Dodsland, VL",38.9
+4713031,"Plenty, VL",35.5
+4713032,"Grandview No. 349, RM",41.3
+4713038,"Mariposa No. 350, RM",42.8
+4713039,"Tramping Lake, VL",45.5
+4713041,"Progress No. 351, RM",43.2
+4713042,"Kerrobert, T",42.3
+4713044,"Luseland, T",42.2
+4713046,"Heart's Hill No. 352, RM",41
+4713049,"Eye Hill No. 382, RM",38.9
+4713051,"Macklin, T",37.2
+4713053,"Primate, VL",37.9
+4713054,"Denzil, VL",37.7
+4713056,"Grass Lake No. 381, RM",42.7
+4713059,"Tramping Lake No. 380, RM",37.1
+4713062,"Scott, T",48
+4713064,"Reford No. 379, RM",43.7
+4713067,"Landis, VL",43.1
+4713068,"Buffalo No. 409, RM",42.1
+4713069,"Wilkie, T",45
+4713072,"Round Valley No. 410, RM",41
+4713074,"Unity, T",41.2
+4713076,"Senlac No. 411, RM",46
+4713078,"Senlac, VL",52.4
+4713079,"Manitou Lake No. 442, RM",39.4
+4713091,"Marsden, VL",37.1
+4713092,"Hillsdale No. 440, RM",38
+4713094,"Neilburg, VL",37.2
+4713096,"Cut Knife No. 439, RM",46
+4713098,"Cut Knife, T",41.2
+4713835,"Poundmaker 114, IRI",28
+4713836,"Little Pine 116, IRI",28.7
+4714001,"Hudson Bay No. 394, RM",45.3
+4714004,"Hudson Bay, T",46.8
+4714006,"Porcupine No. 395, RM",49.5
+4714007,"Porcupine Plain, T",44.2
+4714009,"Weekes, VL",52.8
+4714021,"Kelvington No. 366, RM",47.6
+4714022,"Kelvington, T",51.9
+4714023,"Ponass Lake No. 367, RM",48.5
+4714024,"Rose Valley, T",47.8
+4714025,"Fosston, VL",53.6
+4714026,"Spalding No. 368, RM",43.2
+4714028,"Spalding, VL",42.3
+4714030,"Pleasantdale, VL",46.1
+4714032,"Naicam, T",45.9
+4714034,"Barrier Valley No. 397, RM",46.4
+4714035,"Pleasantdale No. 398, RM",46.8
+4714036,"Archerwill, VL",45.1
+4714038,"Bjorkdale No. 426, RM",47.9
+4714039,"Mistatim, VL",54
+4714041,"Bjorkdale, VL",41.2
+4714043,"Tisdale No. 427, RM",41.3
+4714044,"Tisdale, T",45.8
+4714047,"Star City No. 428, RM",42.4
+4714049,"Star City, T",44.8
+4714051,"Melfort, CY",42.1
+4714053,"Willow Creek No. 458, RM",45.9
+4714056,"Connaught No. 457, RM",43.6
+4714058,"Ridgedale, VL",44.2
+4714059,"Arborfield No. 456, RM",47.2
+4714061,"Zenon Park, VL",38.6
+4714062,"Arborfield, T",50.7
+4714067,"Moose Range No. 486, RM",40.3
+4714068,"Tobin Lake, RV",49.6
+4714069,"Carrot River, T",45.5
+4714072,"Nipawin No. 487, RM",44.1
+4714073,"Aylsham, VL",48.5
+4714074,"Codette, VL",48.4
+4714076,"Nipawin, T",42.9
+4714077,"Torch River No. 488, RM",47.2
+4714079,"White Fox, VL",43.8
+4714091,"Love, VL",47.6
+4714092,"Choiceland, T",43.9
+4714093,"Smeaton, VL",54.6
+4714839,"Shoal Lake 28A, IRI",29.3
+4714840,"Red Earth 29, IRI",23.7
+4714841,"Yellowquill 90, IRI",26.1
+4714842,"Kinistin 91, IRI",24.2
+4714843,"Yellow Quill 90-9, IRI",29.7
+4714845,"Carrot River 29A, IRI",21.1
+4715001,"St. Peter No. 369, RM",40
+4715002,"Englefeld, VL",37.6
+4715003,"St. Gregor, VL",39.1
+4715004,"Muenster, VL",40.7
+4715005,"Annaheim, VL",39.6
+4715006,"Lake Lenore, VL",36
+4715007,"Humboldt No. 370, RM",40.4
+4715008,"Humboldt, CY",44
+4715011,"Bayne No. 371, RM",39.9
+4715012,"Bruno, T",44.8
+4715014,"Grant No. 372, RM",37.5
+4715016,"Prud'Homme, VL",38.4
+4715017,"Vonda, T",35.1
+4715018,"Aberdeen No. 373, RM",35.9
+4715019,"Aberdeen, T",34
+4715026,"Laird No. 404, RM",33.6
+4715027,"Hepburn, T",32.7
+4715028,"Waldheim, T",36.5
+4715029,"Laird, VL",40.9
+4715031,"Rosthern No. 403, RM",35.8
+4715032,"Rosthern, T",43.3
+4715034,"Hague, T",34.7
+4715036,"Fish Creek No. 402, RM",42.4
+4715038,"Alvena, VL",43.9
+4715039,"Hoodoo No. 401, RM",47.5
+4715041,"Cudworth, T",46.5
+4715042,"Wakaw, T",47.6
+4715043,"Wakaw Lake, RV",52.5
+4715044,"Three Lakes No. 400, RM",49.3
+4715045,"Pilger, VL",62.2
+4715046,"St. Benedict, VL",49
+4715047,"Middle Lake, VL",47.1
+4715048,"Lake Lenore No. 399, RM",39.9
+4715049,"St. Brieux, T",37.8
+4715051,"Flett's Springs No. 429, RM",40
+4715052,"Beatty, VL",42.8
+4715054,"Invergordon No. 430, RM",49.9
+4715057,"St. Louis No. 431, RM",42.9
+4715059,"St. Louis, VL",38.9
+4715061,"Duck Lake No. 463, RM",39.6
+4715062,"Duck Lake, T",39.7
+4715064,"Prince Albert No. 461, RM",40.7
+4715066,"Prince Albert, CY",37.7
+4715067,"Birch Hills No. 460, RM",41.4
+4715068,"Birch Hills, T",41.5
+4715070,"Candle Lake, RV",56.5
+4715071,"Kinistino No. 459, RM",42.1
+4715072,"Weldon, VL",51.8
+4715074,"Kinistino, T",45.1
+4715075,"Lakeland No. 521, RM",55.6
+4715076,"Christopher Lake, VL",41.2
+4715079,"Garden River No. 490, RM",40.9
+4715085,"Albertville, VL",40.8
+4715091,"Weirdale, VL",46.7
+4715092,"Meath Park, VL",40.9
+4715094,"Buckland No. 491, RM",41.8
+4715098,"Paddockwood, VL",36.8
+4715099,"Paddockwood No. 520, RM",46.4
+4715844,"One Arrow 95, IRI",25
+4715845,"Beardy's 97 and Okemasis 96, IRI",29.3
+4715847,"Muskoday First Nation, IRI",34.4
+4715848,"Wahpaton 94A, IRI",24.7
+4715849,"James Smith 100, IRI",27
+4715850,"Cumberland 100A, IRI",32
+4715851,"Little Red River 106C, IRI",25.9
+4715853,"Montreal Lake 106B, IRI",26.5
+4716002,"Denholm, VL",39.7
+4716004,"Maymont, VL",45.9
+4716005,"Mayfield No. 406, RM",43.3
+4716008,"Great Bend No. 405, RM",42.7
+4716009,"Radisson, T",44.4
+4716011,"Borden, VL",46.4
+4716013,"Blaine Lake No. 434, RM",43.5
+4716014,"Marcelin, VL",48.5
+4716016,"Blaine Lake, T",46.1
+4716018,"Redberry No. 435, RM",47.6
+4716022,"Hafford, T",49.4
+4716023,"Douglas No. 436, RM",46
+4716024,"Speers, VL",58.2
+4716028,"North Battleford No. 437, RM",42.8
+4716029,"North Battleford, CY",39.4
+4716033,"Round Hill No. 467, RM",46.6
+4716038,"Meeting Lake No. 466, RM",45
+4716041,"Leask No. 464, RM",46.8
+4716042,"Leask, VL",50.9
+4716043,"Pebble Baye, RV",56.4
+4716044,"Parkside, VL",42
+4716046,"Shellbrook No. 493, RM",42
+4716047,"Shellbrook, T",45.2
+4716051,"Canwood No. 494, RM",44.3
+4716052,"Canwood, VL",53.5
+4716053,"Prince Albert National Park, NO",51.3
+4716054,"Debden, VL",43.6
+4716056,"Spiritwood No. 496, RM",43
+4716057,"Shell Lake, VL",54.9
+4716058,"Spiritwood, T",45.5
+4716059,"Big Shell, RV",61.3
+4716060,"Echo Bay, RV",65.8
+4716061,"Leoville, VL",41.4
+4716062,"Medstead No. 497, RM",44.3
+4716063,"Medstead, VL",43.5
+4716072,"Big River, T",39.9
+4716075,"Big River No. 555, RM",43.3
+4716077,"Chitek Lake, RV",53.6
+4716854,"Muskeg Lake Cree Nation 102, IRI",34
+4716855,"Mistawasis 103, IRI",30.3
+4716856,"Sturgeon Lake 101, IRI",26.9
+4716858,"Big River 118, IRI",25.4
+4716860,"Ahtahkakoop 104, IRI",27.4
+4716862,"Witchekan Lake 117, IRI",25
+4716863,"Chitek Lake 191, IRI",24.4
+4716880,"Pelican Lake 191B, IRI",26.1
+4717001,"Meota No. 468, RM",47.1
+4717002,"Cochin, RV",60.9
+4717004,"Metinota, RV",55.4
+4717005,"Aquadeo, RV",58.2
+4717006,"Meota, VL",49.4
+4717008,"Turtle River No. 469, RM",39.1
+4717011,"Edam, VL",37.5
+4717013,"Paynton No. 470, RM",41.4
+4717014,"Paynton, VL",39.7
+4717017,"Eldon No. 471, RM",38
+4717018,"Maidstone, T",38.7
+4717019,"Waseca, VL",37.5
+4717022,"Wilton No. 472, RM",37.8
+4717024,"Lashburn, T",33.6
+4717026,"Marshall, T",33.1
+4717028,"Britannia No. 502, RM",35
+4717029,"Lloydminster (Part), CY",31.2
+4717032,"Frenchman Butte No. 501, RM",38.2
+4717034,"Paradise Hill, VL",40.8
+4717036,"St. Walburg, T",42.5
+4717039,"Mervin, VL",43.6
+4717041,"Turtleford, T",41
+4717042,"Kivimaa-Moonlight Bay, RV",64.2
+4717045,"Mervin No. 499, RM",50.8
+4717047,"Parkdale No. 498, RM",46
+4717048,"Glaslyn, VL",40.7
+4717052,"Meadow Lake, CY",34.1
+4717054,"Meadow Lake No. 588, RM",41.5
+4717055,"Dorintosh, VL",45
+4717056,"Loon Lake No. 561, RM",45.8
+4717057,"Makwa, VL",48.3
+4717058,"Loon Lake, VL",43.4
+4717062,"Beaver River No. 622, RM",40.4
+4717066,"Goodsoil, VL",44.5
+4717067,"Pierceland, VL",36.1
+4717801,"Seekaskootch 119, IRI",26.1
+4717802,"Makaoo (Part) 120, IRI",26.8
+4717803,"Thunderchild First Nation 115B, IRI",29.1
+4717805,"Flying Dust First Nation 105 (Meadow Lake 105), IRI",30.6
+4717806,"Waterhen 130, IRI",26.6
+4717807,"Makwa Lake 129B, IRI",24.1
+4717809,"Ministikwan 161, IRI",24.9
+4717810,"Ministikwan 161A, IRI",23.8
+4717811,"Big Island Lake Cree Territory, IRI",23.3
+4717812,"Moosomin 112B, IRI",24.9
+4717813,"Saulteaux 159, IRI",26.7
+4717816,"Eagles Lake 165C, IRI",32.6
+4718005,"Cumberland House, NV",30
+4718012,"Timber Bay, NH",30
+4718015,"Weyakwin, NH",33.4
+4718021,"Green Lake, NV",35.2
+4718028,"Cole Bay, NH",30.5
+4718030,"Jans Bay, NH",24
+4718033,"Beauval, NV",33.8
+4718041,"La Ronge, T",32.2
+4718042,"Air Ronge, NV",32.1
+4718049,"Denare Beach, NV",39.7
+4718051,"Creighton, T",40.5
+4718052,"Flin Flon (Part), CY",43.4
+4718055,"Pelican Narrows, NV",25.4
+4718058,"Sandy Bay, NV",25.7
+4718065,"Pinehouse, NV",28
+4718067,"Île-à-la-Crosse, NV",32.7
+4718069,"Patuanak, NH",35.8
+4718070,"Buffalo Narrows, NV",34
+4718072,"Michel Village, NH",38.8
+4718074,"La Loche, NV",27.6
+4718075,"Turnor Lake, NH",27.2
+4718090,"Division No. 18, Unorganized, NO",47.8
+4718100,"Stony Rapids, NH",33.3
+4718801,"Cumberland House Cree Nation 20, IRI",25.8
+4718802,"Montreal Lake 106, IRI",26.4
+4718803,"Stanley 157, IRI",26.7
+4718806,"Wapaskokimaw 202, IRI",24.2
+4718807,"La Plonge 192, IRI",32.8
+4718808,"Morin Lake 217, IRI",25.3
+4718809,"Lac La Ronge 156, IRI",26.5
+4718811,"Sucker River 156C (Nemebien River 156C), IRI",27.2
+4718812,"Kitsakie 156B, IRI",31.3
+4718814,"Wapachewunak 192D, IRI",34.4
+4718817,"Canoe Lake 165, IRI",27.7
+4718818,"Buffalo River Dene Nation 193 (Peter Pond Lake 193), IRI",29.7
+4718819,"Turnor Lake 193B, IRI",27.8
+4718820,"Pelican Narrows 184B, IRI",24
+4718821,"Sturgeon Weir 184F, IRI",31
+4718822,"Southend 200, IRI",26.2
+4718824,"Fond du Lac 227, IRI",27.3
+4718825,"Brabant Lake, S-É",28.3
+4718826,"Southend No. 200A, IRI",26.8
+4718828,"Chicken 224, IRI",26.8
+4718831,"Grandmother's Bay 219, IRI",26.8
+4718832,"Lac La Hache 220, IRI",25.5
+4718839,"Clearwater River Dene 222, IRI",27.1
+4718852,"Kimosom Pwatinahk 203 (Deschambault Lake), IRI",24.8
+4801003,"Cypress County, MD",37.9
+4801006,"Medicine Hat, CY",41.1
+4801008,"Forty Mile County No. 8, MD",33.7
+4801009,"Foremost, VL",41.6
+4801014,"Bow Island, T",36.3
+4801018,"Redcliff, T",37.3
+4802001,"Warner County No. 5, MD",36.2
+4802002,"Coutts, VL",48.7
+4802004,"Milk River, T",50.5
+4802006,"Warner, VL",47.7
+4802008,"Raymond, T",36.3
+4802009,"Stirling, VL",34.7
+4802011,"Lethbridge County, MD",34.2
+4802012,"Lethbridge, CY",39.5
+4802013,"Coalhurst, T",33.2
+4802014,"Nobleford, VL",30.6
+4802016,"Barons, VL",38.4
+4802018,"Picture Butte, T",37.5
+4802019,"Coaldale, T",37.7
+4802021,"Taber, MD",31.4
+4802022,"Taber, T",37.7
+4802023,"Barnwell, VL",29.4
+4802029,"Vauxhall, T",33.5
+4802031,"Newell County, MD",36.9
+4802034,"Brooks, CY",35.5
+4802036,"Duchess, VL",32.6
+4802038,"Rosemary, VL",33.9
+4802039,"Bassano, T",46.1
+4803001,"Cardston County, MD",36.9
+4803002,"Magrath, T",37.8
+4803003,"Improvement District No. 4 Waterton, ID",46.6
+4803004,"Cardston, T",42.1
+4803006,"Glenwood, VL",36.3
+4803008,"Hill Spring, VL",50.6
+4803011,"Pincher Creek No. 9, MD",44.1
+4803014,"Pincher Creek, T",44.3
+4803016,"Cowley, VL",43.7
+4803018,"Willow Creek No. 26, MD",39.8
+4803019,"Fort Macleod, T",43
+4803021,"Granum, T",48.8
+4803022,"Claresholm, T",49.4
+4803024,"Stavely, T",47.3
+4803026,"Nanton, T",48.3
+4803801,"Piikani 147, IRI",33.2
+4803802,"Blood 148, IRI",32.6
+4804001,"Acadia No. 34, MD",39.4
+4804004,"Special Area No. 2, SA",39.8
+4804006,"Empress, VL",46.6
+4804011,"Hanna, T",44.7
+4804012,"Special Area No. 3, SA",40.1
+4804014,"Oyen, T",47.8
+4804016,"Cereal, VL",51.7
+4804019,"Youngstown, VL",44.8
+4804020,"Special Area No. 4, SA",37.4
+4804021,"Veteran, VL",41.6
+4804022,"Consort, VL",41.9
+4805001,"Vulcan County, MD",38
+4805002,"Carmangay, VL",51.1
+4805004,"Champion, VL",48.9
+4805006,"Vulcan, T",49.7
+4805008,"Lomond, VL",41.6
+4805009,"Milo, VL",54.1
+4805011,"Arrowwood, VL",36
+4805012,"Wheatland County, MD",39.1
+4805018,"Strathmore, T",38.9
+4805019,"Hussar, VL",39
+4805021,"Standard, VL",40.9
+4805022,"Rockyford, VL",42.6
+4805026,"Drumheller, T",41.9
+4805031,"Starland County, MD",38.8
+4805034,"Delia, VL",44.6
+4805036,"Munson, VL",36.2
+4805038,"Morrin, VL",42.2
+4805041,"Kneehill County, MD",40.4
+4805042,"Carbon, VL",43.1
+4805044,"Acme, VL",41.3
+4805046,"Linden, VL",46.8
+4805048,"Three Hills, T",42.7
+4805049,"Trochu, T",44.4
+4805802,"Siksika 146, IRI",30.4
+4806001,"Foothills No. 31, MD",42.3
+4806006,"High River, T",42.3
+4806008,"Longview, VL",46.9
+4806009,"Turner Valley, T",40.4
+4806011,"Black Diamond, T",44.3
+4806012,"Okotoks, T",35.7
+4806014,"Rocky View County, MD",40.3
+4806016,"Calgary, CY",37.6
+4806017,"Chestermere, CY",34.4
+4806019,"Cochrane, T",37.1
+4806021,"Airdrie, CY",33.2
+4806022,"Irricana, T",38.2
+4806024,"Beiseker, VL",39.8
+4806026,"Crossfield, T",38.5
+4806028,"Mountain View County, MD",41.8
+4806029,"Carstairs, T",38
+4806031,"Cremona, VL",39.3
+4806032,"Didsbury, T",42.2
+4806034,"Olds, T",42.4
+4806036,"Sundre, T",43.7
+4806803,"Eden Valley 216, IRI",25.5
+4806804,"Tsuu T'ina Nation 145 (Sarcee 145), IRI",33.6
+4807001,"Provost No. 52, MD",39.8
+4807002,"Provost, T",39
+4807004,"Czar, VL",39.9
+4807006,"Hughenden, VL",38.3
+4807008,"Amisk, VL",38.6
+4807011,"Paintearth County No. 18, MD",38.1
+4807012,"Coronation, T",43.2
+4807014,"Castor, T",49.8
+4807016,"Halkirk, VL",46
+4807019,"Stettler County No. 6, MD",39.2
+4807021,"Big Valley, VL",47.1
+4807022,"Gadsby, VL",43.3
+4807024,"Botha, VL",36
+4807026,"Stettler, T",42.6
+4807027,"White Sands, SV",52.7
+4807028,"Rochon Sands, SV",57.7
+4807029,"Donalda, VL",46
+4807031,"Flagstaff County, MD",41.8
+4807032,"Alliance, VL",54.3
+4807036,"Forestburg, VL",43.8
+4807038,"Heisler, VL",50.3
+4807039,"Daysland, T",48
+4807042,"Killam, T",40.3
+4807044,"Sedgewick, T",40.9
+4807046,"Lougheed, VL",39.9
+4807048,"Hardisty, T",44.8
+4807049,"Wainwright No. 61, MD",36.3
+4807051,"Chauvin, VL",40.2
+4807052,"Edgerton, VL",40.6
+4807054,"Wainwright, T",39.1
+4807056,"Irma, VL",39.9
+4808001,"Red Deer County, MD",40.9
+4808002,"Elnora, VL",46.3
+4808004,"Delburne, VL",39.3
+4808005,"Jarvis Bay, SV",43.9
+4808006,"Bowden, T",39.4
+4808008,"Innisfail, T",42.2
+4808009,"Penhold, T",32.5
+4808011,"Red Deer, CY",37.6
+4808012,"Sylvan Lake, T",34.2
+4808013,"Norglenwold, SV",45.2
+4808022,"Lacombe County, MD",40.7
+4808023,"Birchcliff, SV",43.6
+4808024,"Eckville, T",41.2
+4808025,"Half Moon Bay, SV",54.4
+4808026,"Bentley, T",41.6
+4808027,"Sunbreaker Cove, SV",57.3
+4808028,"Gull Lake, SV",48
+4808029,"Blackfalds, T",30.1
+4808031,"Lacombe, CY",38.9
+4808032,"Clive, VL",37.2
+4808034,"Alix, VL",42.9
+4808038,"Ponoka County, MD",40.6
+4808039,"Ponoka, T",40.9
+4808042,"Parkland Beach, SV",50
+4808044,"Rimbey, T",45.2
+4808811,"Samson 137, IRI",27.2
+4808813,"Montana 139, IRI",24.3
+4809002,"Clearwater County, MD",41.1
+4809010,"Caroline, VL",42
+4809015,"Rocky Mountain House, T",38.9
+4809806,"O'Chiese 203, IRI",25.5
+4809809,"Sunchild 202, IRI",26.6
+4809810,"Big Horn 144A, IRI",23.8
+4810001,"Camrose County, MD",40.1
+4810002,"Bashaw, T",49.9
+4810003,"Rosalind, VL",44.5
+4810004,"Ferintosh, VL",44.2
+4810006,"Edberg, VL",40.9
+4810009,"Bawlf, VL",40.8
+4810011,"Camrose, CY",42.6
+4810012,"Bittern Lake, VL",39.7
+4810014,"Hay Lakes, VL",36.1
+4810016,"Beaver County, MD",40.3
+4810018,"Tofield, T",43.5
+4810019,"Ryley, VL",43
+4810021,"Holden, VL",46.2
+4810022,"Viking, T",48.8
+4810026,"Minburn County No. 27, MD",40.6
+4810028,"Vegreville, T",43.6
+4810031,"Innisfree, VL",53.6
+4810034,"Mannville, VL",40.6
+4810036,"Vermilion River County, MD",38.6
+4810038,"Paradise Valley, VL",36.2
+4810039,"Lloydminster (Part), CY",36
+4810041,"Kitscoty, VL",31.5
+4810042,"Vermilion, T",40.9
+4810044,"Marwayne, VL",37.2
+4810046,"Dewberry, VL",40.9
+4810048,"Two Hills County No. 21, MD",37.4
+4810051,"Myrnam, VL",43.4
+4810052,"Two Hills, T",35.5
+4810056,"Willingdon, VL",46
+4810058,"Lamont County, MD",44.3
+4810059,"Andrew, VL",49.9
+4810061,"Mundare, T",44.1
+4810062,"Chipman, VL",43.9
+4810064,"Lamont, T",44.6
+4810066,"Bruderheim, T",37
+4810805,"Makaoo (Part) 120, IRI",28.6
+4811001,"Wetaskiwin County No. 10, MD",43
+4811002,"Wetaskiwin, CY",41.6
+4811004,"Grandview, SV",59.4
+4811005,"Poplar Bay, SV",55.4
+4811006,"Crystal Springs, SV",57.8
+4811008,"Ma-Me-O Beach, SV",65.6
+4811009,"Silver Beach, SV",55.5
+4811011,"Millet, T",40.8
+4811012,"Leduc County, MD",40.3
+4811013,"Beaumont, T",32.7
+4811016,"Leduc, CY",36.5
+4811018,"Devon, T",37.8
+4811019,"Calmar, T",36.5
+4811020,"Sundance Beach, SV",47.9
+4811021,"Thorsby, VL",37.6
+4811023,"Golden Days, SV",52.8
+4811024,"Warburg, VL",42.7
+4811026,"Breton, VL",42.9
+4811031,"Drayton Valley, T",36.5
+4811032,"Brazeau County, MD",38
+4811034,"Parkland County, MD",40.4
+4811038,"Seba Beach, SV",53.3
+4811045,"Wabamun, VL",42.7
+4811046,"Spring Lake, VL",38
+4811048,"Stony Plain, T",39.4
+4811049,"Spruce Grove, CY",35.1
+4811052,"Strathcona County, SM",39.2
+4811056,"Fort Saskatchewan, CY",36.3
+4811059,"Sturgeon County, MD",38.2
+4811061,"Edmonton, CY",37.7
+4811062,"St. Albert, CY",39.9
+4811064,"Gibbons, T",34.8
+4811065,"Redwater, T",41.7
+4811066,"Bon Accord, T",35.2
+4811068,"Morinville, T",35.1
+4811069,"Legal, T",36.1
+4811801,"Ermineskin 138, IRI",24.3
+4811802,"Pigeon Lake 138A, IRI",28.4
+4811803,"Louis Bull 138B, IRI",22.8
+4811804,"Stony Plain 135, IRI",28.4
+4811805,"Alexander 134, IRI",30
+4811806,"Wabamun 133A, IRI",26.1
+4812002,"Cold Lake, CY",32.7
+4812004,"Bonnyville No. 87, MD",37.4
+4812009,"Bonnyville, T",36.1
+4812011,"Bonnyville Beach, SV",43.9
+4812012,"Glendon, VL",36.3
+4812013,"Pelican Narrows, SV",41.8
+4812014,"St. Paul County No. 19, MD",41.1
+4812016,"Elk Point, T",39.9
+4812018,"St. Paul, T",39.7
+4812020,"Horseshoe Bay, SV",46.6
+4812022,"Smoky Lake County, MD",40.9
+4812024,"Vilna, VL",48.8
+4812026,"Waskatenau, VL",46.1
+4812029,"Smoky Lake, T",51
+4812037,"Lac la Biche County, MD",38
+4812802,"Unipouheos 121, IRI",26.4
+4812804,"Puskiakiwenin 122, IRI",25.5
+4812808,"White Fish Lake 128, IRI",28.4
+4812810,"Cold Lake 149, IRI",30.9
+4812811,"Kehewin 123, IRI",28.6
+4812813,"Cold Lake 149A, IRI",43.4
+4812815,"Cold Lake 149B, IRI",36.5
+4812828,"Beaver Lake 131, IRI",29.3
+4812840,"Heart Lake 167, IRI",27.3
+4813001,"Lac Ste. Anne County, MD",42.1
+4813002,"Mayerthorpe, T",45.7
+4813003,"Nakamun Park, SV",51.7
+4813005,"Val Quentin, SV",53.3
+4813006,"West Cove, SV",50.2
+4813007,"Yellowstone, SV",47.4
+4813008,"Ross Haven, SV",49.2
+4813010,"Silver Sands, SV",51.4
+4813011,"Sunset Point, SV",51.4
+4813012,"Alberta Beach, VL",45.7
+4813013,"Birch Cove, SV",47.5
+4813014,"Onoway, T",41.5
+4813015,"South View, SV",48
+4813016,"Sandy Beach, SV",45.6
+4813017,"Sunrise Beach, SV",50.7
+4813018,"Barrhead County No. 11, MD",39.5
+4813019,"Barrhead, T",45.1
+4813028,"Westlock County, MD",40.9
+4813029,"Woodlands County, MD",39.7
+4813030,"Whitecourt, T",33.4
+4813031,"Westlock, T",45.3
+4813032,"Clyde, VL",39.6
+4813033,"Larkspur, SV",58.6
+4813036,"Thorhild County, MD",45.5
+4813044,"Athabasca County, MD",41.6
+4813045,"Mewatha Beach, SV",60.3
+4813046,"Boyle, VL",43.4
+4813047,"Sunset Beach, SV",57.6
+4813048,"Athabasca, T",40.8
+4813049,"Island Lake, SV",47.8
+4813051,"Island Lake South, SV",49.9
+4813053,"Bondiss, SV",54.5
+4813055,"South Baptiste, SV",49.4
+4813061,"Whispering Hills, SV",46.3
+4813811,"Alexis 133, IRI",29.6
+4814003,"Yellowhead County, MD",40.9
+4814019,"Hinton, T",37.6
+4814024,"Edson, T",37.3
+4815007,"Crowsnest Pass, SM",46.1
+4815013,"Kananaskis, ID",36.5
+4815015,"Bighorn No. 8, MD",42.7
+4815023,"Canmore, T",40.9
+4815027,"Ghost Lake, SV",50.2
+4815030,"Waiparous, SV",48.6
+4815033,"Jasper, SM",38.8
+4815035,"Banff, T",37.5
+4815045,"Ranchland No. 66, MD",39.5
+4815802,"Stoney 142, 143, 144, IRI",26.1
+4816037,"Wood Buffalo, SM",33.1
+4816051,"Improvement District No. 24 Wood Buffalo, ID",22.3
+4816817,"Janvier 194, IRI",29.2
+4816821,"Gregoire Lake 176, IRI",31.6
+4816822,"Gregoire Lake 176A, IRI",30.8
+4816850,"Allison Bay 219, IRI",29.9
+4816852,"Dog Head 218, IRI",38.3
+4816859,"Fort Mackay, S-É",30.1
+4817021,"High Prairie, T",36.9
+4817024,"Swan Hills, T",37.4
+4817026,"Northern Sunrise County, MD",38.9
+4817027,"Big Lakes County, MD",38.7
+4817029,"Slave Lake, T",33
+4817031,"Opportunity No. 17, MD",32.2
+4817033,"Lesser Slave River No.124, MD",41.3
+4817039,"Nampa, VL",37.6
+4817062,"Clear Hills, MD",33.8
+4817064,"Hines Creek, VL",44.2
+4817076,"Northern Lights County, MD",38.1
+4817078,"Manning, T",39.8
+4817093,"High Level, T",31.3
+4817095,"Mackenzie County, SM",28.6
+4817097,"Rainbow Lake, T",32
+4817817,"Jean Baptiste Gambler 183, IRI",33.3
+4817818,"Wabasca 166, IRI",30.7
+4817819,"Wabasca 166A, IRI",30.7
+4817821,"Wabasca 166B, IRI",25.9
+4817822,"Wabasca 166C, IRI",29.1
+4817823,"Wabasca 166D, IRI",27.8
+4817824,"Utikoomak Lake 155, IRI",24.6
+4817827,"Utikoomak Lake 155A, IRI",27.4
+4817828,"Drift Pile River 150, IRI",31.4
+4817829,"Sucker Creek 150A, IRI",32.5
+4817831,"Swan River 150E, IRI",27.5
+4817835,"Fox Lake 162, IRI",22.3
+4817836,"Kapawe'no First Nation (Freeman 150B), IRI",28.1
+4817837,"John d'Or Prairie 215, IRI",22.6
+4817838,"Tall Cree 173, IRI",26.1
+4817840,"Tall Cree 173A, IRI",26.7
+4817842,"Boyer 164, IRI",28.3
+4817843,"Child Lake 164A, IRI",33.6
+4817845,"Hay Lake 209, IRI",32.3
+4817848,"Bushe River 207, IRI",28.4
+4817849,"Upper Hay River 212, IRI",34.1
+4817853,"Little Buffalo, S-É",24.9
+4817855,"Desmarais, S-É",36.9
+4817856,"Woodland Cree 226, IRI",27.8
+4817857,"Woodland Cree 228, IRI",26.1
+4817859,"Fort Vermilion 173B, IRI",28.3
+4817860,"Loon Lake 235, IRI",26.5
+4818002,"Fox Creek, T",35.4
+4818005,"Grande Cache, T",37.2
+4818015,"Greenview No. 16, MD",38.9
+4818018,"Valleyview, T",40.7
+4818816,"Sturgeon Lake 154, IRI",29.9
+4818818,"Sturgeon Lake 154A, IRI",36.5
+4819006,"Grande Prairie County No. 1, MD",36.1
+4819008,"Hythe, VL",44.9
+4819009,"Beaverlodge, T",38.4
+4819011,"Wembley, T",32.2
+4819012,"Grande Prairie, CY",33.5
+4819014,"Sexsmith, T",30.7
+4819038,"Peace River, T",35.1
+4819041,"Smoky River No. 130, MD",38.7
+4819042,"McLennan, T",42.3
+4819044,"Donnelly, VL",38.5
+4819046,"Falher, T",45
+4819048,"Girouxville, VL",43
+4819049,"Birch Hills County, MD",39.2
+4819054,"Spirit River No. 133, MD",42.3
+4819056,"Rycroft, VL",41.2
+4819058,"Spirit River, T",46
+4819059,"Saddle Hills County, MD",39.9
+4819066,"Fairview No. 136, MD",39.4
+4819068,"Fairview, T",41.8
+4819071,"Peace No. 135, MD",41
+4819072,"Berwyn, VL",40.2
+4819074,"Grimshaw, T",36.5
+4819815,"Horse Lakes 152B, IRI",25.1
+4819826,"Duncan's 151A, IRI",30.7
+5901003,"Elkford, DM",37.4
+5901006,"Sparwood, DM",39.2
+5901012,"Fernie, CY",39.2
+5901017,"East Kootenay A, RDA",41.4
+5901019,"East Kootenay B, RDA",46.1
+5901022,"Cranbrook, CY",43.1
+5901028,"Kimberley, CY",44.6
+5901035,"East Kootenay C, RDA",44.8
+5901037,"East Kootenay E, RDA",48.8
+5901039,"Invermere, DM",43.1
+5901040,"Radium Hot Springs, VL",47.3
+5901043,"Canal Flats, VL",42.8
+5901046,"East Kootenay F, RDA",50
+5901048,"East Kootenay G, RDA",45.5
+5901801,"Tobacco Plains 2, IRI",37.5
+5901803,"Kootenay 1, IRI",36.5
+5901804,"Columbia Lake 3, IRI",41.4
+5901806,"Shuswap, IRI",36.6
+5903004,"Creston, T",52.2
+5903010,"Central Kootenay A, RDA",52.6
+5903011,"Salmo, VL",46.5
+5903013,"Central Kootenay B, RDA",45.4
+5903015,"Nelson, CY",42.5
+5903017,"Central Kootenay C, RDA",48.5
+5903019,"Slocan, VL",45.8
+5903023,"Kaslo, VL",49.6
+5903027,"Silverton, VL",55.9
+5903032,"New Denver, VL",54.4
+5903039,"Central Kootenay D, RDA",49.4
+5903041,"Central Kootenay E, RDA",45.8
+5903043,"Central Kootenay F, RDA",44.3
+5903045,"Castlegar, CY",44.9
+5903047,"Central Kootenay G, RDA",42.3
+5903050,"Nakusp, VL",47.8
+5903052,"Central Kootenay H, RDA",43.2
+5903056,"Central Kootenay I, RDA",44.6
+5903058,"Central Kootenay J, RDA",43.4
+5903060,"Central Kootenay K, RDA",52.9
+5903807,"Creston 1, IRI",31.9
+5905005,"Fruitvale, VL",45.5
+5905009,"Montrose, VL",46
+5905014,"Trail, CY",47.1
+5905018,"Warfield, VL",43.3
+5905023,"Rossland, CY",40
+5905026,"Kootenay Boundary A, RDA",43.6
+5905030,"Kootenay Boundary B / Lower Columbia-Old-Glory, RDA",48
+5905032,"Grand Forks, CY",50.4
+5905037,"Midway, VL",54.2
+5905042,"Greenwood, CY",54.8
+5905050,"Kootenay Boundary C / Christina Lake, RDA",52.6
+5905052,"Kootenay Boundary D / Rural Grand Forks, RDA",49.9
+5905054,"Kootenay Boundary E / West Boundary, RDA",47.4
+5907005,"Osoyoos, T",55.4
+5907009,"Keremeos, VL",56.3
+5907014,"Oliver, T",51.4
+5907022,"Okanagan-Similkameen A, RDA",51.9
+5907024,"Princeton, T",47.2
+5907026,"Okanagan-Similkameen B, RDA",46.7
+5907028,"Okanagan-Similkameen C, RDA",50.9
+5907035,"Summerland, DM",49.8
+5907041,"Penticton, CY",48.7
+5907047,"Okanagan-Similkameen D, RDA",50
+5907049,"Okanagan-Similkameen E, RDA",48.7
+5907051,"Okanagan-Similkameen F, RDA",45.7
+5907053,"Okanagan-Similkameen G, RDA",53.3
+5907055,"Okanagan-Similkameen H, RDA",53
+5907802,"Osoyoos 1, IRI",50.2
+5907803,"Penticton 1, IRI",51
+5907805,"Chopaka 7 & 8, IRI",39.7
+5907807,"Chuchuwayha 2, IRI",34.5
+5907809,"Ashnola 10, IRI",35.4
+5909009,"Hope, DM",49.3
+5909014,"Fraser Valley A, RDA",52.7
+5909016,"Fraser Valley B, RDA",51.5
+5909020,"Chilliwack, CY",40.8
+5909027,"Harrison Hot Springs, VL",52
+5909032,"Kent, DM",45.7
+5909034,"Fraser Valley D, RDA",39.9
+5909035,"Fraser Valley H, RDA",49.3
+5909036,"Fraser Valley E, RDA",48
+5909048,"Fraser Valley C, RDA",51.5
+5909052,"Abbotsford, CY",39.9
+5909056,"Mission, DM",40
+5909060,"Fraser Valley F, RDA",43.7
+5909062,"Fraser Valley G, RDA",43.6
+5909804,"Chawathil 4, IRI",30.5
+5909806,"Kopchitchin 2, IRI",45
+5909807,"Ohamil 1, IRI",28.5
+5909812,"Schkam 2, IRI",29.6
+5909819,"Kahmoose 4, IRI",37.8
+5909821,"Kwawkwawapilt 6, IRI",68.5
+5909824,"Skwah 4, IRI",34.7
+5909826,"Skway 5, IRI",34.7
+5909827,"Soowahlie 14, IRI",36.1
+5909830,"Tzeachten 13, IRI",62.5
+5909831,"Yakweakwioose 12, IRI",34.6
+5909832,"Seabird Island, IRI",29.6
+5909837,"Cheam 1, IRI",32.6
+5909839,"Chehalis 5, IRI",34.5
+5909841,"Stullawheets 8, IRI",40.6
+5909842,"Douglas 8, IRI",29.7
+5909845,"Skookumchuck 4, IRI",33.3
+5909875,"Q'alatkú7em, IRI",28.9
+5909877,"Upper Sumas 6, IRI",36.1
+5909878,"Matsqui Main 2, IRI",28.2
+5909879,"Holachten 8, IRI",44.3
+5909880,"Lakahahmen 11, IRI",41.5
+5909881,"Skweahm 10, IRI",54.2
+5909882,"Squawkum Creek 3, IRI",32.1
+5909884,"Skowkale, IRI",52.5
+5909885,"Squiaala, IRI",30.9
+5915001,"Langley, DM",40.2
+5915002,"Langley, CY",42.5
+5915004,"Surrey, CY",39
+5915007,"White Rock, CY",52.4
+5915011,"Delta, DM",42.4
+5915015,"Richmond, CY",42.2
+5915020,"Greater Vancouver A, RDA",34.3
+5915022,"Vancouver, CY",41.6
+5915025,"Burnaby, CY",41.1
+5915029,"New Westminster, CY",41.8
+5915034,"Coquitlam, CY",40.2
+5915036,"Belcarra, VL",47.6
+5915038,"Anmore, VL",38.6
+5915039,"Port Coquitlam, CY",39.7
+5915043,"Port Moody, CY",39
+5915046,"North Vancouver, DM",41.9
+5915051,"North Vancouver, CY",42.1
+5915055,"West Vancouver, DM",47.4
+5915062,"Bowen Island, IM",44.6
+5915065,"Lions Bay, VL",45
+5915070,"Pitt Meadows, CY",41
+5915075,"Maple Ridge, CY",40.1
+5915801,"Semiahmoo, IRI",42.8
+5915802,"Tsawwassen, IRI",48.6
+5915803,"Musqueam 2, IRI",40.3
+5915805,"Coquitlam 1, IRI",28.9
+5915806,"Burrard Inlet 3, IRI",43.2
+5915807,"Mission 1, IRI",36.5
+5915808,"Capilano 5, IRI",42.3
+5915811,"Seymour Creek 2, IRI",36.6
+5915813,"Katzie 2, IRI",40
+5915816,"McMillan Island 6, IRI",36.9
+5915825,"Matsqui 4, IRI",71.5
+5915830,"Katzie 1, IRI",32.1
+5917005,"North Saanich, DM",50.4
+5917010,"Sidney, T",54.6
+5917015,"Central Saanich, DM",46.7
+5917021,"Saanich, DM",43.5
+5917027,"Saltspring Island, RDA",50.1
+5917029,"Southern Gulf Islands, RDA",56.7
+5917030,"Oak Bay, DM",49.2
+5917034,"Victoria, CY",44.5
+5917040,"Esquimalt, DM",43.2
+5917041,"Colwood, CY",40.9
+5917042,"Metchosin, DM",46.5
+5917044,"Langford, CY",38.6
+5917047,"View Royal, T",42.8
+5917049,"Highlands, DM",42.3
+5917052,"Sooke, DM",41.3
+5917054,"Juan de Fuca (Part 1), RDA",45.3
+5917056,"Juan de Fuca (Part 2), RDA",46.6
+5917801,"Cole Bay 3, IRI",31.4
+5917802,"Union Bay 4, IRI",33.3
+5917803,"East Saanich 2, IRI",50.8
+5917804,"South Saanich 1, IRI",31.6
+5917809,"Becher Bay 1, IRI",35.2
+5917812,"New Songhees 1A, IRI",46.7
+5917815,"Gordon River 2, IRI",39.8
+5917819,"T'Sou-ke, IRI",37.3
+5919008,"North Cowichan, DM",45.8
+5919012,"Duncan, CY",50.9
+5919013,"Cowichan Valley D, RDA",46.4
+5919015,"Cowichan Valley G, RDA",53
+5919016,"Lake Cowichan, T",45.7
+5919017,"Cowichan Valley H, RDA",50.1
+5919021,"Ladysmith, T",47
+5919033,"Cowichan Valley F, RDA",47.8
+5919035,"Cowichan Valley I, RDA",51
+5919043,"Cowichan Valley A, RDA",47.3
+5919046,"Cowichan Valley B, RDA",40.9
+5919049,"Cowichan Valley C, RDA",51.1
+5919051,"Cowichan Valley E, RDA",42.8
+5919801,"Halalt 2, IRI",33.8
+5919803,"Tsussie 6, IRI",29.9
+5919804,"Chemainus 13, IRI",30.4
+5919809,"Penelakut Island 7, IRI",29.2
+5919814,"Malachan 11, IRI",28.8
+5919815,"Malahat 11, IRI",28.9
+5919816,"Oyster Bay 12, IRI",27.6
+5919822,"Cowichan, IRI",32.1
+5921007,"Nanaimo, CY",44.2
+5921008,"Lantzville, DM",46.2
+5921010,"Nanaimo A, RDA",44.9
+5921014,"Nanaimo B, RDA",55.6
+5921016,"Nanaimo C, RDA",43.6
+5921018,"Parksville, CY",54.5
+5921023,"Qualicum Beach, T",60.1
+5921030,"Nanaimo E, RDA",53.5
+5921032,"Nanaimo F, RDA",44.2
+5921034,"Nanaimo G, RDA",52.8
+5921036,"Nanaimo H, RDA",52.6
+5921804,"Nanaimo Town 1, IRI",34.7
+5921805,"Nanoose, IRI",31.4
+5921806,"Qualicum, IRI",37.8
+5921807,"Nanaimo River, IRI",35.4
+5923008,"Port Alberni, CY",45.3
+5923019,"Ucluelet, DM",39.8
+5923025,"Tofino, DM",38.3
+5923033,"Alberni-Clayoquot B, RDA",48.9
+5923035,"Alberni-Clayoquot D, RDA",51.8
+5923037,"Alberni-Clayoquot E, RDA",45.7
+5923039,"Alberni-Clayoquot F, RDA",46.5
+5923047,"Alberni-Clayoquot A, RDA",52.7
+5923049,"Alberni-Clayoquot C, RDA",38.7
+5923801,"Ahahswinis 1, IRI",41.1
+5923803,"Anacla 12, IRI",39.1
+5923807,"Ittatsoo 1, IRI",35.2
+5923808,"Marktosis 15, IRI",30.4
+5923813,"Opitsat 1, IRI",30.2
+5923816,"Tsahaheh 1, IRI",31.9
+5923823,"Esowista 3, IRI",38.3
+5923824,"Refuge Cove 6, IRI",48.8
+5924025,"Gold River, VL",47.6
+5924029,"Zeballos, VL",48.1
+5924030,"Tahsis, VL",53.1
+5924034,"Campbell River, CY",44
+5924039,"Sayward, VL",49.5
+5924042,"Strathcona D (Oyster Bay - Buttle Lake), RDA",46.1
+5924048,"Strathcona A, RDA",49.5
+5924052,"Strathcona B, RDA",48.3
+5924054,"Strathcona C, RDA",49.7
+5924804,"Campbell River 11, IRI",41.2
+5924806,"Houpsitas 6, IRI",30.6
+5924812,"Quinsam 12, IRI",37.8
+5924817,"Cape Mudge 10, IRI",43.2
+5924820,"Tork 7, IRI",45.5
+5924835,"Tsa Xana 18, IRI",30.3
+5924836,"Ehatis 11, IRI",26.2
+5924840,"Homalco 9, IRI",37.6
+5926005,"Comox, T",47.9
+5926010,"Courtenay, CY",45.8
+5926014,"Cumberland, VL",40
+5926021,"Comox Valley A, RDA",50.8
+5926022,"Comox Valley B (Lazo North), RDA",47.7
+5926024,"Comox Valley C (Puntledge - Black Creek), RDA",45.6
+5926801,"Comox 1, IRI",46.6
+5927008,"Powell River, CY",47.7
+5927010,"Powell River A, RDA",50.2
+5927012,"Powell River B, RDA",49.4
+5927016,"Powell River C, RDA",48.9
+5927018,"Powell River D, RDA",54.9
+5927802,"Sliammon 1, IRI",42
+5929005,"Gibsons, T",50.1
+5929011,"Sechelt, DM",51.1
+5929018,"Sunshine Coast A, RDA",55.2
+5929022,"Sunshine Coast B, RDA",49.1
+5929024,"Sunshine Coast D, RDA",46.1
+5929026,"Sunshine Coast E, RDA",45.5
+5929028,"Sunshine Coast F, RDA",49.5
+5929803,"Sechelt (Part), IGD",43.9
+5931006,"Squamish, DM",37.5
+5931012,"Pemberton, VL",34
+5931017,"Squamish-Lillooet C, RDA",40.1
+5931020,"Whistler, DM",36.3
+5931021,"Squamish-Lillooet D, RDA",44.4
+5931026,"Lillooet, DM",46.9
+5931032,"Squamish-Lillooet A, RDA",52.8
+5931034,"Squamish-Lillooet B, RDA",50.5
+5931801,"Cheakamus 11, IRI",32.9
+5931806,"Seaichem 16, IRI",46.9
+5931807,"Stawamus 24, IRI",34.8
+5931808,"Waiwakum 14, IRI",33.7
+5931812,"Nesuch 3, IRI",40
+5931813,"Bridge River 1, IRI",34.7
+5931814,"Cayoosh Creek 1, IRI",49.3
+5931815,"Chilhil 6, IRI",36.6
+5931816,"Fountain 1, IRI",41.7
+5931821,"Lillooet 1, IRI",34.5
+5931828,"Pashilqua 2, IRI",32.4
+5931829,"Pavilion 1, IRI",43.6
+5931831,"Slosh 1, IRI",39.8
+5931842,"Fountain 1B, IRI",32.3
+5931843,"Mount Currie, IRI",34.2
+5931844,"Nequatque, IRI",40.4
+5933006,"Merritt, CY",43.9
+5933008,"Thompson-Nicola M (Beautiful Nicola Valley - North), RDA",48.9
+5933012,"Thompson-Nicola N (Beautiful Nicola Valley - South), RDA",49
+5933015,"Lytton, VL",47.6
+5933019,"Ashcroft, VL",52
+5933024,"Cache Creek, VL",49.5
+5933028,"Clinton, VL",50.8
+5933032,"Thompson-Nicola E (Bonaparte Plateau), RDA",55.4
+5933035,"Logan Lake, DM",49.3
+5933037,"Thompson-Nicola I (Blue Sky Country), RDA",48.9
+5933039,"Thompson-Nicola J (Copper Desert Country), RDA",46.5
+5933042,"Kamloops, CY",41.9
+5933044,"Thompson-Nicola P (Rivers and the Peaks), RDA",45.7
+5933045,"Sun Peaks Mountain, VL",40.9
+5933054,"Chase, VL",52.4
+5933060,"Thompson-Nicola L (Grasslands), RDA",47.6
+5933067,"Clearwater, DM",43.9
+5933068,"Thompson-Nicola A (Wells Gray Country), RDA",48.6
+5933070,"Thompson-Nicola B (Thompson Headwaters), RDA",48.8
+5933072,"Thompson-Nicola O (Lower North Thompson), RDA",49.4
+5933074,"Barriere, DM",48.4
+5933801,"Coldwater 1, IRI",37.1
+5933802,"Douglas Lake 3, IRI",41.4
+5933805,"Joeyaska 2, IRI",40.9
+5933806,"Nicola Lake 1, IRI",44.6
+5933807,"Nicola Mameet 1, IRI",35.3
+5933808,"Nooaitch 10, IRI",36.7
+5933812,"Bonaparte 3, IRI",43
+5933814,"Canoe Creek 1, IRI",26.9
+5933817,"Skeetchestn, IRI",36.6
+5933832,"Klickkumcheen 18, IRI",44.7
+5933833,"Inkluckcheen, IRI",38.3
+5933834,"Kumcheen 1, IRI",41.5
+5933844,"Ashcroft 4, IRI",40.5
+5933849,"Siska Flat, IRI",32.2
+5933851,"Nicomen 1, IRI",30
+5933853,"Nuuautin 2, IRI",32.7
+5933859,"Shackan 11, IRI",43.9
+5933872,"Marble Canyon 3, IRI",37.2
+5933873,"Stryen 9, IRI",29.3
+5933877,"Whispering Pines 4, IRI",37.1
+5933880,"Kamloops 1, IRI",45.4
+5933882,"Kanaka Bar, IRI",33.7
+5933884,"Sahhaltkum 4, IRI",36
+5933887,"North Thompson 1, IRI",39.1
+5933898,"Neskonlith, IRI",31.2
+5935010,"Kelowna, CY",43.4
+5935012,"Central Okanagan, RDA",45.5
+5935016,"Lake Country, DM",42.4
+5935018,"Peachland, DM",51.2
+5935020,"Central Okanagan J, RDA",48.4
+5935029,"West Kelowna, DM",43.1
+5935801,"Duck Lake 7, IRI",52.2
+5935802,"Tsinstikeptum 9, IRI",50.8
+5935803,"Tsinstikeptum 10, IRI",45.3
+5937005,"Lumby, VL",41.8
+5937010,"Coldstream, DM",43.6
+5937014,"Vernon, CY",46
+5937017,"North Okanagan B, RDA",45.3
+5937021,"North Okanagan C, RDA",44
+5937022,"North Okanagan D, RDA",45.1
+5937023,"North Okanagan E, RDA",44.6
+5937024,"Spallumcheen, DM",44.3
+5937028,"Armstrong, CY",45.9
+5937033,"Enderby, CY",47.7
+5937041,"North Okanagan F, RDA",45.5
+5937801,"Okanagan (Part) 1, IRI",56
+5937802,"Enderby 2, IRI",38.1
+5937803,"Priest's Valley 6, IRI",59.8
+5939007,"Golden, T",41
+5939011,"Columbia-Shuswap A, RDA",43.2
+5939019,"Revelstoke, CY",40.2
+5939023,"Columbia-Shuswap B, RDA",45
+5939032,"Salmon Arm, CY",47
+5939037,"Columbia-Shuswap C, RDA",51.3
+5939039,"Columbia-Shuswap D, RDA",44.4
+5939043,"Columbia-Shuswap E, RDA",48.5
+5939044,"Columbia-Shuswap F, RDA",54.8
+5939045,"Sicamous, DM",50.6
+5939801,"Chum Creek 2, IRI",50.7
+5939803,"North Bay 5, IRI",50.6
+5939804,"Okanagan (Part) 1, IRI",47.7
+5939805,"Quaaout 1, IRI",43.8
+5939808,"Switsemalph 3, IRI",37.4
+5939811,"Switsemalph, IRI",47.6
+5941005,"One Hundred Mile House, DM",47.5
+5941009,"Williams Lake, CY",41.7
+5941010,"Cariboo D, RDA",42.4
+5941012,"Cariboo E, RDA",42.4
+5941013,"Quesnel, CY",42.5
+5941014,"Cariboo F, RDA",44.5
+5941015,"Cariboo G, RDA",48
+5941016,"Cariboo H, RDA",49.6
+5941017,"Cariboo L, RDA",51.6
+5941019,"Cariboo A, RDA",42.6
+5941021,"Cariboo B, RDA",43.9
+5941025,"Wells, DM",44.4
+5941026,"Cariboo C, RDA",43.9
+5941027,"Cariboo I, RDA",45.9
+5941039,"Cariboo J, RDA",51
+5941041,"Cariboo K, RDA",43.9
+5941801,"Alkali Lake 1, IRI",37.9
+5941802,"Canim Lake 1, IRI",35.3
+5941805,"Deep Creek 2, IRI",42.7
+5941806,"Dog Creek 1, IRI",37.9
+5941808,"Lohbiee 3, IRI",42.2
+5941809,"Quesnel 1, IRI",36.6
+5941810,"Soda Creek 1, IRI",37.8
+5941812,"Williams Lake 1, IRI",35.6
+5941821,"Anahim's Flat 1, IRI",42
+5941837,"Nazco 20, IRI",33.7
+5941839,"Redstone Flat 1, IRI",35.7
+5941840,"Squinas 2, IRI",40.7
+5941841,"Stone 1, IRI",36.1
+5941850,"Toosey 1, IRI",37.1
+5941880,"Ulkatcho 14A, IRI",38.9
+5943008,"Alert Bay, VL",47.1
+5943012,"Port McNeill, T",39.4
+5943017,"Port Alice, VL",48.2
+5943023,"Port Hardy, DM",39.8
+5943027,"Mount Waddington B, RDA",53.1
+5943031,"Mount Waddington C, RDA",46.2
+5943033,"Mount Waddington D, RDA",49.3
+5943037,"Mount Waddington A, RDA",49.6
+5943806,"Tsulquate 4, IRI",28.7
+5943813,"Quaee 7, IRI",34.4
+5943815,"Kippase 2, IRI",36.7
+5943816,"Quatsino Subdivision 18, IRI",31.8
+5943837,"Alert Bay, IRI",43.1
+5945006,"Central Coast A, RDA",48.5
+5945010,"Central Coast C, RDA",46.1
+5945012,"Central Coast D, RDA",45.6
+5945014,"Central Coast E, RDA",41
+5945801,"Bella Bella 1, IRI",37.5
+5945802,"Bella Coola 1, IRI",33.2
+5947007,"Port Edward, DM",41.1
+5947012,"Prince Rupert, CY",39.6
+5947016,"Skeena-Queen Charlotte A, RDA",59.1
+5947021,"Skeena-Queen Charlotte C, RDA",44.3
+5947023,"Masset, VL",43.4
+5947026,"Queen Charlotte, VL",43.9
+5947027,"Skeena-Queen Charlotte D, RDA",43.2
+5947030,"Port Clements, VL",47.8
+5947032,"Skeena-Queen Charlotte E, RDA",46.7
+5947803,"Masset 1, IRI",39.9
+5947804,"Skidegate 1, IRI",38.9
+5947806,"Kulkayu (Hartley Bay) 4, IRI",32.5
+5947807,"Dolphin Island 1, IRI",33.5
+5947809,"Lax Kw'alaams 1, IRI",36.7
+5947810,"S1/2 Tsimpsean 2, IRI",36
+5949005,"Kitimat, DM",41.4
+5949011,"Terrace, CY",39.2
+5949013,"Kitimat-Stikine C (Part 1), RDA",42.1
+5949018,"Kitimat-Stikine E, RDA",39.8
+5949022,"Hazelton, VL",45
+5949024,"New Hazelton, DM",43.5
+5949028,"Kitimat-Stikine B, RDA",44.7
+5949032,"Stewart, DM",44.1
+5949035,"Nisga'a, NL",36.9
+5949038,"Kitimat-Stikine F, RDA",39.3
+5949041,"Kitimat-Stikine D, RDA",43.3
+5949802,"Kitasoo 1, IRI",34.7
+5949803,"Kitamaat 2, IRI",43.1
+5949804,"Kitsumkaylum 1, IRI",37.5
+5949807,"Kulspai 6, IRI",41.3
+5949810,"Coryatsaqua (Moricetown) 2, IRI",40.3
+5949811,"Hagwilget 1, IRI",39.5
+5949812,"Gitanmaax 1, IRI",39.4
+5949813,"Kispiox 1, IRI",35.9
+5949814,"Gitsegukla 1, IRI",35.1
+5949815,"Gitanyow 1, IRI",33.8
+5949816,"Gitwangak 1, IRI",36.6
+5949817,"Moricetown 1, IRI",36.3
+5949818,"Sik-e-dakh 2, IRI",35.3
+5949819,"Babine 17, IRI",38.1
+5949820,"Bulkley River 19, IRI",27.1
+5949832,"Iskut 6, IRI",32.6
+5949843,"Guhthe Tah 12, IRI",42.4
+5949844,"Kitselas 1, IRI",28.1
+5949845,"Dease Lake 9, IRI",34.2
+5949847,"Telegraph Creek, IRI",42.1
+5951007,"Vanderhoof, DM",38.5
+5951009,"Fraser Lake, VL",41.4
+5951013,"Fort St. James, DM",38.3
+5951015,"Bulkley-Nechako C, RDA",43.7
+5951017,"Bulkley-Nechako D, RDA",46.3
+5951019,"Bulkley-Nechako F, RDA",39.2
+5951022,"Burns Lake, VL",39
+5951028,"Bulkley-Nechako B, RDA",41.9
+5951031,"Bulkley-Nechako E, RDA",42.5
+5951032,"Granisle, VL",59.7
+5951034,"Houston, DM",39.2
+5951038,"Telkwa, VL",36
+5951043,"Smithers, T",39.8
+5951051,"Bulkley-Nechako A, RDA",40.1
+5951053,"Bulkley-Nechako G, RDA",44.3
+5951801,"Ye Koo Che 3, IRI",26.4
+5951802,"Nautley (Fort Fraser) 1, IRI",35.8
+5951803,"Nak'azdli (Necoslie 1), IRI",35
+5951805,"Binche 2 (Pinchie 2), IRI",31.9
+5951807,"Stellaquo (Stella) 1, IRI",34.6
+5951809,"Stony Creek 1, IRI",35.4
+5951810,"Tache 1, IRI",31.4
+5951815,"Burns Lake 18, IRI",35.4
+5951818,"Cheslatta 1, IRI",32.5
+5951827,"Woyenne 27, IRI",36.3
+5951828,"Babine 6, IRI",36.4
+5951829,"Babine 25, IRI",31.7
+5951848,"North Tacla Lake, IRI",37.4
+5953007,"Valemount, VL",42.9
+5953012,"McBride, VL",44.2
+5953019,"Fraser-Fort George H, RDA",47.3
+5953023,"Prince George, CY",39
+5953033,"Mackenzie, DM",38.9
+5953038,"Fraser-Fort George A, RDA",40.2
+5953042,"Fraser-Fort George C, RDA",41.2
+5953044,"Fraser-Fort George D, RDA",41.9
+5953046,"Fraser-Fort George E, RDA",46.1
+5953048,"Fraser-Fort George F, RDA",43
+5953050,"Fraser-Fort George G, RDA",49.2
+5953801,"Fort George (Shelley) 2, IRI",35.7
+5953802,"McLeod Lake 1, IRI",41.6
+5955003,"Tumbler Ridge, DM",38.8
+5955005,"Pouce Coupe, VL",37.1
+5955010,"Chetwynd, DM",34.9
+5955014,"Dawson Creek, CY",37.2
+5955021,"Peace River D, RDA",40.4
+5955023,"Peace River E, RDA",40.5
+5955025,"Hudson's Hope, DM",43
+5955030,"Taylor, DM",33
+5955034,"Fort St. John, CY",33.4
+5955040,"Peace River B, RDA",32.3
+5955042,"Peace River C, RDA",37.5
+5955801,"East Moberly Lake 169, IRI",32.4
+5955802,"West Moberly Lake 168A, IRI",28.1
+5955803,"Blueberry River 205, IRI",31.6
+5955804,"Doig River 206, IRI",38.2
+5955807,"Fort Ware 1, IRI",30.4
+5955808,"Halfway River 168, IRI",31.9
+5955812,"Ingenika Point, S-É",33.1
+5957022,"Stikine Region, RDA",46.3
+5957803,"Five Mile Point 3, IRI",38.5
+5957813,"Lower Post, S-É",41.2
+5957814,"Liard River 3, IRI",36.5
+5959007,"Northern Rockies, RGM",35.7
+5959806,"Fort Nelson 2, IRI",35.7
+5959810,"Prophet River 4, IRI",36.2
+6001003,"Watson Lake, T",41.4
+6001004,"Faro, T",43.2
+6001006,"Teslin, VL",39.8
+6001007,"Teslin Post 13, SG",42.2
+6001009,"Whitehorse, CY",37.9
+6001012,"Carmacks, VL",36.6
+6001018,"Haines Junction, VL",40
+6001022,"Mayo, VL",41.2
+6001029,"Dawson, T",39.5
+6001032,"Upper Liard, SÉ",42.1
+6001035,"Two Mile and Two and One-Half Mile Village, S-É",36.7
+6001036,"Tagish, SÉ",54.6
+6001037,"Ross River, SÉ",38.4
+6001039,"Burwash Landing, SÉ",47.3
+6001041,"Pelly Crossing, SÉ",37
+6001042,"Beaver Creek, SÉ",40.3
+6001043,"Old Crow, SÉ",39.6
+6001044,"Mt. Lorne, HAM",41.6
+6001045,"Yukon, Unorganized, NO",44.2
+6001048,"Carcross, SÉ",43.4
+6001049,"Destruction Bay, SÉ",45.6
+6001055,"Ibex Valley, HAM",40.4
+6001058,"Marsh Lake, NO",47.5
+6001059,"Macpherson-Grizzly Valley, NO",41.7
+6001060,"Whitehorse, Unorganized, NO",43.2
+6101010,"Tsiigehtchic, CC",30.2
+6101014,"Paulatuk, HAM",34.7
+6101015,"Fort McPherson, HAM",36.9
+6101017,"Inuvik, T",33.4
+6101025,"Aklavik, HAM",34.9
+6101036,"Tuktoyaktuk, HAM",31.9
+6101041,"Sachs Harbour, HAM",35.1
+6101095,"Ulukhaktok, HAM",32.3
+6102003,"Déline, CC",34.6
+6102005,"Tulita, HAM",34.4
+6102007,"Norman Wells, T",34
+6102009,"Fort Good Hope, CC",34.4
+6102012,"Colville Lake, SET",32.2
+6103031,"Behchokò, CG",30
+6103034,"Whatì, CG",32
+6103049,"Gamètì, CG",32.5
+6103052,"Wekweètì, CG",29.8
+6104006,"Sambaa K'e, SET",35.6
+6104009,"Fort Liard, HAM",34.9
+6104010,"Nahanni Butte, SET",38.7
+6104013,"Jean Marie River, SET",40.4
+6104014,"Fort Providence, HAM",39
+6104017,"Hay River Dene 1, IRI",33.3
+6104038,"Fort Simpson, VL",37.8
+6104044,"Wrigley, SET",36.6
+6104097,"Region 4, Unorganized, NO",40.4
+6105001,"Fort Smith, T",36.4
+6105003,"Enterprise, HAM",40.4
+6105016,"Hay River, T",38.2
+6105018,"Fort Resolution, HAM",37.2
+6105020,"Lutselk'e, SET",35.4
+6106021,"Detah, SET",37.1
+6106023,"Yellowknife, CY",34.6
+6106097,"Region 6, Unorganized, NO",45.5
+6204001,"Sanikiluaq, HAM",26.1
+6204003,"Iqaluit, CY",31.1
+6204005,"Kimmirut, HAM",28.3
+6204007,"Cape Dorset, HAM",26.6
+6204009,"Pangnirtung, HAM",27.9
+6204010,"Qikiqtarjuaq, HAM",27.9
+6204011,"Hall Beach, HAM",23.9
+6204012,"Igloolik, HAM",24.5
+6204015,"Clyde River, HAM",25.6
+6204018,"Arctic Bay, HAM",25.2
+6204020,"Pond Inlet, HAM",26.1
+6204022,"Resolute, HAM",27.8
+6204025,"Grise Fiord, HAM",30.9
+6204030,"Baffin, Unorganized, NO",26.9
+6205014,"Coral Harbour, HAM",25
+6205015,"Arviat, HAM",25.3
+6205016,"Whale Cove, HAM",26.5
+6205017,"Rankin Inlet, HAM",28.8
+6205019,"Chesterfield Inlet, HAM",27.1
+6205023,"Baker Lake, HAM",28.2
+6205027,"Naujaat, HAM",23.3
+6208047,"Kugaaruk, HAM",24
+6208059,"Kugluktuk, HAM",29.4
+6208073,"Cambridge Bay, HAM",31.2
+6208081,"Gjoa Haven, HAM",26.2
+6208087,"Taloyoak, HAM",25.4
