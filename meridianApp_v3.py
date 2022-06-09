@@ -12,6 +12,10 @@ from urllib.request import urlopen
 import json
 import numpy as np
 from traceHelpers import *
+import base64
+
+logo = 'meridianLogo.png'
+logo_base64 = base64.b64encode(open(logo, 'rb').read()).decode('ascii')
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -153,11 +157,11 @@ standardDataDict['Airports'] = dataLayer('scatter',
                            name='Airports')]
                        )
 
-standardDataDict['Air traffic'] = dataLayer('arcs',
-                                            [get_geo_arcs(airport_great_circles, 3, 'rgba(255,0,0,0.5)')])
+# standardDataDict['Air traffic'] = dataLayer('arcs',
+#                                             [get_geo_arcs(airport_great_circles, 3, 'rgba(255,0,0,0.5)')])
 
 
-standardDataDict['Air traffic 2'] = dataLayer('arcs', get_geo_arc_arrows(airport_great_circles))
+standardDataDict['Air traffic'] = dataLayer('arcs', get_geo_arc_arrows(airport_great_circles))
 
 # standardDataDict['Unemp'] = dataLayer('choropleth',
 #                         go.Choroplethmapbox(geojson=counties,
@@ -234,6 +238,9 @@ app.layout = html.Div([
                     dcc.Graph(id='basemap-container', figure=fig),
                     style={'width': '84%', 'display': 'inline-block', 'verticalAlign': 'top'}
                 ),
+                html.Div([
+                    html.Img(src='data:image/png;base64,{}'.format(logo_base64))
+                ]),
 ])
 
 def parseCSV(fileContents, fileName):
