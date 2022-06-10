@@ -106,7 +106,7 @@ def make_geo_arrow_mercator(p1, p2, width, width_scale=100000, lateral_offset=10
 
 
 
-def get_geo_arc_arrows(df):
+def get_geo_arc_arrows(df, render='mapbox'):
 
   gos = []
 
@@ -138,18 +138,34 @@ def get_geo_arc_arrows(df):
     #plot arc
     lon, lat = make_geo_arrow_mercator((lon1,lat1), (lon2,lat2), s/100, lateral_offset=0)
 
-    gos.append(go.Scattermapbox(lon = lon,
-                                lat = lat,
-                                mode = 'lines',
-                                line = dict(width = 0, color = 'green'),
-                                fill = 'toself'))
+    if render == 'mapbox':
+        gos.append(go.Scattermapbox(lon = lon,
+                                    lat = lat,
+                                    mode = 'lines',
+                                    line = dict(width = 0, color = 'green'),
+                                    fill = 'toself'))
 
-  #plot points and labels
-  gos.append(go.Scattermapbox(
-    lon = loc_lons,
-    lat = loc_lats,
-    text = loc_names,
-    textposition = 'top center',
-    mode = 'markers+text'))
+        #plot points and labels
+        gos.append(go.Scattermapbox(
+            lon = loc_lons,
+            lat = loc_lats,
+            text = loc_names,
+            textposition = 'top center',
+            mode = 'markers+text'))
+
+    if render == 'geo':
+        gos.append(go.Scattergeo(lon = lon,
+                                    lat = lat,
+                                    mode = 'lines',
+                                    line = dict(width = 0, color = 'green'),
+                                    fill = 'toself'))
+
+        #plot points and labels
+        gos.append(go.Scattergeo(
+            lon = loc_lons,
+            lat = loc_lats,
+            text = loc_names,
+            textposition = 'top center',
+            mode = 'markers+text'))
 
   return gos
