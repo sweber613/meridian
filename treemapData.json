@@ -1,0 +1,407 @@
+[
+    {
+        "parent": "Ammo",
+        "id": "Disposal",
+        "value": 66991000
+    },
+    {
+        "parent": "Ammo",
+        "id": "ISS - Repair & Overhaul",
+        "value": 12312754
+    },
+    {
+        "parent": "Ammo",
+        "id": "ISS - Spares",
+        "value": 1171497990
+    },
+    {
+        "parent": "Ammo",
+        "id": "Management",
+        "value": 458062868
+    },
+    {
+        "parent": "Ammo",
+        "id": "Obsolescence",
+        "value": 96475000
+    },
+    {
+        "parent": "Combat",
+        "id": "Betterment (C523 only)",
+        "value": 76246000
+    },
+    {
+        "parent": "Combat",
+        "id": "Disposal",
+        "value": 1702000
+    },
+    {
+        "parent": "Combat",
+        "id": "ISS - 3rd & 4th Level Maintenance",
+        "value": 81983867
+    },
+    {
+        "parent": "Combat",
+        "id": "ISS - Contract",
+        "value": 202041239
+    },
+    {
+        "parent": "Combat",
+        "id": "ISS - Engineering Support",
+        "value": 106530065
+    },
+    {
+        "parent": "Combat",
+        "id": "ISS - Repair & Overhaul",
+        "value": 289356709
+    },
+    {
+        "parent": "Combat",
+        "id": "ISS - Spares",
+        "value": 291519033
+    },
+    {
+        "parent": "Combat",
+        "id": "Item procurement",
+        "value": 86213488
+    },
+    {
+        "parent": "Combat",
+        "id": "Management",
+        "value": 73791859
+    },
+    {
+        "parent": "Combat",
+        "id": "Obsolescence",
+        "value": 45700000
+    },
+    {
+        "parent": "Deployment",
+        "id": "Betterment (C523 only)",
+        "value": 2850000
+    },
+    {
+        "parent": "Deployment",
+        "id": "ISS - 3rd & 4th Level Maintenance",
+        "value": 45901291
+    },
+    {
+        "parent": "Deployment",
+        "id": "ISS - Contract",
+        "value": 200000
+    },
+    {
+        "parent": "Deployment",
+        "id": "ISS - Engineering Support",
+        "value": 14253592
+    },
+    {
+        "parent": "Deployment",
+        "id": "ISS - Repair & Overhaul",
+        "value": 32237552
+    },
+    {
+        "parent": "Deployment",
+        "id": "ISS - Spares",
+        "value": 169367071
+    },
+    {
+        "parent": "Deployment",
+        "id": "Item procurement",
+        "value": 57522000
+    },
+    {
+        "parent": "Deployment",
+        "id": "Management",
+        "value": 1035000
+    },
+    {
+        "parent": "Deployment",
+        "id": "Obsolescence",
+        "value": 3000000
+    },
+    {
+        "parent": "Digital",
+        "id": "ISS - Engineering Support",
+        "value": 602513522
+    },
+    {
+        "parent": "Digital",
+        "id": "Item procurement",
+        "value": 351025092
+    },
+    {
+        "parent": "Digital",
+        "id": "Management",
+        "value": 275482626
+    },
+    {
+        "parent": "Digital",
+        "id": "Obsolescence",
+        "value": 46740113
+    },
+    {
+        "parent": "ISTAR",
+        "id": "Betterment (C523 only)",
+        "value": 10800000
+    },
+    {
+        "parent": "ISTAR",
+        "id": "ISS - Contract",
+        "value": 32760000
+    },
+    {
+        "parent": "ISTAR",
+        "id": "ISS - Engineering Support",
+        "value": 37025699
+    },
+    {
+        "parent": "ISTAR",
+        "id": "ISS - Repair & Overhaul",
+        "value": 51257000
+    },
+    {
+        "parent": "ISTAR",
+        "id": "ISS - Spares",
+        "value": 82615500
+    },
+    {
+        "parent": "ISTAR",
+        "id": "Item procurement",
+        "value": 46366400
+    },
+    {
+        "parent": "ISTAR",
+        "id": "Management",
+        "value": 149568128
+    },
+    {
+        "parent": "ISTAR",
+        "id": "Obsolescence",
+        "value": 41220080
+    },
+    {
+        "parent": "SOF",
+        "id": "Betterment (C523 only)",
+        "value": 2185000
+    },
+    {
+        "parent": "SOF",
+        "id": "ISS - 1st & 2nd Second Level Maintenance",
+        "value": 200000
+    },
+    {
+        "parent": "SOF",
+        "id": "ISS - Spares",
+        "value": 2360000
+    },
+    {
+        "parent": "SOF",
+        "id": "Item procurement",
+        "value": 265000
+    },
+    {
+        "parent": "SOF",
+        "id": "Obsolescence",
+        "value": 1000000
+    },
+    {
+        "parent": "SOF",
+        "id": "SOF",
+        "value": 535846832
+    },
+    {
+        "parent": "Service",
+        "id": "Betterment (C523 only)",
+        "value": 16360000
+    },
+    {
+        "parent": "Service",
+        "id": "Disposal",
+        "value": 100000
+    },
+    {
+        "parent": "Service",
+        "id": "ISS - 1st & 2nd Second Level Maintenance",
+        "value": 704960
+    },
+    {
+        "parent": "Service",
+        "id": "ISS - 3rd & 4th Level Maintenance",
+        "value": 10000000
+    },
+    {
+        "parent": "Service",
+        "id": "ISS - Contract",
+        "value": 128759810
+    },
+    {
+        "parent": "Service",
+        "id": "ISS - Engineering Support",
+        "value": 127142522
+    },
+    {
+        "parent": "Service",
+        "id": "ISS - Repair & Overhaul",
+        "value": 7114630
+    },
+    {
+        "parent": "Service",
+        "id": "ISS - Spares",
+        "value": 909000
+    },
+    {
+        "parent": "Service",
+        "id": "Item procurement",
+        "value": 29135000
+    },
+    {
+        "parent": "Service",
+        "id": "Management",
+        "value": 81699743
+    },
+    {
+        "parent": "Service",
+        "id": "Obsolescence",
+        "value": 120000
+    },
+    {
+        "parent": "Soldier",
+        "id": "Betterment (C523 only)",
+        "value": 32428973
+    },
+    {
+        "parent": "Soldier",
+        "id": "Disposal",
+        "value": 104273
+    },
+    {
+        "parent": "Soldier",
+        "id": "ISS - Contract",
+        "value": 306214615
+    },
+    {
+        "parent": "Soldier",
+        "id": "ISS - Engineering Support",
+        "value": 10849582
+    },
+    {
+        "parent": "Soldier",
+        "id": "ISS - Repair & Overhaul",
+        "value": 14587270
+    },
+    {
+        "parent": "Soldier",
+        "id": "ISS - Spares",
+        "value": 1103975300
+    },
+    {
+        "parent": "Soldier",
+        "id": "Item procurement",
+        "value": 295229863
+    },
+    {
+        "parent": "Soldier",
+        "id": "Management",
+        "value": 22761673
+    },
+    {
+        "parent": "Soldier",
+        "id": "Obsolescence",
+        "value": 117688000
+    },
+    {
+        "parent": "Support",
+        "id": "Betterment (C523 only)",
+        "value": 3000000
+    },
+    {
+        "parent": "Support",
+        "id": "Disposal",
+        "value": 6450000
+    },
+    {
+        "parent": "Support",
+        "id": "ISS - 1st & 2nd Second Level Maintenance",
+        "value": 26300000
+    },
+    {
+        "parent": "Support",
+        "id": "ISS - 3rd & 4th Level Maintenance",
+        "value": 23150000
+    },
+    {
+        "parent": "Support",
+        "id": "ISS - Contract",
+        "value": 9300000
+    },
+    {
+        "parent": "Support",
+        "id": "ISS - Engineering Support",
+        "value": 11438196
+    },
+    {
+        "parent": "Support",
+        "id": "ISS - Repair & Overhaul",
+        "value": 47200000
+    },
+    {
+        "parent": "Support",
+        "id": "ISS - Spares",
+        "value": 200795000
+    },
+    {
+        "parent": "Support",
+        "id": "Item procurement",
+        "value": 1500000
+    },
+    {
+        "parent": "Support",
+        "id": "Management",
+        "value": 92375095
+    },
+    {
+        "parent": "Support",
+        "id": "Obsolescence",
+        "value": 4450000
+    },
+    {
+        "parent": "LEPM",
+        "id": "Ammo"
+    },
+    {
+        "parent": "LEPM",
+        "id": "Combat"
+    },
+    {
+        "parent": "LEPM",
+        "id": "Deployment"
+    },
+    {
+        "parent": "LEPM",
+        "id": "Digital"
+    },
+    {
+        "parent": "LEPM",
+        "id": "ISTAR"
+    },
+    {
+        "parent": "LEPM",
+        "id": "SOF"
+    },
+    {
+        "parent": "LEPM",
+        "id": "Service"
+    },
+    {
+        "parent": "LEPM",
+        "id": "Soldier"
+    },
+    {
+        "parent": "LEPM",
+        "id": "Support"
+    },
+    {
+        "parent": null,
+        "id": "LEPM"
+    }
+]
